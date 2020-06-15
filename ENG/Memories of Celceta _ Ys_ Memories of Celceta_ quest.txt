@@ -1,0 +1,1568 @@
+<<POS_57_4>><<START>>
+Mucho<<END_STR>>
+<<POS_57_5>>
+1000G<<END_STR>>
+<<POS_57_6>>
+To Milk a Fabros<<END_STR>>
+<<POS_57_7>>
+To Milk a Fabros<<END_STR>>
+<<POS_58_1>><<START>>
+You there! Yes, you, reading this notice!<<END_STR>>
+<<POS_59_1>>
+Do you have what it takes to help me make a<<END_STR>>
+<<POS_60_1>>
+super special drink?<<END_STR>>
+<<POS_62_1>>
+For more details, talk to me at the bar counter.<<END_STR>>
+<<POS_63_1>>
+#911c[Urgent]#000c                - Bar Owner, Mucho<<END_STR>>
+<<POS_65_2>><<START>>
+★Was asked by Mucho to milk a Fabros.<<END_STR>>
+<<POS_66_2>>
+★Female Fabroses are extremely cautious beasts, and<<END_STR>>
+<<POS_67_2>>
+will run away if they notice us.<<END_STR>>
+<<POS_68_2>><<START>>
+★The female Fabros noticed us and ran away.<<END_STR>>
+<<POS_69_2>>
+We'll have to be a little sneakier next time.<<END_STR>>
+<<POS_70_2>><<START>>
+★Successfully obtained some Fabros Milk. Now I need<<END_STR>>
+<<POS_71_2>>
+to give it to Mucho.<<END_STR>>
+<<POS_72_2>><<START>>
+★Gave the Fabros Milk to Mucho, and was treated to<<END_STR>>
+<<POS_73_2>>
+a special milkshake made from it.<<END_STR>>
+<<POS_74_2>>
+★Its taste was...unique. The important thing,<<END_STR>>
+<<POS_75_2>>
+though, is that I completed the quest successfully.<<END_STR>>
+<<END>>
+<<POS_79_4>><<START>>
+Soldier Wallace<<END_STR>>
+<<POS_79_5>>
+Bitter Potion x3<<END_STR>>
+<<POS_79_6>>
+Honey Potions<<END_STR>>
+<<POS_79_7>>
+Honey Potions<<END_STR>>
+<<POS_80_1>><<START>>
+I want someone to run a small errand for me.<<END_STR>>
+<<POS_81_1>>
+Let me know if you're interested.<<END_STR>>
+<<POS_83_1>>
+I'm usually in the Celcetan General Government <<END_STR>>
+<<POS_84_1>>
+Building cafeteria during the day.<<END_STR>>
+<<POS_85_1>>
+#911c[Urgent]#000c            - Wallace, the Soldier<<END_STR>>
+<<POS_87_2>><<START>>
+★Heard an outline of the quest from Wallace.<<END_STR>>
+<<POS_88_2>>
+He asked for three Honey Potions, giving me 120<<END_STR>>
+<<POS_89_2>>
+Brittle Bones to use as payment for them.<<END_STR>>
+<<POS_90_2>><<START>>
+★Delivered the three Honey Potions to Wallace,<<END_STR>>
+<<POS_91_2>>
+fulfilling his request!<<END_STR>>
+<<END>>
+<<POS_95_4>><<START>>
+Goldsmith<<END_STR>>
+<<POS_95_5>>
+5000G<<END_STR>>
+<<POS_95_6>>
+Purchasing Iron Ore<<END_STR>>
+<<POS_95_7>>
+Purchasing Iron Ore<<END_STR>>
+<<POS_96_1>><<START>>
+I wish to purchase twenty chunks of Iron Ore.<<END_STR>>
+<<POS_98_1>>
+If interested, please see me at the trading post.<<END_STR>>
+<<POS_101_1>>
+- Goldsmith, Goldsmith Trading Company<<END_STR>>
+<<POS_103_2>><<START>>
+★Pushed my luck a bit too hard with the trade<<END_STR>>
+<<POS_104_2>>
+price and lost Goldsmith's business...<<END_STR>>
+<<POS_105_2>><<START>>
+★Successfully sold the Iron Ore!<<END_STR>>
+<<POS_106_2>><<START>>
+★Successfully haggled with Goldsmith, selling the<<END_STR>>
+<<POS_107_2>>
+Iron Ore for a higher price!<<END_STR>>
+<<POS_108_2>><<START>>
+★Successfully haggled with Goldsmith, selling the<<END_STR>>
+<<POS_109_2>>
+Iron Ore for a much higher price! Perhaps I have<<END_STR>>
+<<POS_110_2>>
+potential as a merchant?<<END_STR>>
+<<END>>
+<<POS_114_4>><<START>>
+Luluca<<END_STR>>
+<<POS_114_5>>
+2000G<<END_STR>>
+<<POS_114_6>>
+Bear on the Plains<<END_STR>>
+<<POS_114_7>>
+Bear on the Plains<<END_STR>>
+<<POS_115_1>><<START>>
+A ferocious beast known as a Langritz has been<<END_STR>>
+<<POS_116_1>>
+sighted on the plains right by the Great Forest.<<END_STR>>
+<<POS_118_1>>
+Would a skilled warrior be willing to defeat it?<<END_STR>>
+<<POS_120_1>>
+- Luluca, the Waitress<<END_STR>>
+<<POS_122_2>><<START>>
+★Defeated Langritz! I need to inform the client.<<END_STR>>
+<<POS_123_2>><<START>>
+★Gave my report to Luluca and received the reward<<END_STR>>
+<<POS_124_2>>
+money.<<END_STR>>
+<<END>>
+<<POS_128_4>><<START>>
+Evan and Lyle<<END_STR>>
+<<POS_128_5>>
+Treasure<<END_STR>>
+<<POS_128_6>>
+Challenge!<<END_STR>>
+<<POS_128_7>>
+Challenge!<<END_STR>>
+<<POS_129_1>><<START>>
+Looking for someone who's been to the Great Forest.<<END_STR>>
+<<POS_130_1>>
+Don't care who. If you're up for a challenge, talk<<END_STR>>
+<<POS_131_1>>
+to us at the town square!<<END_STR>>
+<<POS_132_1>>
+<<END_STR>>
+<<POS_133_1>>
+<<END_STR>>
+<<POS_134_1>>
+#911c[Urgent]#000c                   - Evan and Lyle<<END_STR>>
+<<POS_136_2>><<START>>
+★Accepted Evan and Lyle's challenge and wound up<<END_STR>>
+<<POS_137_2>>
+taking part in a treasure hunt. If I talk to Lyle,<<END_STR>>
+<<POS_138_2>>
+he'll give me hints.<<END_STR>>
+<<POS_139_2>><<START>>
+★Found gold ore in the bar!<<END_STR>>
+<<POS_140_2>><<START>>
+★Found gold ore in the mine chief's house!<<END_STR>>
+<<POS_141_2>><<START>>
+★Found gold ore in a stable!<<END_STR>>
+<<POS_142_2>><<START>>
+★Found gold ore in the back alley!<<END_STR>>
+<<POS_143_2>><<START>>
+★Found gold ore in a tent in front of the<<END_STR>>
+<<POS_144_2>>
+General Government Building.<<END_STR>>
+<<POS_145_2>><<START>>
+★Unfortunately for the children, I had to give up.<<END_STR>>
+<<POS_146_2>>
+I feel bad that I couldn't meet their expectations.<<END_STR>>
+<<POS_147_2>><<START>>
+★Found all five hidden stashes of gold ore. I was<<END_STR>>
+<<POS_148_2>>
+able to impress some children today! Feels good...<<END_STR>>
+<<END>>
+<<POS_152_4>><<START>>
+Head Miner Wagner<<END_STR>>
+<<POS_152_5>>
+Depends on Results<<END_STR>>
+<<POS_152_6>>
+Miners Wanted<<END_STR>>
+<<POS_152_7>>
+Miners Wanted<<END_STR>>
+<<POS_153_1>><<START>>
+Down at the mine, we're as busy as usual and could<<END_STR>>
+<<POS_154_1>>
+really use a hand. I'm looking for a temporary miner<<END_STR>>
+<<POS_155_1>>
+who'd be willing to help and can work hard for a<<END_STR>>
+<<POS_156_1>>
+short period of time. Speak to me at the mine if<<END_STR>>
+<<POS_157_1>>
+you're interested.<<END_STR>>
+<<POS_158_1>>
+#911c[Urgent]#000c               - Head Miner Wagner<<END_STR>>
+<<POS_160_2>><<START>>
+★Agreed to help at the mine, but wasn't able to dig<<END_STR>>
+<<POS_161_2>>
+a single piece of ore. I have brought shame upon my<<END_STR>>
+<<POS_162_2>>
+good name, and upon all the miners of Celceta!<<END_STR>>
+<<POS_163_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_164_2>>
+ten pieces of gold ore! Even received a bonus for<<END_STR>>
+<<POS_165_2>>
+the excellent work.<<END_STR>>
+<<POS_166_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_167_2>>
+nine pieces of gold ore! It seems that was plenty<<END_STR>>
+<<POS_168_2>>
+for Wagner.<<END_STR>>
+<<POS_169_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_170_2>>
+eight pieces of gold ore! It seems that was plenty<<END_STR>>
+<<POS_171_2>>
+for Wagner.<<END_STR>>
+<<POS_172_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_173_2>>
+seven pieces of gold ore! It seems that was plenty<<END_STR>>
+<<POS_174_2>>
+for Wagner.<<END_STR>>
+<<POS_175_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_176_2>>
+six pieces of gold ore! Wagner said that was good<<END_STR>>
+<<POS_177_2>>
+enough for a non-miner like myself.<<END_STR>>
+<<POS_178_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_179_2>>
+five pieces of gold ore! Wagner said that was good<<END_STR>>
+<<POS_180_2>>
+enough for a non-miner like myself.<<END_STR>>
+<<POS_181_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_182_2>>
+four pieces of gold ore! Wagner said that was good<<END_STR>>
+<<POS_183_2>>
+enough for a non-miner like myself.<<END_STR>>
+<<POS_184_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_185_2>>
+three pieces of gold ore. Wagner wasn't very pleased<<END_STR>>
+<<POS_186_2>>
+with this.<<END_STR>>
+<<POS_187_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_188_2>>
+two pieces of gold ore. Wagner wasn't very pleased<<END_STR>>
+<<POS_189_2>>
+with this.<<END_STR>>
+<<POS_190_2>><<START>>
+★Agreed to help at the mine, and managed to dig out<<END_STR>>
+<<POS_191_2>>
+only one piece of gold ore. Wagner said I did well,<<END_STR>>
+<<POS_192_2>>
+but I could tell he was just placating me. I suck!<<END_STR>>
+<<END>>
+<<POS_196_4>><<START>>
+Lucir<<END_STR>>
+<<POS_196_5>>
+10000G<<END_STR>>
+<<POS_196_6>>
+Hungover Pikkard<<END_STR>>
+<<POS_196_7>>
+Hungover Pikkard<<END_STR>>
+<<POS_197_1>><<START>>
+I'm looking for medicine that will cure a <<END_STR>>
+<<POS_198_1>>
+pikkard's hangover. If anyone knows of anything<<END_STR>>
+<<POS_199_1>>
+that might work, would you be willing to spare<<END_STR>>
+<<POS_200_1>>
+some? I'll be in the alley near the Trading Post.<<END_STR>>
+<<POS_201_1>>
+Thanks!<<END_STR>>
+<<POS_202_1>>
+- Lucir, the Helpful<<END_STR>>
+<<POS_204_2>><<START>>
+★Handed Lucir the medicine and received my reward.<<END_STR>>
+<<POS_205_2>>
+As for the pikkard, his long withdrawal begins...<<END_STR>>
+<<END>>
+<<POS_209_4>><<START>>
+Mucho<<END_STR>>
+<<POS_209_5>>
+20000G<<END_STR>>
+<<POS_209_6>>
+The Ultimate Purifier<<END_STR>>
+<<POS_209_7>>
+The Ultimate Purifier<<END_STR>>
+<<POS_210_1>><<START>>
+I have an important matter to discuss with one well<<END_STR>>
+<<POS_211_1>>
+versed in the Great Forest's many mysteries-- you,<<END_STR>>
+<<POS_212_1>>
+in other words. I would love for you to obtain a<<END_STR>>
+<<POS_213_1>>
+legendary material for me. Please see me at the bar<<END_STR>>
+<<POS_214_1>>
+counter for further information.<<END_STR>>
+<<POS_215_1>>
+- Mucho, Bar Owner<<END_STR>>
+<<POS_217_2>><<START>>
+★Was asked by Mucho to bring him a Roda Leaf.<<END_STR>>
+<<POS_218_2>><<START>>
+★Delivered the Roda Leaf to Mucho, who used it<<END_STR>>
+<<POS_219_2>>
+to make a new drink. Slightly hesitantly, I drank<<END_STR>>
+<<POS_220_2>>
+it, and it turned out to be indescribably delicious!<<END_STR>>
+<<POS_221_2>>
+★Unfortunately, Mucho forgot to write down the<<END_STR>>
+<<POS_222_2>>
+recipe, and fears he won't be able to make it again.<<END_STR>>
+<<POS_223_2>>
+Regardless, I completed the quest!<<END_STR>>
+<<POS_224_2>><<START>>
+★Delivered the Roda Leaf to Mucho, who used it<<END_STR>>
+<<POS_225_2>>
+to make a new drink. Duren drank it down and said<<END_STR>>
+<<POS_226_2>>
+it was absolutely delicious!<<END_STR>>
+<<POS_227_2>>
+★Unfortunately, Mucho forgot to write down the<<END_STR>>
+<<POS_228_2>>
+recipe, and fears he won't be able to make it again.<<END_STR>>
+<<POS_229_2>>
+Regardless, I completed the quest!<<END_STR>>
+<<POS_230_2>><<START>>
+★Delivered the Roda Leaf to Mucho, who used it<<END_STR>>
+<<POS_231_2>>
+to make a new drink. Karna drank it down and said<<END_STR>>
+<<POS_232_2>>
+it was absolutely delicious!<<END_STR>>
+<<POS_233_2>>
+★Unfortunately, Mucho forgot to write down the<<END_STR>>
+<<POS_234_2>>
+recipe, and fears he won't be able to make it again.<<END_STR>>
+<<POS_235_2>>
+Regardless, I completed the quest!<<END_STR>>
+<<POS_236_2>><<START>>
+★Delivered the Roda Leaf to Mucho, who used it<<END_STR>>
+<<POS_237_2>>
+to make a new drink. Ozma drank it down and said<<END_STR>>
+<<POS_238_2>>
+it was absolutely delicious!<<END_STR>>
+<<POS_239_2>>
+★Unfortunately, Mucho forgot to write down the<<END_STR>>
+<<POS_240_2>>
+recipe, and fears he won't be able to make it again.<<END_STR>>
+<<POS_241_2>>
+Regardless, I completed the quest!<<END_STR>>
+<<POS_242_2>><<START>>
+★Delivered the Roda Leaf to Mucho, who used it<<END_STR>>
+<<POS_243_2>>
+to make a new drink. Calilica drank it down and said<<END_STR>>
+<<POS_244_2>>
+it was absolutely delicious!<<END_STR>>
+<<POS_245_2>>
+★Unfortunately, Mucho forgot to write down the<<END_STR>>
+<<POS_246_2>>
+recipe, and fears he won't be able to make it again.<<END_STR>>
+<<POS_247_2>>
+Regardless, I completed the quest!<<END_STR>>
+<<POS_248_2>><<START>>
+★Delivered the Roda Leaf to Mucho, who used it<<END_STR>>
+<<POS_249_2>>
+to make a new drink. Frieda drank it down and said<<END_STR>>
+<<POS_250_2>>
+it was absolutely delicious!<<END_STR>>
+<<POS_251_2>>
+★Unfortunately, Mucho forgot to write down the<<END_STR>>
+<<POS_252_2>>
+recipe, and fears he won't be able to make it again.<<END_STR>>
+<<POS_253_2>>
+Regardless, I completed the quest!<<END_STR>>
+<<END>>
+<<POS_257_4>><<START>>
+Luluca<<END_STR>>
+<<POS_257_5>>
+25000G<<END_STR>>
+<<POS_257_6>>
+Fruit Bat in the Dark<<END_STR>>
+<<POS_257_7>>
+Fruit Bat in the Dark<<END_STR>>
+<<POS_258_1>><<START>>
+I have received reports that a ferocious giant beast<<END_STR>>
+<<POS_259_1>>
+called 'Olrabadi' has been sighted in the depths of<<END_STR>>
+<<POS_260_1>>
+Casnia Mine. Would a skilled warrior be so kind as<<END_STR>>
+<<POS_261_1>>
+to go defeat it?<<END_STR>>
+<<POS_262_1>>
+<<END_STR>>
+<<POS_263_1>>
+- Luluca, the Waitress<<END_STR>>
+<<POS_265_2>><<START>>
+★Defeated Olrabadi! I should report to the client.<<END_STR>>
+<<POS_266_2>><<START>>
+★Reported to Luluca and received my reward.<<END_STR>>
+<<END>>
+<<POS_274_4>><<START>>
+Lindsay<<END_STR>>
+<<POS_274_5>>
+2000G<<END_STR>>
+<<POS_274_6>>
+Sword Training<<END_STR>>
+<<POS_274_7>>
+Sword Training<<END_STR>>
+<<POS_275_1>><<START>>
+Would someone please teach me how to use a sword?<<END_STR>>
+<<POS_276_1>>
+<<END_STR>>
+<<POS_277_1>>
+I'll be waiting on the top level of the village.<<END_STR>>
+<<POS_278_1>>
+<<END_STR>>
+<<POS_279_1>>
+<<END_STR>>
+<<POS_280_1>>
+#911c[Urgent]#000c                         - Lindsay<<END_STR>>
+<<POS_282_2>><<START>>
+★Ended up dueling Duren, and somehow managed to<<END_STR>>
+<<POS_283_2>>
+emerge victorious.<<END_STR>>
+<<POS_284_2>>
+★After that, I taught Lindsay how to use a sword<<END_STR>>
+<<POS_285_2>>
+and completed the quest successfully. Received<<END_STR>>
+<<POS_286_2>>
+rewards from both Lindsay and Marcella.<<END_STR>>
+<<POS_287_2>><<START>>
+★Ended up dueling Duren, but was defeated...<<END_STR>>
+<<POS_288_2>>
+★After that, I taught Lindsay how to use a sword<<END_STR>>
+<<POS_289_2>>
+and completed the quest successfully.<<END_STR>>
+<<END>>
+<<POS_293_4>><<START>>
+Edea<<END_STR>>
+<<POS_293_5>>
+2500G<<END_STR>>
+<<POS_293_6>>
+A Fresh Meal<<END_STR>>
+<<POS_293_7>>
+A Fresh Meal<<END_STR>>
+<<POS_294_1>><<START>>
+I would like ten fresh leaves to feed to my deer.<<END_STR>>
+<<POS_295_1>>
+<<END_STR>>
+<<POS_296_1>>
+I will be waiting outside, right by my dear deer upon<<END_STR>>
+<<POS_297_1>>
+whom I dare to dote dearly.<<END_STR>>
+<<POS_298_1>>
+<<END_STR>>
+<<POS_299_1>>
+- Edea, the Deer Lover<<END_STR>>
+<<POS_301_2>><<START>>
+★I delivered the items to Edea and received the<<END_STR>>
+<<POS_302_2>>
+reward.<<END_STR>>
+<<END>>
+<<POS_306_4>><<START>>
+Agent Theresa<<END_STR>>
+<<POS_306_5>>
+3000G<<END_STR>>
+<<POS_306_6>>
+The Monkey King<<END_STR>>
+<<POS_306_7>>
+The Monkey King<<END_STR>>
+<<POS_307_1>><<START>>
+I have received reports that a dangerous giant beast<<END_STR>>
+<<POS_308_1>>
+called 'Golwonga' has begun prowling around the<<END_STR>>
+<<POS_309_1>>
+entrance to the woods southeast of Comodo.<<END_STR>>
+<<POS_310_1>>
+<<END_STR>>
+<<POS_311_1>>
+Its speedy defeat would be appreciated.<<END_STR>>
+<<POS_312_1>>
+- Agent Theresa, Community Center<<END_STR>>
+<<POS_314_2>><<START>>
+★Defeated Golwonga! I should inform the client.<<END_STR>>
+<<POS_315_2>><<START>>
+★Gave my report to Theresa and claimed the reward.<<END_STR>>
+<<END>>
+<<POS_319_4>><<START>>
+Artisan Saisen<<END_STR>>
+<<POS_319_5>>
+New Accessories<<END_STR>>
+<<POS_319_6>>
+Crafting Materials<<END_STR>>
+<<POS_319_7>>
+Crafting Materials<<END_STR>>
+<<POS_320_1>><<START>>
+Karna and friends,<<END_STR>>
+<<POS_321_1>>
+I'd like to ask you to find some new materials to<<END_STR>>
+<<POS_322_1>>
+use in my crafting. If you get a chance, come see<<END_STR>>
+<<POS_323_1>>
+me in my workshop.<<END_STR>>
+<<POS_324_1>>
+<<END_STR>>
+<<POS_325_1>>
+- Saisen, Saisen's Workshop<<END_STR>>
+<<POS_327_2>><<START>>
+★Accepted Saisen's quest and agreed to find three<<END_STR>>
+<<POS_328_2>>
+'Indestructible Shells.' It seems they can be<<END_STR>>
+<<POS_329_2>>
+harvested from certain monsters near the river.<<END_STR>>
+<<POS_330_2>><<START>>
+★Delivered the materials to Saisen, completing the<<END_STR>>
+<<POS_331_2>>
+quest! He is now able to make a greater variety of<<END_STR>>
+<<POS_332_2>>
+accessories in his workshop.<<END_STR>>
+<<END>>
+<<POS_336_4>><<START>>
+Shaman Pippi<<END_STR>>
+<<POS_336_5>>
+Gold Ore x3<<END_STR>>
+<<POS_336_6>>
+The Runaway Chick<<END_STR>>
+<<POS_336_7>>
+The Runaway Chick<<END_STR>>
+<<POS_337_1>><<START>>
+My dear Sasami has run away from home.<<END_STR>>
+<<POS_338_1>>
+Would someone please help me find him?<<END_STR>>
+<<POS_339_1>>
+<<END_STR>>
+<<POS_340_1>>
+I'll explain everything to you in person, so please<<END_STR>>
+<<POS_341_1>>
+come to my house.<<END_STR>>
+<<POS_342_1>>
+- Pippi, the Shaman<<END_STR>>
+<<POS_344_2>><<START>>
+★Agreed to capture Sasami, one of the chickens<<END_STR>>
+<<POS_345_2>>
+being raised by Pippi.<<END_STR>>
+<<POS_346_2>>
+★She says he's likely to be in the village,<<END_STR>>
+<<POS_347_2>>
+somewhere outdoors, and the secret to capturing him<<END_STR>>
+<<POS_348_2>>
+is to approach him from behind.<<END_STR>>
+<<POS_349_2>><<START>>
+★Successfully captured Sasami, completing the quest!<<END_STR>>
+<<END>>
+<<POS_353_4>><<START>>
+Shaman Pippi<<END_STR>>
+<<POS_353_5>>
+Gold Ore x9<<END_STR>>
+<<POS_353_6>>
+The Naughty Chick<<END_STR>>
+<<POS_353_7>>
+The Naughty Chick<<END_STR>>
+<<POS_354_1>><<START>>
+My dear Teva has run away from home. <<END_STR>>
+<<POS_355_1>>
+Would someone please help me find him?<<END_STR>>
+<<POS_356_1>>
+<<END_STR>>
+<<POS_357_1>>
+I'll explain everything to you in person, so please<<END_STR>>
+<<POS_358_1>>
+come to my house. <<END_STR>>
+<<POS_359_1>>
+- Pippi, the Shaman<<END_STR>>
+<<POS_361_2>><<START>>
+★Yet another of Pippi's chickens has escaped, so<<END_STR>>
+<<POS_362_2>>
+I agreed to help find him. This time the escapee is <<END_STR>>
+<<POS_363_2>>
+a chick called Teva.<<END_STR>>
+<<POS_364_2>>
+★It seems he's likely to be in the village,<<END_STR>>
+<<POS_365_2>>
+somewhere outdoors, but also loves hiding in the<<END_STR>>
+<<POS_366_2>>
+shade. Again, the secret to capturing him is to <<END_STR>>
+<<POS_367_2>>
+approach him from behind.<<END_STR>>
+<<POS_368_2>><<START>>
+★Successfully captured Teva, completing the quest!<<END_STR>>
+<<END>>
+<<POS_372_4>><<START>>
+Artisan Saisen<<END_STR>>
+<<POS_372_5>>
+New Accessories<<END_STR>>
+<<POS_372_6>>
+Crafting Materials 2<<END_STR>>
+<<POS_372_7>>
+Crafting Materials 2<<END_STR>>
+<<POS_373_1>><<START>>
+Karna and friends,<<END_STR>>
+<<POS_374_1>>
+I'd like to ask you to find more materials for me.<<END_STR>>
+<<POS_375_1>>
+<<END_STR>>
+<<POS_376_1>>
+If you get the chance, come and see me in my<<END_STR>>
+<<POS_377_1>>
+workshop.<<END_STR>>
+<<POS_378_1>>
+- Saisen, Saisen's Workshop.<<END_STR>>
+<<POS_380_2>><<START>>
+★Accepted Saisen's quest and agreed to find three<<END_STR>>
+<<POS_381_2>>
+materials called 'Bizarre Hides.' Apparently they<<END_STR>>
+<<POS_382_2>>
+can only be found in the Primeval Lands...<<END_STR>>
+<<POS_383_2>><<START>>
+★Delivered the materials to Saisen, completing the<<END_STR>>
+<<POS_384_2>>
+quest! He is now able to make a greater variety of<<END_STR>>
+<<POS_385_2>>
+accessories in his workshop.<<END_STR>>
+<<END>>
+<<POS_389_4>><<START>>
+Artisan Saisen<<END_STR>>
+<<POS_389_5>>
+New Accessories<<END_STR>>
+<<POS_389_6>>
+Crafting Materials 3<<END_STR>>
+<<POS_389_7>>
+Crafting Materials 3<<END_STR>>
+<<POS_390_1>><<START>>
+Karna and friends,<<END_STR>>
+<<POS_391_1>>
+I'd like to ask you to find still more materials.<<END_STR>>
+<<POS_392_1>>
+<<END_STR>>
+<<POS_393_1>>
+If you get the chance, come and see me in my<<END_STR>>
+<<POS_394_1>>
+workshop. <<END_STR>>
+<<POS_395_1>>
+- Saisen, Saisen's Workshop<<END_STR>>
+<<POS_397_2>><<START>>
+★Accepted Saisen's quest and agreed to find three<<END_STR>>
+<<POS_398_2>>
+'Titanic Bones.' Apparently they can only be found<<END_STR>>
+<<POS_399_2>>
+in the Primeval Lands...<<END_STR>>
+<<POS_400_2>><<START>>
+★Delivered the materials to Saisen, completing the<<END_STR>>
+<<POS_401_2>>
+quest! He is now able to make a greater variety of<<END_STR>>
+<<POS_402_2>>
+accessories in his workshop.<<END_STR>>
+<<END>>
+<<POS_406_4>><<START>>
+Agent Theresa<<END_STR>>
+<<POS_406_5>>
+15000G<<END_STR>>
+<<POS_406_6>>
+The Tyrannical Frogs<<END_STR>>
+<<POS_406_7>>
+The Tyrannical Frogs<<END_STR>>
+<<POS_407_1>><<START>>
+Ribbi-Magi appear to have occupied the Waterfall<<END_STR>>
+<<POS_408_1>>
+Cave, which is full of natural resources.<<END_STR>>
+<<POS_409_1>>
+<<END_STR>>
+<<POS_410_1>>
+Please drive them away.<<END_STR>>
+<<POS_411_1>>
+<<END_STR>>
+<<POS_412_1>>
+- Agent Theresa, Village Assembly<<END_STR>>
+<<POS_414_2>><<START>>
+★Succeeded in driving away the Ribbi-Magi.<<END_STR>>
+<<POS_415_2>>
+I should report this to the client.<<END_STR>>
+<<POS_416_2>><<START>>
+★Reported back to Theresa and received my reward.<<END_STR>>
+<<END>>
+<<POS_420_4>><<START>>
+Shaman Pippi<<END_STR>>
+<<POS_420_5>>
+Gold Ore x18<<END_STR>>
+<<POS_420_6>>
+The Wandering Chick<<END_STR>>
+<<POS_420_7>>
+The Wandering Chick<<END_STR>>
+<<POS_421_1>><<START>>
+My dear Tsukune has run away from home. Would <<END_STR>>
+<<POS_422_1>>
+someone please help me find him?<<END_STR>>
+<<POS_423_1>>
+<<END_STR>>
+<<POS_424_1>>
+I'll explain everything to you in person, so please <<END_STR>>
+<<POS_425_1>>
+come to my house.<<END_STR>>
+<<POS_426_1>>
+- Pippi, the Shaman<<END_STR>>
+<<POS_428_2>><<START>>
+★Yet another of Pippi's chickens seems to have<<END_STR>>
+<<POS_429_2>>
+escaped. This time the escapee is a brown-colored<<END_STR>>
+<<POS_430_2>>
+chicken named Tsukune.<<END_STR>>
+<<POS_431_2>>
+★She suspects he's left the village and wandered<<END_STR>>
+<<POS_432_2>>
+onto the plains nearby. Much like the others, I need<<END_STR>>
+<<POS_433_2>>
+to approach from behind.<<END_STR>>
+<<POS_434_2>><<START>>
+★Successfully captured Tsukune, completing the quest!<<END_STR>>
+<<END>>
+<<POS_441_4>><<START>>
+Ray<<END_STR>>
+<<POS_441_5>>
+Recommended Goods Set<<END_STR>>
+<<POS_441_6>>
+Shopkeeper for a Day<<END_STR>>
+<<POS_441_7>>
+Shopkeeper for a Day<<END_STR>>
+<<POS_442_1>><<START>>
+I'm currently looking for someone to run my shop<<END_STR>>
+<<POS_443_1>>
+while I'm away getting new stock.<<END_STR>>
+<<POS_444_1>>
+<<END_STR>>
+<<POS_445_1>>
+If interested, speak to Ray at the open-air shop in<<END_STR>>
+<<POS_446_1>>
+the village square.<<END_STR>>
+<<POS_447_1>>
+#911c[Urgent]#000c     - Ray, the Merchant of Smiles<<END_STR>>
+<<POS_449_2>><<START>>
+★Managed to finish the job, and Ray was very<<END_STR>>
+<<POS_450_2>>
+impressed with my work!<<END_STR>>
+<<POS_451_2>><<START>>
+★Managed to finish the job, and Ray was quite<<END_STR>>
+<<POS_452_2>>
+impressed with my work!<<END_STR>>
+<<POS_453_2>><<START>>
+★Managed to finish the job, but Ray wasn't very<<END_STR>>
+<<POS_454_2>>
+impressed with my work...<<END_STR>>
+<<END>>
+<<POS_458_4>><<START>>
+Bonnie<<END_STR>>
+<<POS_458_5>>
+2500G<<END_STR>>
+<<POS_458_6>>
+Seeking Moisturizer<<END_STR>>
+<<POS_458_7>>
+Seeking Moisturizer<<END_STR>>
+<<POS_459_1>><<START>>
+Dry skin needs moisture, so I would like you to <<END_STR>>
+<<POS_460_1>>
+bring me ten 'Clear Liquids.'<<END_STR>>
+<<POS_461_1>>
+<<END_STR>>
+<<POS_462_1>>
+I'm always outside, so bring them to me there! ㈱<<END_STR>>
+<<POS_463_1>>
+<<END_STR>>
+<<POS_464_1>>
+- Bonnie, the Frog Lover<<END_STR>>
+<<POS_466_2>><<START>>
+★Delivered the requested items to Bonnie and<<END_STR>>
+<<POS_467_2>>
+received my reward.<<END_STR>>
+<<END>>
+<<POS_471_4>><<START>>
+Agent Bertha<<END_STR>>
+<<POS_471_5>>
+3000G<<END_STR>>
+<<POS_471_6>>
+A Swarm of Black<<END_STR>>
+<<POS_471_7>>
+A Swarm of Black<<END_STR>>
+<<POS_472_1>><<START>>
+It appears that a swarm of Vesbiwars have begun<<END_STR>>
+<<POS_473_1>>
+nesting in the Jade Cave beyond the Forest of Dawn.<<END_STR>>
+<<POS_474_1>>
+If left alone, they're likely to begin multiplying<<END_STR>>
+<<POS_475_1>>
+and wander all the way to the river. Their<<END_STR>>
+<<POS_476_1>>
+extermination would be greatly appreciated.<<END_STR>>
+<<POS_477_1>>
+- Agent Bertha, Village Assembly<<END_STR>>
+<<POS_479_2>><<START>>
+★Defeated the Vesbiwars! I should report to the<<END_STR>>
+<<POS_480_2>>
+client.<<END_STR>>
+<<POS_481_2>><<START>>
+★Gave my report to Bertha and received my reward.<<END_STR>>
+<<END>>
+<<POS_485_4>><<START>>
+Syriu<<END_STR>>
+<<POS_485_5>>
+An Amazing 'Super Weapon'<<END_STR>>
+<<POS_485_6>>
+Super Weapon Test <<END_STR>>
+<<POS_485_7>>
+Super Weapon Test <<END_STR>>
+<<POS_486_1>><<START>>
+I made a few SUPER weapons, and I'd like someone to<<END_STR>>
+<<POS_487_1>>
+test them in actual combat situations for me.<<END_STR>>
+<<POS_488_1>>
+<<END_STR>>
+<<POS_489_1>>
+If there's anyone who can use a sword or gauntlet and<<END_STR>>
+<<POS_490_1>>
+is up for helping me out, please come to the smithy.<<END_STR>>
+<<POS_491_1>>
+- Syriu, Amateur Blacksmith<<END_STR>>
+<<POS_493_2>><<START>>
+★We agreed to assist Ozma's friend, Syriu, by <<END_STR>>
+<<POS_494_2>>
+testing a weapon she'd created.<<END_STR>>
+<<POS_495_2>>
+★We were given the choice between a sword and a <<END_STR>>
+<<POS_496_2>>
+gauntlet, and I chose the sword. We were then <<END_STR>>
+<<POS_497_2>>
+told to equip it and use it to defeat five beasts<<END_STR>>
+<<POS_498_2>>
+called Rangoas.<<END_STR>>
+<<POS_499_2>>
+★Rangoas are found in the western part of the <<END_STR>>
+<<POS_500_2>>
+Forest of Dawn.<<END_STR>>
+<<POS_501_2>><<START>>
+★We agreed to assist Ozma's friend, Syriu, by <<END_STR>>
+<<POS_502_2>>
+testing a weapon she'd created.<<END_STR>>
+<<POS_503_2>>
+★We were given the choice between a sword and a <<END_STR>>
+<<POS_504_2>>
+gauntlet, and Duren chose the gauntlet. We were then<<END_STR>>
+<<POS_505_2>>
+told to equip it and use it to defeat five beasts<<END_STR>>
+<<POS_506_2>>
+called Rangoas.<<END_STR>>
+<<POS_507_2>>
+★Rangoas are found in the western part of the <<END_STR>>
+<<POS_508_2>>
+Forest of Dawn.<<END_STR>>
+<<POS_509_2>><<START>>
+★We defeated five Rangoas with the weapon equipped!<<END_STR>>
+<<POS_510_2>>
+We should report back to Syriu.<<END_STR>>
+<<POS_511_2>><<START>>
+★We returned the weapon to Syriu, who modified<<END_STR>>
+<<POS_512_2>>
+it and presented it to us as a reward.<<END_STR>>
+<<POS_513_2>>
+★With the receipt of the Spectacular Heat Sword--<<END_STR>>
+<<POS_514_2>>
+or rather, the Flame Sword, this quest is complete.<<END_STR>>
+<<POS_515_2>><<START>>
+★We returned the weapon to Syriu, who modified<<END_STR>>
+<<POS_516_2>>
+it and presented it to us as a reward.<<END_STR>>
+<<POS_517_2>>
+★With the receipt of the Superb Toxic Gauntlet--<<END_STR>>
+<<POS_518_2>>
+or rather, the Venom Knuckle, this quest is complete.<<END_STR>>
+<<END>>
+<<POS_522_4>><<START>>
+Syriu<<END_STR>>
+<<POS_522_5>>
+An Amazing 'Hyper Weapon'<<END_STR>>
+<<POS_522_6>>
+Hyper Weapon Test<<END_STR>>
+<<POS_522_7>>
+Hyper Weapon Test<<END_STR>>
+<<POS_523_1>><<START>>
+I made a few HYPER weapons, and I'd like someone to<<END_STR>>
+<<POS_524_1>>
+test them in actual combat situations for me.<<END_STR>>
+<<POS_525_1>>
+<<END_STR>>
+<<POS_526_1>>
+If there's anyone who can use knives or a spear and<<END_STR>>
+<<POS_527_1>>
+is up for helping me out, please come to the smithy.<<END_STR>>
+<<POS_528_1>>
+- Syriu, Intermediate Blacksmith<<END_STR>>
+<<POS_530_2>><<START>>
+★We wound up testing another weapon for Syriu.<<END_STR>>
+<<POS_531_2>>
+★We were asked to choose between a spear and a set<<END_STR>>
+<<POS_532_2>>
+of throwing knives, and Karna chose the knives. We<<END_STR>>
+<<POS_533_2>>
+were then asked to equip them and use them to defeat<<END_STR>>
+<<POS_534_2>>
+five beasts called 'Crocles.'<<END_STR>>
+<<POS_535_2>>
+★Crocles are found by the side of the river, or in<<END_STR>>
+<<POS_536_2>>
+the western part of the Forest of Dawn.<<END_STR>>
+<<POS_537_2>><<START>>
+★We wound up testing another weapon for Syriu.<<END_STR>>
+<<POS_538_2>>
+★We were asked to choose between a spear and a set<<END_STR>>
+<<POS_539_2>>
+of throwing knives, and Ozma chose the spear. We<<END_STR>>
+<<POS_540_2>>
+were then asked to equip them and use it to defeat<<END_STR>>
+<<POS_541_2>>
+five beasts called 'Crocles.'<<END_STR>>
+<<POS_542_2>>
+★Crocles are found by the side of the river, or in<<END_STR>>
+<<POS_543_2>>
+the western part of the Forest of Dawn.<<END_STR>>
+<<POS_544_2>><<START>>
+★We defeated five Crocles with the weapon equipped!<<END_STR>>
+<<POS_545_2>>
+We should go and give our report to Syriu.<<END_STR>>
+<<POS_546_2>><<START>>
+★We returned the weapon to Syriu, who modified<<END_STR>>
+<<POS_547_2>>
+it and presented it to us as a reward.<<END_STR>>
+<<POS_548_2>>
+★With the receipt of the Amazing Viscous Knives-- or<<END_STR>>
+<<POS_549_2>>
+rather, the Spider Edge, this quest is complete.<<END_STR>>
+<<POS_550_2>><<START>>
+★We returned the weapon to Syriu, who modified<<END_STR>>
+<<POS_551_2>>
+it and presented it to us as a reward.<<END_STR>>
+<<POS_552_2>>
+★With the receipt of the Perilous Thunder Spear-- or<<END_STR>>
+<<POS_553_2>>
+rather, the Lightning Spear, this quest is complete.<<END_STR>>
+<<END>>
+<<POS_557_4>><<START>>
+Syriu<<END_STR>>
+<<POS_557_5>>
+An Amazing 'Mega Weapon'<<END_STR>>
+<<POS_557_6>>
+Mega Weapon Test<<END_STR>>
+<<POS_557_7>>
+Mega Weapon Test<<END_STR>>
+<<POS_558_1>><<START>>
+I made a few MEGA weapons, and I'd like someone <<END_STR>>
+<<POS_559_1>>
+to test them in actual combat situations for me.<<END_STR>>
+<<POS_560_1>>
+<<END_STR>>
+<<POS_561_1>>
+If there's anyone who can use a mace or halberd and<<END_STR>>
+<<POS_562_1>>
+is up for helping me out, please come to the smithy.<<END_STR>>
+<<POS_563_1>>
+- Syriu, Advanced Blacksmith<<END_STR>>
+<<POS_565_2>><<START>>
+★We wound up testing another set of weapons for<<END_STR>>
+<<POS_566_2>>
+Syriu.<<END_STR>>
+<<POS_567_2>>
+★We were asked to choose between a mace and a<<END_STR>>
+<<POS_568_2>>
+halberd, and Calilica chose the mace. We were then<<END_STR>>
+<<POS_569_2>>
+asked to equip it and use it to defeat five beasts<<END_STR>>
+<<POS_570_2>>
+called 'Madogra-Slef.'<<END_STR>>
+<<POS_571_2>>
+★Syriu found out about the Madogra-Slefs from an<<END_STR>>
+<<POS_572_2>>
+ancient text. Apparently, they inhabit the Primeval<<END_STR>>
+<<POS_573_2>>
+Lands.<<END_STR>>
+<<POS_574_2>><<START>>
+★We wound up testing another set of weapons for<<END_STR>>
+<<POS_575_2>>
+Syriu.<<END_STR>>
+<<POS_576_2>>
+★We were asked to choose between a mace and a<<END_STR>>
+<<POS_577_2>>
+halberd, and Frieda chose the halberd. We were then<<END_STR>>
+<<POS_578_2>>
+asked to equip it and use it to defeat five beasts<<END_STR>>
+<<POS_579_2>>
+called 'Madogra-Slef.'<<END_STR>>
+<<POS_580_2>>
+★Syriu found out about the Madogra-Slefs from an<<END_STR>>
+<<POS_581_2>>
+ancient text. Apparently, they inhabit the Primeval<<END_STR>>
+<<POS_582_2>>
+Lands.<<END_STR>>
+<<POS_583_2>><<START>>
+★We defeated five Madogra-Slefs with the weapon<<END_STR>>
+<<POS_584_2>>
+equipped! We should go and give our report to <<END_STR>>
+<<POS_585_2>>
+Syriu.<<END_STR>>
+<<POS_586_2>><<START>>
+★We returned the weapon to Syriu, who modified<<END_STR>>
+<<POS_587_2>>
+it and presented it to us as a reward.<<END_STR>>
+<<POS_588_2>>
+★With the receipt of the Extreme Death Mace-- or<<END_STR>>
+<<POS_589_2>>
+rather, the Hyper Breaker, this quest is complete.<<END_STR>>
+<<POS_590_2>><<START>>
+★We returned the weapon to Syriu, who modified<<END_STR>>
+<<POS_591_2>>
+it and presented it to us as a reward.<<END_STR>>
+<<POS_592_2>>
+★With the receipt of the Ultimate Icy Halberd-- or<<END_STR>>
+<<POS_593_2>>
+rather, the Cruel Axe, this quest is complete.<<END_STR>>
+<<END>>
+<<POS_597_4>><<START>>
+Agent Bertha<<END_STR>>
+<<POS_597_5>>
+15000G<<END_STR>>
+<<POS_597_6>>
+A Swarm of Scarlet<<END_STR>>
+<<POS_597_7>>
+A Swarm of Scarlet<<END_STR>>
+<<POS_598_1>><<START>>
+A swarm of 'Vesbilzons' appear to have nested in the<<END_STR>>
+<<POS_599_1>>
+Jade Cave.<<END_STR>>
+<<POS_600_1>>
+<<END_STR>>
+<<POS_601_1>>
+Their speedy extermination would be appreciated.<<END_STR>>
+<<POS_602_1>>
+<<END_STR>>
+<<POS_603_1>>
+- Agent Bertha, Village Assembly<<END_STR>>
+<<POS_605_2>><<START>>
+★Defeated the Vesbilzons! I should report to the<<END_STR>>
+<<POS_606_2>>
+client.<<END_STR>>
+<<POS_607_2>><<START>>
+★Reported back to Bertha and received my reward.<<END_STR>>
+<<END>>
+<<POS_611_4>><<START>>
+Rilche<<END_STR>>
+<<POS_611_5>>
+Smiles<<END_STR>>
+<<POS_611_6>>
+Happy Present<<END_STR>>
+<<POS_611_7>>
+Happy Present<<END_STR>>
+<<POS_612_1>><<START>>
+I need shome pretty flowersh to make shomeshing<<END_STR>>
+<<POS_613_1>>
+nishe.<<END_STR>>
+<<POS_614_1>>
+I'll be waiting in front of my houshe. My houshe is<<END_STR>>
+<<POS_615_1>>
+in the north of the villache.<<END_STR>>
+<<POS_616_1>>
+<<END_STR>>
+<<POS_617_1>>
+- Rilche<<END_STR>>
+<<POS_619_2>><<START>>
+★Rilche expressed her desire to make a wreath, and<<END_STR>>
+<<POS_620_2>>
+we agreed to collect the flowers for it. Apparently<<END_STR>>
+<<POS_621_2>>
+any flower is sufficient, as long as we have three <<END_STR>>
+<<POS_622_2>>
+of the same variety.<<END_STR>>
+<<POS_623_2>><<START>>
+★We gave Rilche three Marl Flowers, and were taken<<END_STR>>
+<<POS_624_2>>
+to see Ozma's childhood friend Cecily.<<END_STR>>
+<<POS_625_2>>
+★Rilche was taught how to make a wreath by Cecily,<<END_STR>>
+<<POS_626_2>>
+which she had planned all along so that Cecily could<<END_STR>>
+<<POS_627_2>>
+give it to Ozma.<<END_STR>>
+<<POS_628_2>>
+★This quest gave me a warm, pleasant feeling.<<END_STR>>
+<<POS_629_2>><<START>>
+★We gave Rilche three Yupel Flowers, and were taken<<END_STR>>
+<<POS_630_2>>
+to see Ozma's childhood friend Cecily.<<END_STR>>
+<<POS_631_2>>
+★Rilche was taught how to make a wreath by Cecily,<<END_STR>>
+<<POS_632_2>>
+which she had planned all along so that Cecily could<<END_STR>>
+<<POS_633_2>>
+give it to Ozma.<<END_STR>>
+<<POS_634_2>>
+★This quest gave me a warm, pleasant feeling.<<END_STR>>
+<<POS_635_2>><<START>>
+★We gave Rilche three Libra Flowers, and were taken<<END_STR>>
+<<POS_636_2>>
+to see Ozma's childhood friend Cecily.<<END_STR>>
+<<POS_637_2>>
+★Rilche was taught how to make a wreath by Cecily,<<END_STR>>
+<<POS_638_2>>
+which she had planned all along so that Cecily could<<END_STR>>
+<<POS_639_2>>
+give it to Ozma.<<END_STR>>
+<<POS_640_2>>
+★This quest gave me a warm, pleasant feeling.<<END_STR>>
+<<POS_641_2>><<START>>
+★We gave Rilche three Celcetan Flowers, and were<<END_STR>>
+<<POS_642_2>>
+to see Ozma's childhood friend Cecily.<<END_STR>>
+<<POS_643_2>>
+★Rilche was taught how to make a wreath by Cecily,<<END_STR>>
+<<POS_644_2>>
+which she had planned all along so that Cecily could<<END_STR>>
+<<POS_645_2>>
+give it to Ozma.<<END_STR>>
+<<POS_646_2>>
+★This quest gave me a warm, pleasant feeling.<<END_STR>>
+<<POS_647_2>><<START>>
+★We gave Rilche three each of four different<<END_STR>>
+<<POS_648_2>>
+varieties of flower, and were taken to see Ozma's<<END_STR>>
+<<POS_649_2>>
+childhood friend Cecily.<<END_STR>>
+<<POS_650_2>>
+★Rilche was taught how to make a wreath by Cecily,<<END_STR>>
+<<POS_651_2>>
+which she had planned all along so that Cecily could<<END_STR>>
+<<POS_652_2>>
+give it to Ozma.<<END_STR>>
+<<POS_653_2>>
+★This quest gave me a warm, pleasant feeling.<<END_STR>>
+<<END>>
+<<POS_657_4>><<START>>
+Syriu<<END_STR>>
+<<POS_657_5>>
+Legendary Weapon<<END_STR>>
+<<POS_657_6>>
+Legendary Weapon<<END_STR>>
+<<POS_657_7>>
+Legendary Weapon<<END_STR>>
+<<POS_658_1>><<START>>
+Ozma and friends,<<END_STR>>
+<<POS_659_1>>
+Feel like resurrecting an ancient legend with me?<<END_STR>>
+<<POS_660_1>>
+<<END_STR>>
+<<POS_661_1>>
+If you do, come to the smithy. I'll be waiting!<<END_STR>>
+<<POS_662_1>>
+<<END_STR>>
+<<POS_663_1>>
+- Syriu, Master Blacksmith<<END_STR>>
+<<POS_665_2>><<START>>
+★We accepted Syriu's quest for help in recreating<<END_STR>>
+<<POS_666_2>>
+a legendary weapon. We were asked to find a rare ore<<END_STR>>
+<<POS_667_2>>
+called Sun Stone.<<END_STR>>
+<<POS_668_2>><<START>>
+★We delivered the Sun Stone to Syriu, and she<<END_STR>>
+<<POS_669_2>>
+forged a legendary weapon for us. In addition, we<<END_STR>>
+<<POS_670_2>>
+received some legendary armor from Hakan.<<END_STR>>
+<<POS_671_2>>
+★If we bring additional Sun Stones to Syriu,<<END_STR>>
+<<POS_672_2>>
+she'll be able to make us more weapons.<<END_STR>>
+<<END>>
+<<POS_678_4>><<START>>
+Philemon<<END_STR>>
+<<POS_678_5>>
+???<<END_STR>>
+<<POS_678_6>>
+Unleashing Artifacts<<END_STR>>
+<<POS_678_7>>
+Unleashing Artifacts<<END_STR>>
+<<POS_679_1>><<START>>
+Adol and friends,<<END_STR>>
+<<POS_680_1>>
+I have something to discuss with you regarding your<<END_STR>>
+<<POS_681_1>>
+artifacts. I think it will be of interest. Come and<<END_STR>>
+<<POS_682_1>>
+see me in my workshop when you get a chance.<<END_STR>>
+<<POS_683_1>>
+<<END_STR>>
+<<POS_684_1>>
+- Philemon, Philemon's Workshop<<END_STR>>
+<<POS_686_2>><<START>>
+★Philemon agreed to unleash one of our artifacts,<<END_STR>>
+<<POS_687_2>>
+and requested that we bring him an emerald and a<<END_STR>>
+<<POS_688_2>>
+topaz.<<END_STR>>
+<<POS_689_2>><<START>>
+★We delivered the gems to Philemon, who unleashed<<END_STR>>
+<<POS_690_2>>
+the power of the Dwarf Bracelet.<<END_STR>>
+<<POS_691_2>>
+★Furthermore, he stated that if we have any other<<END_STR>>
+<<POS_692_2>>
+artifacts to unleash, we should talk to Timali.<<END_STR>>
+<<END>>
+<<POS_696_4>><<START>>
+Oona<<END_STR>>
+<<POS_696_5>>
+10000G<<END_STR>>
+<<POS_696_6>>
+Purchasing Silver<<END_STR>>
+<<POS_696_7>>
+Purchasing Silver<<END_STR>>
+<<POS_697_1>><<START>>
+I wish to purchase three Silver Ingots for a high<<END_STR>>
+<<POS_698_1>>
+price.<<END_STR>>
+<<POS_699_1>>
+<<END_STR>>
+<<POS_700_1>>
+If interested, please come to my Oona Market!<<END_STR>>
+<<POS_701_1>>
+<<END_STR>>
+<<POS_702_1>>
+- Oona, the Courageous Merchant<<END_STR>>
+<<POS_704_2>><<START>>
+★The shop owner initially agreed to give me a bonus<<END_STR>>
+<<POS_705_2>>
+material, but in trying to seek something better,<<END_STR>>
+<<POS_706_2>>
+I seem to have pushed my luck a bit too far...<<END_STR>>
+<<POS_707_2>><<START>>
+★I successfully sold the Silver Ingots!<<END_STR>>
+<<POS_708_2>><<START>>
+★Seeking something extra in addition to the gold,<<END_STR>>
+<<POS_709_2>>
+I received a bonus material.<<END_STR>>
+<<POS_710_2>><<START>>
+★Seeking something extra in addition to the gold,<<END_STR>>
+<<POS_711_2>>
+I received a rare material!<<END_STR>>
+<<END>>
+<<POS_715_4>><<START>>
+Mariana<<END_STR>>
+<<POS_715_5>>
+5000G<<END_STR>>
+<<POS_715_6>>
+Wayward Guardians<<END_STR>>
+<<POS_715_7>>
+Wayward Guardians<<END_STR>>
+<<POS_716_1>><<START>>
+I have a personal request for Adol and his friends.<<END_STR>>
+<<POS_717_1>>
+<<END_STR>>
+<<POS_718_1>>
+Please speak to me at the cathedral.<<END_STR>>
+<<POS_719_1>>
+<<END_STR>>
+<<POS_720_1>>
+<<END_STR>>
+<<POS_721_1>>
+- Mariana<<END_STR>>
+<<POS_723_2>><<START>>
+★We accepted Mariana's quest and agreed to defeat<<END_STR>>
+<<POS_724_2>>
+the five guardians which have wandered out of the <<END_STR>>
+<<POS_725_2>>
+Tower of Providence and into the Sanctuary of<<END_STR>>
+<<POS_726_2>>
+Storms.<<END_STR>>
+<<POS_727_2>><<START>>
+★We defeated all five guardians! We should return to<<END_STR>>
+<<POS_728_2>>
+Mariana and give our report.<<END_STR>>
+<<POS_729_2>><<START>>
+★I gave my report to Mariana, completing the quest.<<END_STR>>
+<<END>>
+<<POS_733_4>><<START>>
+Ethan<<END_STR>>
+<<POS_733_5>>
+Celcetan Flower x2<<END_STR>>
+<<POS_733_6>>
+Signature Collector<<END_STR>>
+<<POS_733_7>>
+Signature Collector<<END_STR>>
+<<POS_734_1>><<START>>
+There are a few pages in my favorite notebook that<<END_STR>>
+<<POS_735_1>>
+I just can't seem to be able to fill. Would someone<<END_STR>>
+<<POS_736_1>>
+be willing to help me fill them? My house is to the<<END_STR>>
+<<POS_737_1>>
+left of the mayor's mansion.<<END_STR>>
+<<POS_738_1>>
+<<END_STR>>
+<<POS_739_1>>
+- Ethan<<END_STR>>
+<<POS_741_2>><<START>>
+★We agreed to fill the three remaining pages of <<END_STR>>
+<<POS_742_2>>
+Ethan's notebook. To do so, we'll need to find <<END_STR>>
+<<POS_743_2>>
+people whose names begin with the letters Q, U<<END_STR>>
+<<POS_744_2>>
+and Z.<<END_STR>>
+<<POS_745_2>><<START>>
+★We received the signature of Quincy from Casnan,<<END_STR>>
+<<POS_746_2>>
+filling the 'Q' page!<<END_STR>>
+<<POS_747_2>><<START>>
+★We received the signature of Ursula from Danan,<<END_STR>>
+<<POS_748_2>>
+filling the 'U' page!<<END_STR>>
+<<POS_749_2>><<START>>
+★We received the signature of Zara from Selray,<<END_STR>>
+<<POS_750_2>>
+filling the 'Z' page!<<END_STR>>
+<<POS_751_2>><<START>>
+★We returned the completed notebook to Ethan.<<END_STR>>
+<<POS_752_2>>
+Another job well done!<<END_STR>>
+<<END>>
+<<POS_756_4>><<START>>
+Cordelia<<END_STR>>
+<<POS_756_5>>
+25000G<<END_STR>>
+<<POS_756_6>>
+Cries from the Abyss<<END_STR>>
+<<POS_756_7>>
+Cries from the Abyss<<END_STR>>
+<<POS_757_1>><<START>>
+The other day when I was in the graveyard, I heard<<END_STR>>
+<<POS_758_1>>
+a terrible, out-of-this-world screeching.<<END_STR>>
+<<POS_759_1>>
+<<END_STR>>
+<<POS_760_1>>
+I'm unable to sleep because of it. Please come and<<END_STR>>
+<<POS_761_1>>
+speak to me. I'll be near the entrance of town.<<END_STR>>
+<<POS_762_1>>
+- Cordelia<<END_STR>>
+<<POS_764_2>><<START>>
+★We accepted Cordelia's 'quest,' and agreed to<<END_STR>>
+<<POS_765_2>>
+exterminate the 'beasts' in the Underground Ruins.<<END_STR>>
+<<POS_766_2>><<START>>
+★We defeated the monsters in the Underground Ruins,<<END_STR>>
+<<POS_767_2>>
+which had formed ranks and appeared to be plotting<<END_STR>>
+<<POS_768_2>>
+something. We should report to Cordelia.<<END_STR>>
+<<POS_769_2>><<START>>
+★We gave our report to Cordelia, completing the<<END_STR>>
+<<POS_770_2>>
+quest.<<END_STR>>
+<<END>>
+<<POS_776_4>><<START>>
+Yami<<END_STR>>
+<<POS_776_5>>
+Rare and Valuable Elixirs<<END_STR>>
+<<POS_776_6>>
+Secret Synthesis<<END_STR>>
+<<POS_776_7>>
+Secret Synthesis<<END_STR>>
+<<POS_777_1>><<START>>
+I need the ingredients for a certain top secret<<END_STR>>
+<<POS_778_1>>
+elixir.<<END_STR>>
+<<POS_779_1>>
+<<END_STR>>
+<<POS_780_1>>
+I'll tell you more in person, so please speak <<END_STR>>
+<<POS_781_1>>
+with me in my laboratory.<<END_STR>>
+<<POS_782_1>>
+- Yami, the Medicine Maker<<END_STR>>
+<<POS_784_2>><<START>>
+★We accepted Yami's quest and agreed to collect<<END_STR>>
+<<POS_785_2>>
+the ingredients for this elixir.<<END_STR>>
+<<POS_786_2>>
+★According to him, we'll need one of each of the<<END_STR>>
+<<POS_787_2>>
+following eight ingredients: Yupel Flower, <<END_STR>>
+<<POS_788_2>>
+Libra Flower, Raparo Fruit, Arieda Fruit, <<END_STR>>
+<<POS_789_2>>
+Poisonous Organ, Frog Extract, Acidic Liquid<<END_STR>>
+<<POS_790_2>>
+and Slime Mold.<<END_STR>>
+<<POS_791_2>><<START>>
+★Much to everyone's shock, the elixir was actually<<END_STR>>
+<<POS_792_2>>
+an Anti-Aging Elixir intended for Vanjo. Well,<<END_STR>>
+<<POS_793_2>>
+whatever the case, the quest is complete!<<END_STR>>
+<<END>>
+<<POS_797_4>><<START>>
+Mikuri<<END_STR>>
+<<POS_797_5>>
+Tablets<<END_STR>>
+<<POS_797_6>>
+Good Luck Charm<<END_STR>>
+<<POS_797_7>>
+Good Luck Charm<<END_STR>>
+<<POS_798_1>><<START>>
+I'm looking for an accessory that will increase my<<END_STR>>
+<<POS_799_1>>
+luck. If you have anything that seems to fit that<<END_STR>>
+<<POS_800_1>>
+description, please bring it to me. I'll give you<<END_STR>>
+<<POS_801_1>>
+a suitable reward.<<END_STR>>
+<<POS_802_1>>
+<<END_STR>>
+<<POS_803_1>>
+- Mikuri, Who Wants to Become Happy<<END_STR>>
+<<POS_805_2>><<START>>
+★We gave a Silver Dragon Charm to Mikuri, who--<<END_STR>>
+<<POS_806_2>>
+though fairly unimpressed-- did accept it.<<END_STR>>
+<<POS_807_2>><<START>>
+★We gave a Gold Dragon Charm to Mikuri, who<<END_STR>>
+<<POS_808_2>>
+was very pleased.<<END_STR>>
+<<POS_809_2>><<START>>
+★We gave a Silver Axe to Mikuri, who was fairly<<END_STR>>
+<<POS_810_2>>
+pleased.<<END_STR>>
+<<POS_811_2>><<START>>
+★We gave a Golden Axe to Mikuri, who was somewhat<<END_STR>>
+<<POS_812_2>>
+pleased.<<END_STR>>
+<<END>>
+<<POS_816_4>><<START>>
+Librarian Greta<<END_STR>>
+<<POS_816_5>>
+10000G<<END_STR>>
+<<POS_816_6>>
+Twilight Flowers<<END_STR>>
+<<POS_816_7>>
+Twilight Flowers<<END_STR>>
+<<POS_817_1>><<START>>
+I've heard reports that a dangerous plant monster<<END_STR>>
+<<POS_818_1>>
+called an 'Anderaula' has been sighted in the<<END_STR>>
+<<POS_819_1>>
+Subterranean Forest. I would appreciate it if<<END_STR>>
+<<POS_820_1>>
+someone would go defeat it.<<END_STR>>
+<<POS_821_1>>
+<<END_STR>>
+<<POS_822_1>>
+- Librarian Greta, the Black Archives<<END_STR>>
+<<POS_824_2>><<START>>
+★We defeated the Anderaula! We should report back<<END_STR>>
+<<POS_825_2>>
+to the client.<<END_STR>>
+<<POS_826_2>><<START>>
+★We gave our report to Greta and received our<<END_STR>>
+<<POS_827_2>>
+reward.<<END_STR>>
+<<END>>
+<<POS_831_4>><<START>>
+Explorer Pigeon<<END_STR>>
+<<POS_831_5>>
+25000G<<END_STR>>
+<<POS_831_6>>
+Rabbit Hunting<<END_STR>>
+<<POS_831_7>>
+Rabbit Hunting<<END_STR>>
+<<POS_832_1>><<START>>
+I need someone to help me search for my partner.<<END_STR>>
+<<POS_833_1>>
+I last saw her in the Ashen Forest.<<END_STR>>
+<<POS_834_1>>
+<<END_STR>>
+<<POS_835_1>>
+For more details, come talk to me in person. I'll be<<END_STR>>
+<<POS_836_1>>
+waiting in the item shop.<<END_STR>>
+<<POS_837_1>>
+- Pigeon, the Peace-Loving Explorer<<END_STR>>
+<<POS_839_2>><<START>>
+★We spoke to the explorer Pigeon, who has come<<END_STR>>
+<<POS_840_2>>
+all the way from Casnan, and agreed to help find his<<END_STR>>
+<<POS_841_2>>
+partner, Rabbit. Apparently they became separated<<END_STR>>
+<<POS_842_2>>
+in the Ashen Forest. We should start searching!<<END_STR>>
+<<POS_843_2>><<START>>
+★We found Rabbit in the Frogs' Inn. We tried to<<END_STR>>
+<<POS_844_2>>
+persuade her to return to Danan with us, but she<<END_STR>>
+<<POS_845_2>>
+refused, determined to get back to Danan on her own.<<END_STR>>
+<<POS_846_2>><<START>>
+★We returned to Danan, but found no sign of Rabbit.<<END_STR>>
+<<POS_847_2>>
+★Pigeon suggested that she likely found her way<<END_STR>>
+<<POS_848_2>>
+somewhere significant, such as a cave or a camp...<<END_STR>>
+<<POS_849_2>><<START>>
+★We found Rabbit at the camp in front of the Forest<<END_STR>>
+<<POS_850_2>>
+of Spores, and took her back to Pigeon.<<END_STR>>
+<<POS_851_2>>
+★Although the mystery of their relationship remains,<<END_STR>>
+<<POS_852_2>>
+the quest is complete.<<END_STR>>
+<<END>>
+<<POS_856_4>><<START>>
+Sydow<<END_STR>>
+<<POS_856_5>>
+20000G<<END_STR>>
+<<POS_856_6>>
+Resentful Spirit<<END_STR>>
+<<POS_856_7>>
+Resentful Spirit<<END_STR>>
+<<POS_857_1>><<START>>
+For the attention of Duren and Frieda,<<END_STR>>
+<<POS_858_1>>
+There is something I would like you to do for me in<<END_STR>>
+<<POS_859_1>>
+the Ashen Forest.<<END_STR>>
+<<POS_860_1>>
+<<END_STR>>
+<<POS_861_1>>
+If possible, please see me in the Black Archives.<<END_STR>>
+<<POS_862_1>>
+- Sydow<<END_STR>>
+<<POS_864_2>><<START>>
+★We accepted the Bloodstained Magatama from Sydow,<<END_STR>>
+<<POS_865_2>>
+and agreed to purify it.<<END_STR>>
+<<POS_866_2>>
+★First, we need to equip the Bloodstained Magatama.<<END_STR>>
+<<POS_867_2>>
+Then we need to use it to lead the soul of the<<END_STR>>
+<<POS_868_2>>
+fallen knight in the Ashen Forest to his armor.<<END_STR>>
+<<POS_869_2>>
+After that, he will take form, and we must defeat<<END_STR>>
+<<POS_870_2>>
+him in battle so that he may rest in peace.<<END_STR>>
+<<POS_871_2>><<START>>
+★We defeated the ancient knight in battle. We should<<END_STR>>
+<<POS_872_2>>
+give our report to Sydow.<<END_STR>>
+<<POS_873_2>><<START>>
+★We gave our report to Sydow, completing the quest.<<END_STR>>
+<<POS_874_2>>
+We received the Holy Knight's Magatama.<<END_STR>>
+<<END>>

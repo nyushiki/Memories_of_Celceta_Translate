@@ -1,0 +1,144 @@
+<<POS_16_4>><<START>>
+Total Playtime<<END_STR>>
+<<END>>
+<<POS_17_4>><<START>>
+Map Completion<<END_STR>>
+<<END>>
+<<POS_18_4>><<START>>
+Memories Found<<END_STR>>
+<<END>>
+<<POS_19_4>><<START>>
+Chests Found<<END_STR>>
+<<END>>
+<<POS_20_4>><<START>>
+Harvest Points<<END_STR>>
+<<END>>
+<<POS_21_4>><<START>>
+Item Completion<<END_STR>>
+<<END>>
+<<POS_22_4>><<START>>
+　Consumables<<END_STR>>
+<<END>>
+<<POS_23_4>><<START>>
+　Artifacts<<END_STR>>
+<<END>>
+<<POS_24_4>><<START>>
+　Weapons<<END_STR>>
+<<END>>
+<<POS_25_4>><<START>>
+　Armor<<END_STR>>
+<<END>>
+<<POS_26_4>><<START>>
+　Accessories<<END_STR>>
+<<END>>
+<<POS_27_4>><<START>>
+　Materials<<END_STR>>
+<<END>>
+<<POS_28_4>><<START>>
+　Key Items<<END_STR>>
+<<END>>
+<<POS_29_4>><<START>>
+Material Compendium<<END_STR>>
+<<END>>
+<<POS_30_4>><<START>>
+Monster Compendium<<END_STR>>
+<<END>>
+<<POS_31_4>><<START>>
+Quest Completion<<END_STR>>
+<<END>>
+<<POS_32_4>><<START>>
+Animals Charmed<<END_STR>>
+<<END>>
+<<POS_33_4>><<START>>
+Maximum Gold<<END_STR>>
+<<END>>
+<<POS_34_4>><<START>>
+Distance Traveled<<END_STR>>
+<<END>>
+<<POS_35_4>><<START>>
+Monsters Beaten<<END_STR>>
+<<END>>
+<<POS_36_4>><<START>>
+Flash Guards<<END_STR>>
+<<END>>
+<<POS_37_4>><<START>>
+Flash Moves<<END_STR>>
+<<END>>
+<<POS_38_4>><<START>>
+Aerial Combos<<END_STR>>
+<<END>>
+<<POS_39_4>><<START>>
+Skill Finishes<<END_STR>>
+<<END>>
+<<POS_40_4>><<START>>
+Excellent Kills<<END_STR>>
+<<END>>
+<<POS_42_4>><<START>>
+Time Attack<<END_STR>>
+<<END>>
+<<POS_43_4>><<START>>
+Aldovoss<<END_STR>>
+<<END>>
+<<POS_44_4>><<START>>
+Melldrabie<<END_STR>>
+<<END>>
+<<POS_45_4>><<START>>
+Glucarius<<END_STR>>
+<<END>>
+<<POS_46_4>><<START>>
+Volnake<<END_STR>>
+<<END>>
+<<POS_47_4>><<START>>
+Angoraboras<<END_STR>>
+<<END>>
+<<POS_48_4>><<START>>
+Elvaron<<END_STR>>
+<<END>>
+<<POS_49_4>><<START>>
+Krell-Emecia 1<<END_STR>>
+<<END>>
+<<POS_50_4>><<START>>
+Krell-Emecia 2<<END_STR>>
+<<END>>
+<<POS_51_4>><<START>>
+Sol-Galba 1<<END_STR>>
+<<END>>
+<<POS_52_4>><<START>>
+Ribbi-Roi<<END_STR>>
+<<END>>
+<<POS_53_4>><<START>>
+Mustrum<<END_STR>>
+<<END>>
+<<POS_54_4>><<START>>
+Gadis<<END_STR>>
+<<END>>
+<<POS_55_4>><<START>>
+Bami<<END_STR>>
+<<END>>
+<<POS_56_4>><<START>>
+Sol-Galba 2<<END_STR>>
+<<END>>
+<<POS_57_4>><<START>>
+Eldeel<<END_STR>>
+<<END>>
+<<POS_58_4>><<START>>
+Girguzalm<<END_STR>>
+<<END>>
+<<POS_59_4>><<START>>
+Zerivutz<<END_STR>>
+<<END>>
+<<POS_60_4>><<START>>
+Bulaghoul<<END_STR>>
+<<END>>
+<<POS_61_4>><<START>>
+Akasha-Glyph<<END_STR>>
+<<END>>
+<<POS_62_4>><<START>>
+Phantom Gruda<<END_STR>>
+<<END>>
+<<POS_63_4>><<START>>
+Boss Rush<<END_STR>>
+<<END>>
+<<POS_64_4>><<START>>
+Fewest Retries<<END_STR>>
+<<END>>

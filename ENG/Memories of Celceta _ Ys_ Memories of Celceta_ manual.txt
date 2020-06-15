@@ -1,0 +1,174 @@
+<<POS_3_3>><<START>>
+Basic Controls<<END_STR>>
+<<END>>
+<<POS_4_3>><<START>>
+Saving Progress<<END_STR>>
+<<END>>
+<<POS_5_3>><<START>>
+Memories Menu<<END_STR>>
+<<END>>
+<<POS_6_3>><<START>>
+Equipment<<END_STR>>
+<<END>>
+<<POS_7_3>><<START>>
+Using Items<<END_STR>>
+<<END>>
+<<POS_8_3>><<START>>
+Journal<<END_STR>>
+<<END>>
+<<POS_9_3>><<START>>
+Map<<END_STR>>
+<<END>>
+<<POS_10_3>><<START>>
+Minimap<<END_STR>>
+<<END>>
+<<POS_11_3>><<START>>
+Warping<<END_STR>>
+<<END>>
+<<POS_12_3>><<START>>
+Party Formation<<END_STR>>
+<<END>>
+<<POS_13_3>><<START>>
+Warping (2)<<END_STR>>
+<<END>>
+<<POS_14_3>><<START>>
+Battle Controls<<END_STR>>
+<<END>>
+<<POS_15_3>><<START>>
+Attack Types<<END_STR>>
+<<END>>
+<<POS_16_3>><<START>>
+Enemy Information<<END_STR>>
+<<END>>
+<<POS_17_3>><<START>>
+Learn/Equip Skills<<END_STR>>
+<<END>>
+<<POS_18_3>><<START>>
+Using Skills<<END_STR>>
+<<END>>
+<<POS_19_3>><<START>>
+EXTRA Skills<<END_STR>>
+<<END>>
+<<POS_20_3>><<START>>
+Battle Tips<<END_STR>>
+<<END>>
+<<POS_21_3>><<START>>
+Attack Bonuses<<END_STR>>
+<<END>>
+<<POS_22_3>><<START>>
+Advanced Controls<<END_STR>>
+<<END>>
+<<POS_23_3>><<START>>
+Party Orders<<END_STR>>
+<<END>>
+<<POS_24_3>><<START>>
+Party Abilities<<END_STR>>
+<<END>>
+<<POS_25_3>><<START>>
+Quests (1)<<END_STR>>
+<<END>>
+<<POS_26_3>><<START>>
+Quests (2)<<END_STR>>
+<<END>>
+<<POS_27_3>><<START>>
+Using Shops<<END_STR>>
+<<END>>
+<<POS_28_3>><<START>>
+Reinforcing<<END_STR>>
+<<END>>
+<<POS_29_3>><<START>>
+Weapon Reinforcements<<END_STR>>
+<<END>>
+<<POS_30_3>><<START>>
+Armor Reinforcements<<END_STR>>
+<<END>>
+<<POS_31_3>><<START>>
+Refining Ore<<END_STR>>
+<<END>>
+<<POS_32_3>><<START>>
+Exchanging Materials<<END_STR>>
+<<END>>
+<<POS_33_3>><<START>>
+Crafting Accessories<<END_STR>>
+<<END>>
+<<POS_34_3>><<START>>
+Reinforcing in Selray<<END_STR>>
+<<END>>
+<<POS_35_3>><<START>>
+Unleashing Artifacts<<END_STR>>
+<<END>>
+<<POS_36_3>><<START>>
+Synthesizing<<END_STR>>
+<<END>>
+<<POS_37_3>><<START>>
+Monuments/Retrying<<END_STR>>
+<<END>>
+<<POS_38_3>><<START>>
+Dropped Items<<END_STR>>
+<<END>>
+<<POS_39_3>><<START>>
+Resting<<END_STR>>
+<<END>>
+<<POS_40_3>><<START>>
+Camping and Memories<<END_STR>>
+<<END>>
+<<POS_41_3>><<START>>
+Day and Night Cycle<<END_STR>>
+<<END>>
+<<POS_42_3>><<START>>
+Status Effects<<END_STR>>
+<<END>>
+<<POS_43_3>><<START>>
+Touch Puzzles<<END_STR>>
+<<END>>
+<<POS_44_3>><<START>>
+Equipping Artifacts<<END_STR>>
+<<END>>
+<<POS_45_3>><<START>>
+　Dwarf Bracelet<<END_STR>>
+<<END>>
+<<POS_46_3>><<START>>
+　Water Dragon's Scales<<END_STR>>
+<<END>>
+<<POS_47_3>><<START>>
+　Gale Shoes<<END_STR>>
+<<END>>
+<<POS_48_3>><<START>>
+　Beast King's Claws<<END_STR>>
+<<END>>
+<<POS_49_3>><<START>>
+　Spirit Cape<<END_STR>>
+<<END>>
+<<POS_50_3>><<START>>
+　Sacred Beast Collar<<END_STR>>
+<<END>>
+<<POS_51_3>><<START>>
+　Aeolus Urn<<END_STR>>
+<<END>>
+<<POS_52_3>><<START>>
+　Ares Seal<<END_STR>>
+<<END>>
+<<POS_53_3>><<START>>
+Unique Actions<<END_STR>>
+<<END>>
+<<POS_54_3>><<START>>
+　Adol<<END_STR>>
+<<END>>
+<<POS_55_3>><<START>>
+　Duren<<END_STR>>
+<<END>>
+<<POS_56_3>><<START>>
+　Karna<<END_STR>>
+<<END>>
+<<POS_57_3>><<START>>
+　Ozma<<END_STR>>
+<<END>>
+<<POS_58_3>><<START>>
+　Calilica<<END_STR>>
+<<END>>
+<<POS_59_3>><<START>>
+　Frieda<<END_STR>>
+<<END>>
+<<POS_60_3>><<START>>
+　Adol (2)<<END_STR>>
+<<END>>

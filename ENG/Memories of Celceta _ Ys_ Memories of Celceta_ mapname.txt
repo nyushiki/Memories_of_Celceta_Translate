@@ -1,0 +1,480 @@
+<<POS_3_2>><<START>>
+Frontier City of Casnan<<END_STR>>
+<<POS_3_3>>
+Frontier City of Casnan<<END_STR>>
+<<END>>
+<<POS_4_2>><<START>>
+Comodo Village<<END_STR>>
+<<POS_4_3>>
+Comodo Village<<END_STR>>
+<<END>>
+<<POS_5_2>><<START>>
+Selray Village<<END_STR>>
+<<POS_5_3>>
+Selray Village<<END_STR>>
+<<END>>
+<<POS_6_2>><<START>>
+Highland Town<<END_STR>>
+<<POS_6_3>>
+Highland Town<<END_STR>>
+<<END>>
+<<POS_7_2>><<START>>
+Danan Village<<END_STR>>
+<<POS_7_3>>
+Danan Village<<END_STR>>
+<<END>>
+<<POS_8_2>><<START>>
+Elduke, the Ruined Capital<<END_STR>>
+<<POS_8_3>>
+Elduke, the Ruined Capital<<END_STR>>
+<<END>>
+<<POS_11_2>><<START>>
+Forest of Dawn Entrance: Camp<<END_STR>>
+<<POS_11_3>>
+Forest of Dawn <<END_STR>>
+<<END>>
+<<POS_12_2>><<START>>
+Forest of Dawn: Camp<<END_STR>>
+<<POS_12_3>>
+Forest of Dawn <<END_STR>>
+<<END>>
+<<POS_13_2>><<START>>
+Algon River Basin: Camp<<END_STR>>
+<<POS_13_3>>
+Algon River Basin<<END_STR>>
+<<END>>
+<<POS_14_2>><<START>>
+Sanctuary of Storms: Camp<<END_STR>>
+<<POS_14_3>>
+Sanctuary of Storms<<END_STR>>
+<<END>>
+<<POS_15_2>><<START>>
+Table Mountain: Camp<<END_STR>>
+<<POS_15_3>>
+Table Mountain<<END_STR>>
+<<END>>
+<<POS_16_2>><<START>>
+Forest of Ash: Camp<<END_STR>>
+<<POS_16_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_19_2>><<START>>
+Beast Plains<<END_STR>>
+<<POS_19_3>>
+Beast Plains<<END_STR>>
+<<END>>
+<<POS_20_2>><<START>>
+Beast Plains<<END_STR>>
+<<POS_20_3>>
+Beast Plains<<END_STR>>
+<<END>>
+<<POS_22_2>><<START>>
+Forest of Dawn: East<<END_STR>>
+<<POS_22_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_23_2>><<START>>
+Forest of Dawn: East<<END_STR>>
+<<POS_23_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_24_2>><<START>>
+Forest of Dawn: East<<END_STR>>
+<<POS_24_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_25_2>><<START>>
+Forest of Dawn: East<<END_STR>>
+<<POS_25_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_26_2>><<START>>
+Forest of Dawn: East<<END_STR>>
+<<POS_26_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_27_2>><<START>>
+Forest of Dawn: Nameless Ruin<<END_STR>>
+<<POS_27_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_29_2>><<START>>
+Forest of Dawn: Wetlands<<END_STR>>
+<<POS_29_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_30_2>><<START>>
+Forest of Dawn: Wetlands<<END_STR>>
+<<POS_30_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_31_2>><<START>>
+Forest of Dawn: Wetlands<<END_STR>>
+<<POS_31_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_32_2>><<START>>
+Forest of Dawn: Sunlit Ruins<<END_STR>>
+<<POS_32_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_33_2>><<START>>
+Forest of Dawn: Wetlands<<END_STR>>
+<<POS_33_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_34_2>><<START>>
+Forest of Dawn: Stream<<END_STR>>
+<<POS_34_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_36_2>><<START>>
+Forest of Dawn: West<<END_STR>>
+<<POS_36_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_37_2>><<START>>
+Forest of Dawn: West<<END_STR>>
+<<POS_37_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_38_2>><<START>>
+Forest of Dawn: West<<END_STR>>
+<<POS_38_3>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_40_2>><<START>>
+Forest Labyrinth<<END_STR>>
+<<POS_40_3>>
+Forest Labyrinth<<END_STR>>
+<<END>>
+<<POS_42_2>><<START>>
+Gidona Crater<<END_STR>>
+<<POS_42_3>>
+Gidona Crater<<END_STR>>
+<<END>>
+<<POS_43_2>><<START>>
+Gidona Crater<<END_STR>>
+<<POS_43_3>>
+Gidona Crater<<END_STR>>
+<<END>>
+<<POS_44_2>><<START>>
+Gidona Crater<<END_STR>>
+<<POS_44_3>>
+Gidona Crater<<END_STR>>
+<<END>>
+<<POS_45_2>><<START>>
+Gidona Crater<<END_STR>>
+<<POS_45_3>>
+Gidona Crater<<END_STR>>
+<<END>>
+<<POS_47_2>><<START>>
+Misty Peak<<END_STR>>
+<<POS_47_3>>
+Misty Peak<<END_STR>>
+<<END>>
+<<POS_49_2>><<START>>
+Algon River Basin<<END_STR>>
+<<POS_49_3>>
+Algon River Basin<<END_STR>>
+<<END>>
+<<POS_50_2>><<START>>
+Algon River Basin<<END_STR>>
+<<POS_50_3>>
+Algon River Basin<<END_STR>>
+<<END>>
+<<POS_52_2>><<START>>
+Tranquil Hill<<END_STR>>
+<<POS_52_3>>
+Tranquil Hill<<END_STR>>
+<<END>>
+<<POS_54_2>><<START>>
+Plateau Path<<END_STR>>
+<<POS_54_3>>
+Plateau Path<<END_STR>>
+<<END>>
+<<POS_55_2>><<START>>
+Plateau Path<<END_STR>>
+<<POS_55_3>>
+Plateau Path<<END_STR>>
+<<END>>
+<<POS_56_2>><<START>>
+Plateau Path: Stargazer Ruins<<END_STR>>
+<<POS_56_3>>
+Plateau Path<<END_STR>>
+<<END>>
+<<POS_58_2>><<START>>
+Sanctuary Approach<<END_STR>>
+<<POS_58_3>>
+Sanctuary Approach<<END_STR>>
+<<END>>
+<<POS_59_2>><<START>>
+Sanctuary Approach<<END_STR>>
+<<POS_59_3>>
+Sanctuary Approach<<END_STR>>
+<<END>>
+<<POS_60_2>><<START>>
+Sanctuary Approach<<END_STR>>
+<<POS_60_3>>
+Sanctuary Approach<<END_STR>>
+<<END>>
+<<POS_62_2>><<START>>
+Sanctuary of Storms<<END_STR>>
+<<POS_62_3>>
+Sanctuary of Storms<<END_STR>>
+<<END>>
+<<POS_63_2>><<START>>
+Sanctuary of Storms<<END_STR>>
+<<POS_63_3>>
+Sanctuary of Storms<<END_STR>>
+<<END>>
+<<POS_65_2>><<START>>
+Tower of Providence<<END_STR>>
+<<POS_65_3>>
+Sanctuary of Storms<<END_STR>>
+<<END>>
+<<POS_67_2>><<START>>
+Table Mountain: Summit<<END_STR>>
+<<POS_67_3>>
+Table Mountain<<END_STR>>
+<<END>>
+<<POS_68_2>><<START>>
+Table Mountain: Halfway Point<<END_STR>>
+<<POS_68_3>>
+Table Mountain<<END_STR>>
+<<END>>
+<<POS_69_2>><<START>>
+Table Mountain: Halfway Point<<END_STR>>
+<<POS_69_3>>
+Table Mountain<<END_STR>>
+<<END>>
+<<POS_70_2>><<START>>
+Table Mountain: Base<<END_STR>>
+<<POS_70_3>>
+Table Mountain<<END_STR>>
+<<END>>
+<<POS_72_2>><<START>>
+Subterranean Forest: Entrance<<END_STR>>
+<<POS_72_3>>
+Subterranean Forest<<END_STR>>
+<<END>>
+<<POS_73_2>><<START>>
+Subterranean Forest<<END_STR>>
+<<POS_73_3>>
+Subterranean Forest<<END_STR>>
+<<END>>
+<<POS_75_2>><<START>>
+Ashen Forest: Miasmic Road<<END_STR>>
+<<POS_75_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_76_2>><<START>>
+Ashen Forest: Miasmic Road<<END_STR>>
+<<POS_76_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_77_2>><<START>>
+Ashen Forest: Miasmic Road<<END_STR>>
+<<POS_77_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_78_2>><<START>>
+Ashen Forest: Miasmic Road<<END_STR>>
+<<POS_78_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_79_2>><<START>>
+Ashen Forest: Miasmic Road<<END_STR>>
+<<POS_79_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_80_2>><<START>>
+Ashen Forest: Outskirts<<END_STR>>
+<<POS_80_3>>
+Ashen Forest: Outskirts<<END_STR>>
+<<END>>
+<<POS_82_2>><<START>>
+Ashen Forest: Marshland<<END_STR>>
+<<POS_82_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_83_2>><<START>>
+Ashen Forest: Marshland<<END_STR>>
+<<POS_83_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_84_2>><<START>>
+Ashen Forest: Marshland<<END_STR>>
+<<POS_84_3>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_86_2>><<START>>
+Forest of Spores<<END_STR>>
+<<POS_86_3>>
+Forest of Spores<<END_STR>>
+<<END>>
+<<POS_87_2>><<START>>
+Forest of Spores<<END_STR>>
+<<POS_87_3>>
+Forest of Spores<<END_STR>>
+<<END>>
+<<POS_88_2>><<START>>
+Forest of Spores<<END_STR>>
+<<POS_88_3>>
+Forest of Spores<<END_STR>>
+<<END>>
+<<POS_89_2>><<START>>
+Forest of Spores<<END_STR>>
+<<POS_89_3>>
+Forest of Spores<<END_STR>>
+<<END>>
+<<POS_91_2>><<START>>
+Colonia Battlefield<<END_STR>>
+<<POS_91_3>>
+Colonia Battlefield<<END_STR>>
+<<END>>
+<<POS_92_2>><<START>>
+Colonia Battlefield<<END_STR>>
+<<POS_92_3>>
+Colonia Battlefield<<END_STR>>
+<<END>>
+<<POS_93_2>><<START>>
+Colonia Battlefield: Ruin<<END_STR>>
+<<POS_93_3>>
+Colonia Battlefield<<END_STR>>
+<<END>>
+<<POS_95_2>><<START>>
+Elduke Outskirts: Mt. Base<<END_STR>>
+<<POS_95_3>>
+Elduke Outskirts<<END_STR>>
+<<END>>
+<<POS_96_2>><<START>>
+Elduke Outskirts: Mt. Pass<<END_STR>>
+<<POS_96_3>>
+Elduke Outskirts<<END_STR>>
+<<END>>
+<<POS_98_2>><<START>>
+Lake Tolmes<<END_STR>>
+<<POS_98_3>>
+Lake Tolmes<<END_STR>>
+<<END>>
+<<POS_100_2>><<START>>
+Roos' Nest<<END_STR>>
+<<POS_100_3>>
+Roos' Nest<<END_STR>>
+<<END>>
+<<POS_103_2>><<START>>
+Casnia Mine<<END_STR>>
+<<POS_103_3>>
+Casnia Mine<<END_STR>>
+<<END>>
+<<POS_104_2>><<START>>
+Ancient Burrow<<END_STR>>
+<<POS_104_3>>
+Ancient Burrow<<END_STR>>
+<<END>>
+<<POS_105_2>><<START>>
+Sacred Beasts' Lair<<END_STR>>
+<<POS_105_3>>
+Sacred Beasts' Lair<<END_STR>>
+<<END>>
+<<POS_106_2>><<START>>
+Underground Ruins<<END_STR>>
+<<POS_106_3>>
+Underground Ruins<<END_STR>>
+<<END>>
+<<POS_107_2>><<START>>
+Tower of Providence<<END_STR>>
+<<POS_107_3>>
+Tower of Providence<<END_STR>>
+<<END>>
+<<POS_108_2>><<START>>
+Tower of Providence: Outside<<END_STR>>
+<<POS_108_3>>
+Tower of Providence<<END_STR>>
+<<END>>
+<<POS_109_2>><<START>>
+Tower of Providence: Summit<<END_STR>>
+<<POS_109_3>>
+Tower of Providence<<END_STR>>
+<<END>>
+<<POS_110_2>><<START>>
+Eldeel's Room<<END_STR>>
+<<POS_110_3>>
+Tower of Providence<<END_STR>>
+<<END>>
+<<POS_111_2>><<START>>
+Colonia Artifact Laboratory<<END_STR>>
+<<POS_111_3>>
+Colonia Artifact Laboratory<<END_STR>>
+<<END>>
+<<POS_112_2>><<START>>
+Lake Tolmes Ruins<<END_STR>>
+<<POS_112_3>>
+Lake Tolmes Ruins<<END_STR>>
+<<END>>
+<<POS_113_2>><<START>>
+Mt. Vesuvio: Snowy Peak<<END_STR>>
+<<POS_113_3>>
+Mt. Vesuvio<<END_STR>>
+<<END>>
+<<POS_114_2>><<START>>
+Mt. Vesuvio: Volcano<<END_STR>>
+<<POS_114_3>>
+Mt. Vesuvio<<END_STR>>
+<<END>>
+<<POS_115_2>><<START>>
+Temple of the Sun<<END_STR>>
+<<POS_115_3>>
+Temple of the Sun<<END_STR>>
+<<END>>
+<<POS_116_2>><<START>>
+Iris: Crossroads<<END_STR>>
+<<POS_116_3>>
+Iris, the World of Records<<END_STR>>
+<<END>>
+<<POS_117_2>><<START>>
+Iris: Bronze Area<<END_STR>>
+<<POS_117_3>>
+Iris, the World of Records<<END_STR>>
+<<END>>
+<<POS_118_2>><<START>>
+Iris: Silver Area<<END_STR>>
+<<POS_118_3>>
+Iris, the World of Records<<END_STR>>
+<<END>>
+<<POS_119_2>><<START>>
+Iris: Gold Area<<END_STR>>
+<<POS_119_3>>
+Iris, the World of Records<<END_STR>>
+<<END>>
+<<POS_120_2>><<START>>
+Iris: Central Area<<END_STR>>
+<<POS_120_3>>
+Iris, the World of Records<<END_STR>>
+<<END>>
+<<POS_121_2>><<START>>
+Jade Cave<<END_STR>>
+<<POS_121_3>>
+Jade Cave<<END_STR>>
+<<END>>
+<<POS_122_2>><<START>>
+Waterfall Cave<<END_STR>>
+<<POS_122_3>>
+Waterfall Cave<<END_STR>>
+<<END>>
+<<POS_123_2>><<START>>
+Quartz Cave<<END_STR>>
+<<POS_123_3>>
+Quartz Cave<<END_STR>>
+<<END>>
+<<POS_124_2>><<START>>
+Frogs' Inn<<END_STR>>
+<<POS_124_3>>
+Frogs' Inn<<END_STR>>
+<<END>>
+<<POS_127_2>><<START>>
+General Government Building<<END_STR>>
+<<POS_127_3>>
+General Government Building<<END_STR>>
+<<END>>

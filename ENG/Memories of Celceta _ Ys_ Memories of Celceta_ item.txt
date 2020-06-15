@@ -1,0 +1,1966 @@
+<<POS_3_2>><<START>>
+Short Sword<<END_STR>>
+<<POS_3_3>>
+STR 9<<END_STR>>
+<<POS_3_4>>
+Favored by soldiers in training for its ease of use.<<END_STR>>
+<<END>>
+<<POS_4_2>><<START>>
+Long Saber<<END_STR>>
+<<POS_4_3>>
+STR 28<<END_STR>>
+<<POS_4_4>>
+Steel sword renowned for its length and ideal weight.<<END_STR>>
+<<END>>
+<<POS_5_2>><<START>>
+Slasher<<END_STR>>
+<<POS_5_3>>
+STR 44 / Poison 5%<<END_STR>>
+<<POS_5_4>>
+Sword with a wide blade designed for hunting.<<END_STR>>
+<<END>>
+<<POS_6_2>><<START>>
+Bronze Edge<<END_STR>>
+<<POS_6_3>>
+STR 50 / Paralysis 5%<<END_STR>>
+<<POS_6_4>>
+One-handed sword with reduced water resistance.<<END_STR>>
+<<END>>
+<<POS_7_2>><<START>>
+Slasher DX<<END_STR>>
+<<POS_7_3>>
+STR 63 / Poison 5%<<END_STR>>
+<<POS_7_4>>
+Sword modified for heavy use by veteran hunters.<<END_STR>>
+<<END>>
+<<POS_8_2>><<START>>
+Bronze Edge DX<<END_STR>>
+<<POS_8_3>>
+STR 67 / Paralysis 5%<<END_STR>>
+<<POS_8_4>>
+Shark-like. Can take down even the largest fish.<<END_STR>>
+<<END>>
+<<POS_9_2>><<START>>
+Claymore<<END_STR>>
+<<POS_9_3>>
+STR 102<<END_STR>>
+<<POS_9_4>>
+Large sword used by knights. Unwieldy yet sharp.<<END_STR>>
+<<END>>
+<<POS_10_2>><<START>>
+Soul Biter<<END_STR>>
+<<POS_10_3>>
+STR 146<<END_STR>>
+<<POS_10_4>>
+Infused with magic and refined with a special alloy.<<END_STR>>
+<<END>>
+<<POS_11_2>><<START>>
+Rune Blade<<END_STR>>
+<<POS_11_3>>
+STR 201<<END_STR>>
+<<POS_11_4>>
+Mysterious lightweight sword containing holy power.<<END_STR>>
+<<END>>
+<<POS_12_2>><<START>>
+Apocalypse<<END_STR>>
+<<POS_12_3>>
+STR 244<<END_STR>>
+<<POS_12_4>>
+Sacred sword that's seen use in countless battles.<<END_STR>>
+<<END>>
+<<POS_13_2>><<START>>
+Ajax Sword<<END_STR>>
+<<POS_13_3>>
+STR 266<<END_STR>>
+<<POS_13_4>>
+Recreated using rare ore. Can cut through anything.<<END_STR>>
+<<END>>
+<<POS_14_2>><<START>>
+Spectacular Heat Sword<<END_STR>>
+<<POS_14_3>>
+STR 73 / Burning 30%<<END_STR>>
+<<POS_14_4>>
+Forged in Selray. A sword so hot, it burns its user.<<END_STR>>
+<<END>>
+<<POS_15_2>><<START>>
+Flame Sword<<END_STR>>
+<<POS_15_3>>
+STR 74 / Burning 30%<<END_STR>>
+<<POS_15_4>>
+Refined in Selray. Makes foes burst into flames.<<END_STR>>
+<<END>>
+<<POS_23_2>><<START>>
+Brass Knuckle<<END_STR>>
+<<POS_23_3>>
+STR 8<<END_STR>>
+<<POS_23_4>>
+Covers the wearer's fist in brass, raising strength.<<END_STR>>
+<<END>>
+<<POS_24_2>><<START>>
+Steel Gauntlet<<END_STR>>
+<<POS_24_3>>
+STR 26<<END_STR>>
+<<POS_24_4>>
+Steel gauntlet designed for intense melee combat.<<END_STR>>
+<<END>>
+<<POS_25_2>><<START>>
+Eagle Head<<END_STR>>
+<<POS_25_3>>
+STR 41 / Poison 5%<<END_STR>>
+<<POS_25_4>>
+Resembles an eagle's head. Deals focused damage.<<END_STR>>
+<<END>>
+<<POS_26_2>><<START>>
+Shark Fin<<END_STR>>
+<<POS_26_3>>
+STR 46 / Paralysis 5%<<END_STR>>
+<<POS_26_4>>
+Modeled on sacred beast claws. For aquatic enemies.<<END_STR>>
+<<END>>
+<<POS_27_2>><<START>>
+Eagle Head DX<<END_STR>>
+<<POS_27_3>>
+STR 59 / Poison 5%<<END_STR>>
+<<POS_27_4>>
+Modified for battle against beasts in the Great Forest.<<END_STR>>
+<<END>>
+<<POS_28_2>><<START>>
+Shark Fin DX<<END_STR>>
+<<POS_28_3>>
+STR 63 / Paralysis 5%<<END_STR>>
+<<POS_28_4>>
+Modeled on a Sparda's claws. Hard and sharp.<<END_STR>>
+<<END>>
+<<POS_29_2>><<START>>
+Heavy Gauntlet<<END_STR>>
+<<POS_29_3>>
+STR 95<<END_STR>>
+<<POS_29_4>>
+Extremely solid, destructive gauntlet made of steel.<<END_STR>>
+<<END>>
+<<POS_30_2>><<START>>
+Belial Claw<<END_STR>>
+<<POS_30_3>>
+STR 142<<END_STR>>
+<<POS_30_4>>
+Lethal, lightweight gauntlet designed for espionage.<<END_STR>>
+<<END>>
+<<POS_31_2>><<START>>
+Holy Glove<<END_STR>>
+<<POS_31_3>>
+STR 187<<END_STR>>
+<<POS_31_4>>
+Ancient Celcetan gauntlet used to defeat great evil.<<END_STR>>
+<<END>>
+<<POS_32_2>><<START>>
+Purgatorio<<END_STR>>
+<<POS_32_3>>
+STR 227<<END_STR>>
+<<POS_32_4>>
+Modeled on a purgatorial dragon. Immensely powerful.<<END_STR>>
+<<END>>
+<<POS_33_2>><<START>>
+Baldr's Gauntlet<<END_STR>>
+<<POS_33_3>>
+STR 248<<END_STR>>
+<<POS_33_4>>
+Recreated using rare ore. Can turn the tide of battle.<<END_STR>>
+<<END>>
+<<POS_34_2>><<START>>
+Superb Toxic Gauntlet<<END_STR>>
+<<POS_34_3>>
+STR 76 / Poison 30%<<END_STR>>
+<<POS_34_4>>
+Forged in Selray. Poison release function is flawed.<<END_STR>>
+<<END>>
+<<POS_35_2>><<START>>
+Venom Knuckle<<END_STR>>
+<<POS_35_3>>
+STR 77 / Poison 30%<<END_STR>>
+<<POS_35_4>>
+Refined in Selray. Its sharp claws bear lethal poison.<<END_STR>>
+<<END>>
+<<POS_43_2>><<START>>
+Spear Fangs<<END_STR>>
+<<POS_43_3>>
+STR 46<<END_STR>>
+<<POS_43_4>>
+Romun knives designed to exploit gaps in armor.<<END_STR>>
+<<END>>
+<<POS_44_2>><<START>>
+Hunter Knives<<END_STR>>
+<<POS_44_3>>
+STR 43 / Poison 5%<<END_STR>>
+<<POS_44_4>>
+Light throwing knives used for hunting in the forest.<<END_STR>>
+<<END>>
+<<POS_45_2>><<START>>
+Hunter Knives DX<<END_STR>>
+<<POS_45_3>>
+STR 57 / Poison 5%<<END_STR>>
+<<POS_45_4>>
+Knives with added weight, used by veteran hunters.<<END_STR>>
+<<END>>
+<<POS_46_2>><<START>>
+Feather Knives<<END_STR>>
+<<POS_46_3>>
+STR 92<<END_STR>>
+<<POS_46_4>>
+Light yet durable throwing knives.<<END_STR>>
+<<END>>
+<<POS_47_2>><<START>>
+Shadow Eaters<<END_STR>>
+<<POS_47_3>>
+STR 138<<END_STR>>
+<<POS_47_4>>
+Jet black knives. Used to hunt under cover of night.<<END_STR>>
+<<END>>
+<<POS_48_2>><<START>>
+Holy Knives<<END_STR>>
+<<POS_48_3>>
+STR 181<<END_STR>>
+<<POS_48_4>>
+Sacred knives which purify all they pierce.<<END_STR>>
+<<END>>
+<<POS_49_2>><<START>>
+Judgment<<END_STR>>
+<<POS_49_3>>
+STR 220<<END_STR>>
+<<POS_49_4>>
+Knives which bring down judgment on the wicked.<<END_STR>>
+<<END>>
+<<POS_50_2>><<START>>
+Venus Knives<<END_STR>>
+<<POS_50_3>>
+STR 240<<END_STR>>
+<<POS_50_4>>
+Recreated using rare ore. Sharp blades to pierce evil.<<END_STR>>
+<<END>>
+<<POS_51_2>><<START>>
+Amazing Viscous Knives<<END_STR>>
+<<POS_51_3>>
+STR 105 / Heavy 30%<<END_STR>>
+<<POS_51_4>>
+Forged in Selray. The webbing within tends to tangle.<<END_STR>>
+<<END>>
+<<POS_52_2>><<START>>
+Spider Edge<<END_STR>>
+<<POS_52_3>>
+STR 106 / Heavy 30%<<END_STR>>
+<<POS_52_4>>
+Refined in Selray. Entwines foes with fine thread.<<END_STR>>
+<<END>>
+<<POS_63_2>><<START>>
+Long Spear<<END_STR>>
+<<POS_63_3>>
+STR 58<<END_STR>>
+<<POS_63_4>>
+Steel spear for Romun Army use. Heavy but powerful.<<END_STR>>
+<<END>>
+<<POS_64_2>><<START>>
+Azure Pain<<END_STR>>
+<<POS_64_3>>
+STR 55 / Paralysis 5%<<END_STR>>
+<<POS_64_4>>
+Spear favored by Selray fishermen. Perfect in water.<<END_STR>>
+<<END>>
+<<POS_65_2>><<START>>
+Azure Pain DX<<END_STR>>
+<<POS_65_3>>
+STR 74 / Paralysis 5%<<END_STR>>
+<<POS_65_4>>
+Modified to combat monsters that obstruct fishing.<<END_STR>>
+<<END>>
+<<POS_66_2>><<START>>
+Trident<<END_STR>>
+<<POS_66_3>>
+STR 112<<END_STR>>
+<<POS_66_4>>
+Based on the spear used by a god from far-off lands.<<END_STR>>
+<<END>>
+<<POS_67_2>><<START>>
+Calamity Pike<<END_STR>>
+<<POS_67_3>>
+STR 167<<END_STR>>
+<<POS_67_4>>
+A black spear capable of delivering powerful impacts.<<END_STR>>
+<<END>>
+<<POS_68_2>><<START>>
+Grail Spear<<END_STR>>
+<<POS_68_3>>
+STR 220<<END_STR>>
+<<POS_68_4>>
+An ancient spear blessed by sacred beasts.<<END_STR>>
+<<END>>
+<<POS_69_2>><<START>>
+Ragnarok<<END_STR>>
+<<POS_69_3>>
+STR 267<<END_STR>>
+<<POS_69_4>>
+Contains the souls of countless fallen warriors.<<END_STR>>
+<<END>>
+<<POS_70_2>><<START>>
+Jupiter Spear<<END_STR>>
+<<POS_70_3>>
+STR 291<<END_STR>>
+<<POS_70_4>>
+Recreated using rare ore. Its power dominates all.<<END_STR>>
+<<END>>
+<<POS_71_2>><<START>>
+Perilous Thunder Spear<<END_STR>>
+<<POS_71_3>>
+STR 120 / Paralysis 30%<<END_STR>>
+<<POS_71_4>>
+Forged in Selray. Unable to control the lightning inside.<<END_STR>>
+<<END>>
+<<POS_72_2>><<START>>
+Lightning Spear<<END_STR>>
+<<POS_72_3>>
+STR 121 / Paralysis 30%<<END_STR>>
+<<POS_72_4>>
+Refined in Selray. Contains the power of lightning.<<END_STR>>
+<<END>>
+<<POS_83_2>><<START>>
+Golden Mace<<END_STR>>
+<<POS_83_3>>
+STR 108<<END_STR>>
+<<POS_83_4>>
+Gold-colored mace. Damages foes with its weight.<<END_STR>>
+<<END>>
+<<POS_84_2>><<START>>
+Prism Mace<<END_STR>>
+<<POS_84_3>>
+STR 99<<END_STR>>
+<<POS_84_4>>
+Used by Apostles. Magic visibly flows within.<<END_STR>>
+<<END>>
+<<POS_85_2>><<START>>
+Demonic Mace<<END_STR>>
+<<POS_85_3>>
+STR 148<<END_STR>>
+<<POS_85_4>>
+Infused with magic. Made with Dananian technology.<<END_STR>>
+<<END>>
+<<POS_86_2>><<START>>
+Sacred Mace<<END_STR>>
+<<POS_86_3>>
+STR 195<<END_STR>>
+<<POS_86_4>>
+Said to have been used by Celcetan clergymen.<<END_STR>>
+<<END>>
+<<POS_87_2>><<START>>
+Armageddon<<END_STR>>
+<<POS_87_3>>
+STR 237<<END_STR>>
+<<POS_87_4>>
+Highly destructive mace imbued with immense magic.<<END_STR>>
+<<END>>
+<<POS_88_2>><<START>>
+Gaia Mace<<END_STR>>
+<<POS_88_3>>
+STR 258<<END_STR>>
+<<POS_88_4>>
+Recreated with rare ore. Shakes the earth on impact.<<END_STR>>
+<<END>>
+<<POS_89_2>><<START>>
+Extreme Death Mace<<END_STR>>
+<<POS_89_3>>
+STR 153 / DEF -100 / Critical 30%<<END_STR>>
+<<POS_89_4>>
+Forged in Selray. So heavy, it leaves one defenseless.<<END_STR>>
+<<END>>
+<<POS_90_2>><<START>>
+Hyper Breaker<<END_STR>>
+<<POS_90_3>>
+STR 154 / Critical 30%<<END_STR>>
+<<POS_90_4>>
+Refined in Selray. Uncommonly heavy.<<END_STR>>
+<<END>>
+<<POS_103_2>><<START>>
+Great Halberd<<END_STR>>
+<<POS_103_3>>
+STR 165<<END_STR>>
+<<POS_103_4>>
+Used by heavily-armored Romun soldiers. Very strong.<<END_STR>>
+<<END>>
+<<POS_104_2>><<START>>
+Ancient Halberd<<END_STR>>
+<<POS_104_3>>
+STR 160<<END_STR>>
+<<POS_104_4>>
+Ancient halberd passed through the ages in Danan.<<END_STR>>
+<<END>>
+<<POS_105_2>><<START>>
+Rune Glaive<<END_STR>>
+<<POS_105_3>>
+STR 210<<END_STR>>
+<<POS_105_4>>
+Double-edged halberd glowing with holy power.<<END_STR>>
+<<END>>
+<<POS_106_2>><<START>>
+Elysium<<END_STR>>
+<<POS_106_3>>
+STR 255<<END_STR>>
+<<POS_106_4>>
+Halberd spawned from hell to admonish Darklings.<<END_STR>>
+<<END>>
+<<POS_107_2>><<START>>
+Echidna Halberd<<END_STR>>
+<<POS_107_3>>
+STR 278<<END_STR>>
+<<POS_107_4>>
+Recreated using rare ore. Harvests the souls of foes.<<END_STR>>
+<<END>>
+<<POS_108_2>><<START>>
+Incredible Icy Halberd<<END_STR>>
+<<POS_108_3>>
+STR 170 / Freezing 30%<<END_STR>>
+<<POS_108_4>>
+Forged in Selray. Freezes all who bear it.<<END_STR>>
+<<END>>
+<<POS_109_2>><<START>>
+Cruel Axe<<END_STR>>
+<<POS_109_3>>
+STR 171 / Freezing 30%<<END_STR>>
+<<POS_109_4>>
+Refined in Selray. Freezes all who oppose its wielder.<<END_STR>>
+<<END>>
+<<POS_123_2>><<START>>
+Leather Plate<<END_STR>>
+<<POS_123_3>>
+DEF 9<<END_STR>>
+<<POS_123_4>>
+Light, sturdy breastplate made of tanned beast hide.<<END_STR>>
+<<END>>
+<<POS_124_2>><<START>>
+Iron Breastplate<<END_STR>>
+<<POS_124_3>>
+DEF 24<<END_STR>>
+<<POS_124_4>>
+Sturdy steel armor used by Romun soldiers in training.<<END_STR>>
+<<END>>
+<<POS_125_2>><<START>>
+Beast Leather<<END_STR>>
+<<POS_125_3>>
+DEF 38<<END_STR>>
+<<POS_125_4>>
+Made from beast hide. Used for hunting in the forest.<<END_STR>>
+<<END>>
+<<POS_126_2>><<START>>
+Scale Mail<<END_STR>>
+<<POS_126_3>>
+DEF 43<<END_STR>>
+<<POS_126_4>>
+Armor covered with monster scales. Harder than iron.<<END_STR>>
+<<END>>
+<<POS_127_2>><<START>>
+Beast Leather DX<<END_STR>>
+<<POS_127_3>>
+DEF 55<<END_STR>>
+<<POS_127_4>>
+Modified to hold up indefinitely during long hunts.<<END_STR>>
+<<END>>
+<<POS_128_2>><<START>>
+Scale Mail DX<<END_STR>>
+<<POS_128_3>>
+DEF 60<<END_STR>>
+<<POS_128_4>>
+Light armor reinforced with layers of monster scales.<<END_STR>>
+<<END>>
+<<POS_129_2>><<START>>
+Lamellar Armor<<END_STR>>
+<<POS_129_3>>
+DEF 97<<END_STR>>
+<<POS_129_4>>
+Flexible, sturdy armor made with advanced technology.<<END_STR>>
+<<END>>
+<<POS_130_2>><<START>>
+Amber Coat<<END_STR>>
+<<POS_130_3>>
+DEF 75 / STR 4 (Male Only)<<END_STR>>
+<<POS_130_4>>
+Made from special fibers. Draws out latent potential.<<END_STR>>
+<<END>>
+<<POS_131_2>><<START>>
+Cerise Cape<<END_STR>>
+<<POS_131_3>>
+DEF 82 / STR 2 (Female Only)<<END_STR>>
+<<POS_131_4>>
+Amplifies inner power to make its wearer stronger.<<END_STR>>
+<<END>>
+<<POS_132_2>><<START>>
+Sorcery Robes<<END_STR>>
+<<POS_132_3>>
+DEF 127<<END_STR>>
+<<POS_132_4>>
+Made from the threads of magic-eating silkworms.<<END_STR>>
+<<END>>
+<<POS_133_2>><<START>>
+Rune Cloak<<END_STR>>
+<<POS_133_3>>
+DEF 173<<END_STR>>
+<<POS_133_4>>
+Sacred cloak blessed by the Roda Tree.<<END_STR>>
+<<END>>
+<<POS_134_2>><<START>>
+Saintly Robes<<END_STR>>
+<<POS_134_3>>
+DEF 228<<END_STR>>
+<<POS_134_4>>
+Said to have been worn by priests in ancient times.<<END_STR>>
+<<END>>
+<<POS_135_2>><<START>>
+Berserker Armor<<END_STR>>
+<<POS_135_3>>
+DEF 212 / STR 8 (Male Only)<<END_STR>>
+<<POS_135_4>>
+Worn by heavily-armored warriors in ancient times.<<END_STR>>
+<<END>>
+<<POS_136_2>><<START>>
+Valkyrie Dress<<END_STR>>
+<<POS_136_3>>
+DEF 218 / STR 4 (Female Only)<<END_STR>>
+<<POS_136_4>>
+Light armor worn by an ancient valkyrie.<<END_STR>>
+<<END>>
+<<POS_137_2>><<START>>
+Victor's Blessing<<END_STR>>
+<<POS_137_3>>
+DEF 239 / STR 12 (Male Only)<<END_STR>>
+<<POS_137_4>>
+Divine silver armor that illuminates darkness.<<END_STR>>
+<<END>>
+<<POS_138_2>><<START>>
+Victoria's Blessing<<END_STR>>
+<<POS_138_3>>
+DEF 252 / STR 6 (Female Only)<<END_STR>>
+<<POS_138_4>>
+Divine golden armor that repels evil.<<END_STR>>
+<<END>>
+<<POS_149_2>><<START>>
+Skill Ring I<<END_STR>>
+<<POS_149_3>>
+SP Consumption -10%<<END_STR>>
+<<POS_149_4>>
+Increases willpower. SP consumption down by 10%.<<END_STR>>
+<<END>>
+<<POS_150_2>><<START>>
+Skill Ring II<<END_STR>>
+<<POS_150_3>>
+SP Consumption -20%<<END_STR>>
+<<POS_150_4>>
+Increases willpower. SP consumption down by 20%.<<END_STR>>
+<<END>>
+<<POS_151_2>><<START>>
+Skill Ring III<<END_STR>>
+<<POS_151_3>>
+SP Consumption -35%<<END_STR>>
+<<POS_151_4>>
+Increases willpower. SP consumption down by 35%.<<END_STR>>
+<<END>>
+<<POS_152_2>><<START>>
+Skill Ring IV<<END_STR>>
+<<POS_152_3>>
+SP Consumption -50%<<END_STR>>
+<<POS_152_4>>
+Increases willpower. SP consumption down by 50%.<<END_STR>>
+<<END>>
+<<POS_153_2>><<START>>
+Life Ring I<<END_STR>>
+<<POS_153_3>>
+Max HP +100<<END_STR>>
+<<POS_153_4>>
+Ring that vitalizes its wearer. Raises max HP by 100.<<END_STR>>
+<<END>>
+<<POS_154_2>><<START>>
+Life Ring II<<END_STR>>
+<<POS_154_3>>
+Max HP +200<<END_STR>>
+<<POS_154_4>>
+Ring that vitalizes its wearer. Raises max HP by 200.<<END_STR>>
+<<END>>
+<<POS_155_2>><<START>>
+Life Ring III<<END_STR>>
+<<POS_155_3>>
+Max HP +350<<END_STR>>
+<<POS_155_4>>
+Ring that vitalizes its wearer. Raises max HP by 350.<<END_STR>>
+<<END>>
+<<POS_156_2>><<START>>
+Life Ring IV<<END_STR>>
+<<POS_156_3>>
+Max HP +500<<END_STR>>
+<<POS_156_4>>
+Ring that vitalizes its wearer. Raises max HP by 500.<<END_STR>>
+<<END>>
+<<POS_157_2>><<START>>
+Power Ring I<<END_STR>>
+<<POS_157_3>>
+STR +5<<END_STR>>
+<<POS_157_4>>
+Heightens its wearer's combat ability. STR up by 5.<<END_STR>>
+<<END>>
+<<POS_158_2>><<START>>
+Power Ring II<<END_STR>>
+<<POS_158_3>>
+STR +10<<END_STR>>
+<<POS_158_4>>
+Heightens its wearer's combat ability. STR up by 10.<<END_STR>>
+<<END>>
+<<POS_159_2>><<START>>
+Power Ring III<<END_STR>>
+<<POS_159_3>>
+STR +15<<END_STR>>
+<<POS_159_4>>
+Heightens its wearer's combat ability. STR up by 15.<<END_STR>>
+<<END>>
+<<POS_160_2>><<START>>
+Power Ring IV<<END_STR>>
+<<POS_160_3>>
+STR +20<<END_STR>>
+<<POS_160_4>>
+Heightens its wearer's combat ability. STR up by 20.<<END_STR>>
+<<END>>
+<<POS_161_2>><<START>>
+Shield Ring I<<END_STR>>
+<<POS_161_3>>
+DEF +5<<END_STR>>
+<<POS_161_4>>
+Ring that protects its wearer. Raises DEF by 5.<<END_STR>>
+<<END>>
+<<POS_162_2>><<START>>
+Shield Ring II<<END_STR>>
+<<POS_162_3>>
+DEF +10<<END_STR>>
+<<POS_162_4>>
+Ring that protects its wearer. Raises DEF by 10.<<END_STR>>
+<<END>>
+<<POS_163_2>><<START>>
+Shield Ring III<<END_STR>>
+<<POS_163_3>>
+DEF +15<<END_STR>>
+<<POS_163_4>>
+Ring that protects its wearer. Raises DEF by 15.<<END_STR>>
+<<END>>
+<<POS_164_2>><<START>>
+Shield Ring IV<<END_STR>>
+<<POS_164_3>>
+DEF +20<<END_STR>>
+<<POS_164_4>>
+Ring that protects its wearer. Raises DEF by 20.<<END_STR>>
+<<END>>
+<<POS_165_2>><<START>>
+Blue Ornament<<END_STR>>
+<<POS_165_3>>
+Obtain SP during aerial combos<<END_STR>>
+<<POS_165_4>>
+Aerial combos charge SP gauge.<<END_STR>>
+<<END>>
+<<POS_166_2>><<START>>
+Gold Ornament<<END_STR>>
+<<POS_166_3>>
+EXTRA gauge rises during aerial combos<<END_STR>>
+<<POS_166_4>>
+Aerial combos charge EXTRA gauge.<<END_STR>>
+<<END>>
+<<POS_167_2>><<START>>
+Blue Tree Earring<<END_STR>>
+<<POS_167_3>>
+Increases obtained SP<<END_STR>>
+<<POS_167_4>>
+A bewitching earring. Gain more SP when attacking.<<END_STR>>
+<<END>>
+<<POS_168_2>><<START>>
+Spirit Tree Earring<<END_STR>>
+<<POS_168_3>>
+Skills charge EXTRA gauge faster<<END_STR>>
+<<POS_168_4>>
+Increases EXTRA gauge charge rate when using skills.<<END_STR>>
+<<END>>
+<<POS_169_2>><<START>>
+Courage Belt<<END_STR>>
+<<POS_169_3>>
+Obtain SP when damaged<<END_STR>>
+<<POS_169_4>>
+Allows the wearer to obtain SP when damaged.<<END_STR>>
+<<END>>
+<<POS_170_2>><<START>>
+Mystical Belt<<END_STR>>
+<<POS_170_3>>
+Increases EXTRA gauge when damaged<<END_STR>>
+<<POS_170_4>>
+Increases EXTRA gauge when wearer is damaged.<<END_STR>>
+<<END>>
+<<POS_171_2>><<START>>
+Wanderer's Cloak<<END_STR>>
+<<POS_171_3>>
+Power depends on distance traveled<<END_STR>>
+<<POS_171_4>>
+Strengthens wearer based on total distance traveled.<<END_STR>>
+<<END>>
+<<POS_172_2>><<START>>
+Hero's Cloak<<END_STR>>
+<<POS_172_3>>
+Power depends on enemies defeated<<END_STR>>
+<<POS_172_4>>
+Strengthens wearer based on total enemies killed.<<END_STR>>
+<<END>>
+<<POS_173_2>><<START>>
+Risky Bandana<<END_STR>>
+<<POS_173_3>>
+STR +15 / DEF -15<<END_STR>>
+<<POS_173_4>>
+Represents the desire to defeat an enemy at any cost.<<END_STR>>
+<<END>>
+<<POS_174_2>><<START>>
+Perilous Bandana<<END_STR>>
+<<POS_174_3>>
+STR +5 / Increases damage at low HP<<END_STR>>
+<<POS_174_4>>
+Increases damage dealt when the wearer's HP is low.<<END_STR>>
+<<END>>
+<<POS_175_2>><<START>>
+Courage Scarf<<END_STR>>
+<<POS_175_3>>
+Obtain SP when walking<<END_STR>>
+<<POS_175_4>>
+Scarf which increases willpower. Gain SP by walking.<<END_STR>>
+<<END>>
+<<POS_176_2>><<START>>
+Hermit's Scarf<<END_STR>>
+<<POS_176_3>>
+Obtain EXP when walking<<END_STR>>
+<<POS_176_4>>
+Brings enlightenment to wearer. Gain EXP by walking.<<END_STR>>
+<<END>>
+<<POS_177_2>><<START>>
+Tactician's Gloves<<END_STR>>
+<<POS_177_3>>
+Recover more SP on Skill Finish<<END_STR>>
+<<POS_177_4>>
+Skill Finishes restore all SP used for the skill.<<END_STR>>
+<<END>>
+<<POS_178_2>><<START>>
+Immovability Belt<<END_STR>>
+<<POS_178_3>>
+Can't be knocked back during skills<<END_STR>>
+<<POS_178_4>>
+Wearer cannot be knocked back while using skills.<<END_STR>>
+<<END>>
+<<POS_179_2>><<START>>
+Flash Bracelet<<END_STR>>
+<<POS_179_3>>
+Recover HP on successful Flash Guard<<END_STR>>
+<<POS_179_4>>
+Recovers some HP after a successful Flash Guard.<<END_STR>>
+<<END>>
+<<POS_180_2>><<START>>
+Flash Anklet<<END_STR>>
+<<POS_180_3>>
+Extends Flash Move's slow motion time<<END_STR>>
+<<POS_180_4>>
+Extends slow-mo time after a successful Flash Move.<<END_STR>>
+<<END>>
+<<POS_181_2>><<START>>
+Snake Amulet<<END_STR>>
+<<POS_181_3>>
+Prevents Poison<<END_STR>>
+<<POS_181_4>>
+Charm with sacred snake design. Prevents Poison.<<END_STR>>
+<<END>>
+<<POS_182_2>><<START>>
+Swallow Amulet<<END_STR>>
+<<POS_182_3>>
+Prevents Heavy<<END_STR>>
+<<POS_182_4>>
+Charm with flying swallow design. Prevents Heavy.<<END_STR>>
+<<END>>
+<<POS_183_2>><<START>>
+Thunder Beast Charm<<END_STR>>
+<<POS_183_3>>
+Prevents Paralysis<<END_STR>>
+<<POS_183_4>>
+Charm with thunder beast design. Prevents Paralysis.<<END_STR>>
+<<END>>
+<<POS_184_2>><<START>>
+Crimson Scale Charm<<END_STR>>
+<<POS_184_3>>
+Prevents Burn<<END_STR>>
+<<POS_184_4>>
+Charm with crimson scale design. Prevents Burn.<<END_STR>>
+<<END>>
+<<POS_185_2>><<START>>
+Azure Scale Charm<<END_STR>>
+<<POS_185_3>>
+Prevents Freezing<<END_STR>>
+<<POS_185_4>>
+Charm with azure scale design. Prevents Freezing.<<END_STR>>
+<<END>>
+<<POS_186_2>><<START>>
+Silver Dragon Charm<<END_STR>>
+<<POS_186_3>>
+Prevents Curse / DEF +5<<END_STR>>
+<<POS_186_4>>
+Charm with silver dragon design. Prevents Curse.<<END_STR>>
+<<END>>
+<<POS_187_2>><<START>>
+Gold Dragon Charm<<END_STR>>
+<<POS_187_3>>
+Prevents Misfortune / STR +5<<END_STR>>
+<<POS_187_4>>
+Charm with gold dragon design. Prevents Misfortune.<<END_STR>>
+<<END>>
+<<POS_188_2>><<START>>
+Warrior Seal I<<END_STR>>
+<<POS_188_3>>
+Skill EXP Gain +1<<END_STR>>
+<<POS_188_4>>
+Expedites skill learning. Increases skill EXP gain by 1.<<END_STR>>
+<<END>>
+<<POS_189_2>><<START>>
+Warrior Seal II<<END_STR>>
+<<POS_189_3>>
+Skill EXP Gain +2<<END_STR>>
+<<POS_189_4>>
+Expedites skill learning. Increases skill EXP gain by 2.<<END_STR>>
+<<END>>
+<<POS_190_2>><<START>>
+Warrior Seal III<<END_STR>>
+<<POS_190_3>>
+Skill EXP Gain +3<<END_STR>>
+<<POS_190_4>>
+Expedites skill learning. Increases skill EXP gain by 3.<<END_STR>>
+<<END>>
+<<POS_191_2>><<START>>
+Warrior Seal IV<<END_STR>>
+<<POS_191_3>>
+Skill EXP Gain +4<<END_STR>>
+<<POS_191_4>>
+Expedites skill learning. Increases skill EXP gain by 4.<<END_STR>>
+<<END>>
+<<POS_192_2>><<START>>
+Silver Axe<<END_STR>>
+<<POS_192_3>>
+Increases drop rate of rare items<<END_STR>>
+<<POS_192_4>>
+Amulet shaped like an axe. Increases rare item drops.<<END_STR>>
+<<END>>
+<<POS_193_2>><<START>>
+Golden Axe<<END_STR>>
+<<POS_193_3>>
+Increases obtained gold<<END_STR>>
+<<POS_193_4>>
+Amulet shaped like an axe. Increases gold obtained.<<END_STR>>
+<<END>>
+<<POS_194_2>><<START>>
+Sage's Diadem<<END_STR>>
+<<POS_194_3>>
+Increases obtained EXP<<END_STR>>
+<<POS_194_4>>
+Symbolizes wisdom. Increases EXP obtained.<<END_STR>>
+<<END>>
+<<POS_195_2>><<START>>
+Saint's Diadem<<END_STR>>
+<<POS_195_3>>
+Converts obtained gold to EXP<<END_STR>>
+<<POS_195_4>>
+Radiates holy light. Obtain EXP instead of gold.<<END_STR>>
+<<END>>
+<<POS_196_2>><<START>>
+Spirit Necklace<<END_STR>>
+<<POS_196_3>>
+Revives wearer once upon death<<END_STR>>
+<<POS_196_4>>
+Revives its wearer once upon death, then breaks.<<END_STR>>
+<<END>>
+<<POS_197_2>><<START>>
+Bloodstained Magatama<<END_STR>>
+<<POS_197_3>>
+Attracts wandering spirit<<END_STR>>
+<<POS_197_4>>
+Ominous, bloody jewel. Attracts wandering spirit.<<END_STR>>
+<<END>>
+<<POS_198_2>><<START>>
+Holy Knight's Magatama<<END_STR>>
+<<POS_198_3>>
+Prevents Curse / STR +10 / DEF +10<<END_STR>>
+<<POS_198_4>>
+The soul of a purified holy knight. Protects wearer.<<END_STR>>
+<<END>>
+<<POS_199_2>><<START>>
+Hero's Ring<<END_STR>>
+<<POS_199_3>>
+Changes EXTRA skill<<END_STR>>
+<<POS_199_4>>
+Changes wearer's EXTRA skill to something stronger.<<END_STR>>
+<<END>>
+<<POS_658_2>><<START>>
+1 SP<<END_STR>>
+<<POS_658_4>>
+Life Energy<<END_STR>>
+<<END>>
+<<POS_659_2>><<START>>
+5 SP<<END_STR>>
+<<POS_659_4>>
+Life Energy<<END_STR>>
+<<END>>
+<<POS_660_2>><<START>>
+1 EX<<END_STR>>
+<<POS_660_4>>
+Life Energy<<END_STR>>
+<<END>>
+<<POS_661_2>><<START>>
+5 EX<<END_STR>>
+<<POS_661_4>>
+Life Energy<<END_STR>>
+<<END>>
+<<POS_662_2>><<START>>
+1 Gold<<END_STR>>
+<<POS_662_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_663_2>><<START>>
+5 Gold<<END_STR>>
+<<POS_663_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_664_2>><<START>>
+10 Gold<<END_STR>>
+<<POS_664_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_665_2>><<START>>
+50 Gold<<END_STR>>
+<<POS_665_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_666_2>><<START>>
+100 Gold<<END_STR>>
+<<POS_666_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_667_2>><<START>>
+500 Gold<<END_STR>>
+<<POS_667_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_668_2>><<START>>
+1000 Gold<<END_STR>>
+<<POS_668_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_669_2>><<START>>
+5000 Gold<<END_STR>>
+<<POS_669_4>>
+Money<<END_STR>>
+<<END>>
+<<POS_670_2>><<START>>
+1 HP<<END_STR>>
+<<POS_670_4>>
+Life Energy<<END_STR>>
+<<END>>
+<<POS_671_2>><<START>>
+5 HP<<END_STR>>
+<<POS_671_4>>
+Life Energy<<END_STR>>
+<<END>>
+<<POS_672_2>><<START>>
+Honey Potion<<END_STR>>
+<<POS_672_3>>
+Recovers 100 HP<<END_STR>>
+<<POS_672_4>>
+A sweet drink that smells like honey. Recovers 100 HP.<<END_STR>>
+<<END>>
+<<POS_673_2>><<START>>
+Bitter Potion<<END_STR>>
+<<POS_673_3>>
+Recovers 500 HP<<END_STR>>
+<<POS_673_4>>
+A potent but bitter-tasting drink. Recovers 500 HP.<<END_STR>>
+<<END>>
+<<POS_674_2>><<START>>
+Kaiser Potion<<END_STR>>
+<<POS_674_3>>
+Recovers 2000 HP<<END_STR>>
+<<POS_674_4>>
+An extremely potent recovery drink. Recovers 2000 HP.<<END_STR>>
+<<END>>
+<<POS_675_2>><<START>>
+Antidote Powder<<END_STR>>
+<<POS_675_3>>
+Cures Poison<<END_STR>>
+<<POS_675_4>>
+A tasteless, odorless medicine that cures Poison.<<END_STR>>
+<<END>>
+<<POS_676_2>><<START>>
+Anti-Paralysis Powder<<END_STR>>
+<<POS_676_3>>
+Cures Paralysis<<END_STR>>
+<<POS_676_4>>
+A pungent medicine that cures Paralysis.<<END_STR>>
+<<END>>
+<<POS_677_2>><<START>>
+Purification Powder<<END_STR>>
+<<POS_677_3>>
+Cures Curse / Misfortune<<END_STR>>
+<<POS_677_4>>
+A refreshing medicine that cures Curse and Misfortune.<<END_STR>>
+<<END>>
+<<POS_680_2>><<START>>
+Roda Droplet<<END_STR>>
+<<POS_680_3>>
+Recovers 10% HP / Revives fallen ally<<END_STR>>
+<<POS_680_4>>
+Droplet from Roda Tree. Revives a fallen ally with 10% HP.<<END_STR>>
+<<END>>
+<<POS_681_2>><<START>>
+Celcetan Panacea<<END_STR>>
+<<POS_681_3>>
+Recovers all HP / Revives fallen ally<<END_STR>>
+<<POS_681_4>>
+Passed down in Celceta. Revives a fallen ally with all HP.<<END_STR>>
+<<END>>
+<<POS_683_2>><<START>>
+Catholicon<<END_STR>>
+<<POS_683_3>>
+Cures all status ailments<<END_STR>>
+<<POS_683_4>>
+A mysterious medicine that recovers all status ailments.<<END_STR>>
+<<END>>
+<<POS_685_2>><<START>>
+Silver Wing<<END_STR>>
+<<POS_685_3>>
+Warp between monuments of same color<<END_STR>>
+<<POS_685_4>>
+Allows party to warp between monuments of the same color.<<END_STR>>
+<<END>>
+<<POS_686_2>><<START>>
+Golden Wing<<END_STR>>
+<<POS_686_3>>
+Warp to any monument from the map<<END_STR>>
+<<POS_686_4>>
+Allows party to warp to any monument that's been touched.<<END_STR>>
+<<END>>
+<<POS_687_2>><<START>>
+Journal<<END_STR>>
+<<POS_687_3>>
+Can be read from 'Journal'<<END_STR>>
+<<POS_687_4>>
+A record of Adol's adventures in Celceta.<<END_STR>>
+<<END>>
+<<POS_688_2>><<START>>
+Map of Celceta<<END_STR>>
+<<POS_688_3>>
+Can be confirmed from 'Map'<<END_STR>>
+<<POS_688_4>>
+Work-in-progress map of Celceta. Records explored areas.<<END_STR>>
+<<END>>
+<<POS_689_2>><<START>>
+Mine Key<<END_STR>>
+<<POS_689_4>>
+An old key obtained in the mines.<<END_STR>>
+<<END>>
+<<POS_690_2>><<START>>
+Slate Fragment<<END_STR>>
+<<POS_690_4>>
+Fragment of a slate, found in the Ancient Burrow.<<END_STR>>
+<<END>>
+<<POS_691_2>><<START>>
+Slate Fragment<<END_STR>>
+<<POS_691_4>>
+Fragment of a slate, found in the Sacred Beasts' Nest.<<END_STR>>
+<<END>>
+<<POS_692_2>><<START>>
+Well-Worn Notebook<<END_STR>>
+<<POS_692_4>>
+Formerly Adol's. Shows the way to the Primeval Lands.<<END_STR>>
+<<END>>
+<<POS_693_2>><<START>>
+Notebook Scrap<<END_STR>>
+<<POS_693_4>>
+A torn piece of paper. Reads: 'Received the Mask from...'<<END_STR>>
+<<END>>
+<<POS_695_2>><<START>>
+Left Mask Fragment<<END_STR>>
+<<POS_695_4>>
+Mask fragment found on Mt. Vesuvio. Has no power.<<END_STR>>
+<<END>>
+<<POS_696_2>><<START>>
+Right Mask Fragment<<END_STR>>
+<<POS_696_4>>
+Mask fragment found in Lake Tolmes Ruins. Has no power.<<END_STR>>
+<<END>>
+<<POS_697_2>><<START>>
+Artifact Sword Emeraude<<END_STR>>
+<<POS_697_4>>
+Sword received from Roda Tree. Can defeat living weapons.<<END_STR>>
+<<END>>
+<<POS_698_2>><<START>>
+Mask of the Moon<<END_STR>>
+<<POS_698_4>>
+Allows its wearer to enter the Temple of the Sun.<<END_STR>>
+<<END>>
+<<POS_699_2>><<START>>
+Mask of the Sun<<END_STR>>
+<<POS_699_4>>
+Grants its wearer the ability to read the Akashic Records.<<END_STR>>
+<<END>>
+<<POS_700_2>><<START>>
+Wind Crest<<END_STR>>
+<<POS_700_4>>
+A crest containing the power of the raging winds.<<END_STR>>
+<<END>>
+<<POS_701_2>><<START>>
+Rain Crest<<END_STR>>
+<<POS_701_4>>
+A crest containing the power of the falling rain.<<END_STR>>
+<<END>>
+<<POS_702_2>><<START>>
+Sun Crest<<END_STR>>
+<<POS_702_4>>
+A crest containing the power of the burning sun.<<END_STR>>
+<<END>>
+<<POS_708_2>><<START>>
+Fabros Milk<<END_STR>>
+<<POS_708_4>>
+Fresh milk from a Fabros.<<END_STR>>
+<<END>>
+<<POS_709_2>><<START>>
+Ethan's Signature Book<<END_STR>>
+<<POS_709_4>>
+Signature-filled notebook Ethan inherited from his father.<<END_STR>>
+<<END>>
+<<POS_710_2>><<START>>
+Sun Stone<<END_STR>>
+<<POS_710_4>>
+Faintly radiates heat. Used for forging ancient weapons.<<END_STR>>
+<<END>>
+<<POS_711_2>><<START>>
+Marl Wreath<<END_STR>>
+<<POS_711_3>>
+Prevents Poison / DEF +1<<END_STR>>
+<<POS_711_4>>
+Wreath made from Marl Flowers. Has a sweet fragrance.<<END_STR>>
+<<END>>
+<<POS_712_2>><<START>>
+Yupel Wreath<<END_STR>>
+<<POS_712_3>>
+Prevents Paralysis / DEF +3<<END_STR>>
+<<POS_712_4>>
+Wreath made from Yupel Flowers. Has a lovely aroma.<<END_STR>>
+<<END>>
+<<POS_713_2>><<START>>
+Libra Wreath<<END_STR>>
+<<POS_713_3>>
+Prevents Freezing / DEF +5<<END_STR>>
+<<POS_713_4>>
+Wreath made from Libra Flowers. Has a very pure smell.<<END_STR>>
+<<END>>
+<<POS_714_2>><<START>>
+Celcetan Wreath<<END_STR>>
+<<POS_714_3>>
+Prevents Curse / DEF +10 / HP +200<<END_STR>>
+<<POS_714_4>>
+Wreath made from Celcetan Flowers. Radiates vitality.<<END_STR>>
+<<END>>
+<<POS_727_2>><<START>>
+Life Elixir<<END_STR>>
+<<POS_727_3>>
+Max HP +100<<END_STR>>
+<<POS_727_4>>
+Permanently increases user's HP by 100.<<END_STR>>
+<<END>>
+<<POS_728_2>><<START>>
+Power Elixir<<END_STR>>
+<<POS_728_3>>
+STR +3<<END_STR>>
+<<POS_728_4>>
+Permanently increases user's STR by 3.<<END_STR>>
+<<END>>
+<<POS_729_2>><<START>>
+Guard Elixir<<END_STR>>
+<<POS_729_3>>
+DEF +3<<END_STR>>
+<<POS_729_4>>
+Permanently increases user's DEF by 3.<<END_STR>>
+<<END>>
+<<POS_730_2>><<START>>
+Shield Tablet<<END_STR>>
+<<POS_730_3>>
+Temporary DEF Up<<END_STR>>
+<<POS_730_4>>
+Temporarily reduces the damage received from enemies.<<END_STR>>
+<<END>>
+<<POS_731_2>><<START>>
+Skill Tablet<<END_STR>>
+<<POS_731_3>>
+Temporary SP Recovery Up<<END_STR>>
+<<POS_731_4>>
+Gradually restores the SP of its user for a limited time.<<END_STR>>
+<<END>>
+<<POS_732_2>><<START>>
+Enigma Tablet<<END_STR>>
+<<POS_732_3>>
+Temporary Random Effect<<END_STR>>
+<<POS_732_4>>
+A strange tablet that has a different effect every time.<<END_STR>>
+<<END>>
+<<POS_733_2>><<START>>
+Healing Tablet<<END_STR>>
+<<POS_733_3>>
+Temporary HP Recovery Up<<END_STR>>
+<<POS_733_4>>
+Gradually restores the HP of its user for a limited time.<<END_STR>>
+<<END>>
+<<POS_734_2>><<START>>
+Power Tablet<<END_STR>>
+<<POS_734_3>>
+Temporary STR Up<<END_STR>>
+<<POS_734_4>>
+Increases the damage dealt to enemies for a limited time.<<END_STR>>
+<<END>>
+<<POS_737_2>><<START>>
+Sacred Beast Collar<<END_STR>>
+<<POS_737_4>>
+Become Roos, speak with Roos and prevent attacks.<<END_STR>>
+<<END>>
+<<POS_738_2>><<START>>
+Dwarf Bracelet<<END_STR>>
+<<POS_738_4>>
+Shrinks the party to fit through small passages.<<END_STR>>
+<<END>>
+<<POS_740_2>><<START>>
+Water Dragon's Scales<<END_STR>>
+<<POS_740_4>>
+Allows the party to dive and breathe underwater.<<END_STR>>
+<<END>>
+<<POS_742_2>><<START>>
+Gale Shoes<<END_STR>>
+<<POS_742_4>>
+Allows party to run up certain slopes. Hold #-2Y#112P button.<<END_STR>>
+<<END>>
+<<POS_743_2>><<START>>
+Beast King's Claws<<END_STR>>
+<<POS_743_4>>
+Destroy certain obstacles with #-2Y#112P button.<<END_STR>>
+<<END>>
+<<POS_744_2>><<START>>
+Spirit Cape<<END_STR>>
+<<POS_744_4>>
+Restores HP when the party stands still.<<END_STR>>
+<<END>>
+<<POS_745_2>><<START>>
+Ares Seal<<END_STR>>
+<<POS_745_4>>
+Increases the rate at which the EXTRA gauge fills.<<END_STR>>
+<<END>>
+<<POS_746_2>><<START>>
+Aeolus Urn<<END_STR>>
+<<POS_746_4>>
+Pulls nearby dropped items toward the party.<<END_STR>>
+<<END>>
+<<POS_747_2>><<START>>
+Coal<<END_STR>>
+<<POS_747_3>>
+Mineral<<END_STR>>
+<<POS_747_4>>
+Common coal. Can be used as fuel when refining ore.<<END_STR>>
+<<END>>
+<<POS_748_2>><<START>>
+Iron Ore<<END_STR>>
+<<POS_748_3>>
+Mineral<<END_STR>>
+<<POS_748_4>>
+Unrefined iron ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_749_2>><<START>>
+Silver Ore<<END_STR>>
+<<POS_749_3>>
+Mineral<<END_STR>>
+<<POS_749_4>>
+Ore which emits a faint light. Can be refined.<<END_STR>>
+<<END>>
+<<POS_750_2>><<START>>
+Gold Ore<<END_STR>>
+<<POS_750_3>>
+Mineral<<END_STR>>
+<<POS_750_4>>
+Ore which emits an elegant radiance. Can be refined.<<END_STR>>
+<<END>>
+<<POS_751_2>><<START>>
+Green Stone<<END_STR>>
+<<POS_751_3>>
+Mineral<<END_STR>>
+<<POS_751_4>>
+A green-hued ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_752_2>><<START>>
+Yellow Stone<<END_STR>>
+<<POS_752_3>>
+Mineral<<END_STR>>
+<<POS_752_4>>
+A yellow-hued ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_753_2>><<START>>
+Red Stone<<END_STR>>
+<<POS_753_3>>
+Mineral<<END_STR>>
+<<POS_753_4>>
+A red-hued ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_754_2>><<START>>
+Blue Stone<<END_STR>>
+<<POS_754_3>>
+Mineral<<END_STR>>
+<<POS_754_4>>
+A blue-hued ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_755_2>><<START>>
+Purple Stone<<END_STR>>
+<<POS_755_3>>
+Mineral<<END_STR>>
+<<POS_755_4>>
+A purple-hued ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_756_2>><<START>>
+Black Stone<<END_STR>>
+<<POS_756_3>>
+Mineral<<END_STR>>
+<<POS_756_4>>
+A black-hued ore. Reveals true worth when refined.<<END_STR>>
+<<END>>
+<<POS_757_2>><<START>>
+Starlight Stone<<END_STR>>
+<<POS_757_3>>
+Mineral<<END_STR>>
+<<POS_757_4>>
+Ore that glitters like the stars. Can be refined.<<END_STR>>
+<<END>>
+<<POS_762_2>><<START>>
+Iron Ingot<<END_STR>>
+<<POS_762_3>>
+Mineral<<END_STR>>
+<<POS_762_4>>
+Iron ingot used in the crafting of various goods.<<END_STR>>
+<<END>>
+<<POS_763_2>><<START>>
+Silver Ingot<<END_STR>>
+<<POS_763_3>>
+Mineral<<END_STR>>
+<<POS_763_4>>
+Silver ingot with a dull glow. Said to repel evil.<<END_STR>>
+<<END>>
+<<POS_764_2>><<START>>
+Gold Ingot<<END_STR>>
+<<POS_764_3>>
+Mineral<<END_STR>>
+<<POS_764_4>>
+A high-purity gold ingot and an ancient symbol of greed.<<END_STR>>
+<<END>>
+<<POS_765_2>><<START>>
+Emerald<<END_STR>>
+<<POS_765_3>>
+Mineral<<END_STR>>
+<<POS_765_4>>
+A vivid green, transparent gem.<<END_STR>>
+<<END>>
+<<POS_766_2>><<START>>
+Topaz<<END_STR>>
+<<POS_766_3>>
+Mineral<<END_STR>>
+<<POS_766_4>>
+A particularly beautiful gem used in ornaments.<<END_STR>>
+<<END>>
+<<POS_767_2>><<START>>
+Ruby<<END_STR>>
+<<POS_767_3>>
+Mineral<<END_STR>>
+<<POS_767_4>>
+A variety of the mineral 'corundum' in passionate red.<<END_STR>>
+<<END>>
+<<POS_768_2>><<START>>
+Sapphire<<END_STR>>
+<<POS_768_3>>
+Mineral<<END_STR>>
+<<POS_768_4>>
+A variety of the mineral 'corundum' in refreshing blue.<<END_STR>>
+<<END>>
+<<POS_769_2>><<START>>
+Amethyst<<END_STR>>
+<<POS_769_3>>
+Mineral<<END_STR>>
+<<POS_769_4>>
+Color comes from trace elements. Used in divination.<<END_STR>>
+<<END>>
+<<POS_770_2>><<START>>
+Onyx<<END_STR>>
+<<POS_770_3>>
+Mineral<<END_STR>>
+<<POS_770_4>>
+A cloudless, jet black stone used to repel monsters.<<END_STR>>
+<<END>>
+<<POS_771_2>><<START>>
+Diamond<<END_STR>>
+<<POS_771_3>>
+Mineral<<END_STR>>
+<<POS_771_4>>
+Very hard gem. Refraction lets it shine even in darkness.<<END_STR>>
+<<END>>
+<<POS_772_2>><<START>>
+Gold Pedestal Replica<<END_STR>>
+<<POS_772_3>>
+Mineral<<END_STR>>
+<<POS_772_4>>
+Gold-plated replica of an ancient treasure.<<END_STR>>
+<<END>>
+<<POS_773_2>><<START>>
+Gold Pedestal<<END_STR>>
+<<POS_773_3>>
+Mineral<<END_STR>>
+<<POS_773_4>>
+Pure gold. Shines brilliantly. Has an interesting history.<<END_STR>>
+<<END>>
+<<POS_782_2>><<START>>
+Brittle Bone<<END_STR>>
+<<POS_782_3>>
+Beast Material<<END_STR>>
+<<POS_782_4>>
+A brittle bone. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_783_2>><<START>>
+Damaged Hide<<END_STR>>
+<<POS_783_3>>
+Beast Material<<END_STR>>
+<<POS_783_4>>
+A piece of monster hide. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_784_2>><<START>>
+Cracked Shell<<END_STR>>
+<<POS_784_3>>
+Beast Material<<END_STR>>
+<<POS_784_4>>
+A cracked shell. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_785_2>><<START>>
+Split Hair<<END_STR>>
+<<POS_785_3>>
+Beast Material<<END_STR>>
+<<POS_785_4>>
+A dull tuft of monster hair. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_786_2>><<START>>
+Filthy Liquid<<END_STR>>
+<<POS_786_3>>
+Beast Material<<END_STR>>
+<<POS_786_4>>
+A liquid with innumerable impurities. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_787_2>><<START>>
+Strange Mass<<END_STR>>
+<<POS_787_3>>
+Beast Material<<END_STR>>
+<<POS_787_4>>
+An indescribable lump of gunk. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_792_2>><<START>>
+Sturdy Bone<<END_STR>>
+<<POS_792_3>>
+Beast Material<<END_STR>>
+<<POS_792_4>>
+A highly dense bone.<<END_STR>>
+<<END>>
+<<POS_793_2>><<START>>
+Sturdy Hide<<END_STR>>
+<<POS_793_3>>
+Beast Material<<END_STR>>
+<<POS_793_4>>
+A sturdy hide which has many uses when tanned.<<END_STR>>
+<<END>>
+<<POS_794_2>><<START>>
+Sturdy Shell<<END_STR>>
+<<POS_794_3>>
+Beast Material<<END_STR>>
+<<POS_794_4>>
+A shell that's as strong as steel.<<END_STR>>
+<<END>>
+<<POS_795_2>><<START>>
+Strong Hair<<END_STR>>
+<<POS_795_3>>
+Beast Material<<END_STR>>
+<<POS_795_4>>
+A strong and flexible tuft of hair.<<END_STR>>
+<<END>>
+<<POS_796_2>><<START>>
+Clear Liquid<<END_STR>>
+<<POS_796_3>>
+Beast Material<<END_STR>>
+<<POS_796_4>>
+A completely transparent liquid. Drinkable when treated.<<END_STR>>
+<<END>>
+<<POS_802_2>><<START>>
+Poisonous Organ<<END_STR>>
+<<POS_802_3>>
+Beast Material<<END_STR>>
+<<POS_802_4>>
+An organ filled with poison. Requires careful handling.<<END_STR>>
+<<END>>
+<<POS_803_2>><<START>>
+Spider Web<<END_STR>>
+<<POS_803_3>>
+Beast Material<<END_STR>>
+<<POS_803_4>>
+A sticky web used by spiders to catch their prey.<<END_STR>>
+<<END>>
+<<POS_804_2>><<START>>
+Beast Fang<<END_STR>>
+<<POS_804_3>>
+Beast Material<<END_STR>>
+<<POS_804_4>>
+The fang of a ferocious beast. Has killed countless prey.<<END_STR>>
+<<END>>
+<<POS_805_2>><<START>>
+Indestructible Shell<<END_STR>>
+<<POS_805_3>>
+Beast Material<<END_STR>>
+<<POS_805_4>>
+A shell as hard as diamond. Cannot even be scratched.<<END_STR>>
+<<END>>
+<<POS_806_2>><<START>>
+Hard Scale<<END_STR>>
+<<POS_806_3>>
+Beast Material<<END_STR>>
+<<POS_806_4>>
+A patch of connected, extremely hard monster scales.<<END_STR>>
+<<END>>
+<<POS_807_2>><<START>>
+Frog Extract<<END_STR>>
+<<POS_807_3>>
+Beast Material<<END_STR>>
+<<POS_807_4>>
+Liquid extracted from a frog. Has nutritional value.<<END_STR>>
+<<END>>
+<<POS_808_2>><<START>>
+Soft Fur<<END_STR>>
+<<POS_808_3>>
+Beast Material<<END_STR>>
+<<POS_808_4>>
+Beautiful fur, glossy like well-groomed hair.<<END_STR>>
+<<END>>
+<<POS_809_2>><<START>>
+Fluffy Fur<<END_STR>>
+<<POS_809_3>>
+Beast Material<<END_STR>>
+<<POS_809_4>>
+Light, fluffy fur. Feels like you're touching the clouds.<<END_STR>>
+<<END>>
+<<POS_810_2>><<START>>
+Fierce Beast's Claw<<END_STR>>
+<<POS_810_3>>
+Beast Material<<END_STR>>
+<<POS_810_4>>
+The claw of a beast that's won countless battles.<<END_STR>>
+<<END>>
+<<POS_811_2>><<START>>
+Bizarre Hide<<END_STR>>
+<<POS_811_3>>
+Beast Material<<END_STR>>
+<<POS_811_4>>
+A distinctive, monstrous hide.<<END_STR>>
+<<END>>
+<<POS_812_2>><<START>>
+Acidic Liquid<<END_STR>>
+<<POS_812_3>>
+Beast Material<<END_STR>>
+<<POS_812_4>>
+Acidic enough to numb the tongue. Used in making elixirs.<<END_STR>>
+<<END>>
+<<POS_813_2>><<START>>
+Slime Mold<<END_STR>>
+<<POS_813_3>>
+Beast Material<<END_STR>>
+<<POS_813_4>>
+A forbidden fungus used in sorcery and curse reflection.<<END_STR>>
+<<END>>
+<<POS_814_2>><<START>>
+Titanic Bone<<END_STR>>
+<<POS_814_3>>
+Beast Material<<END_STR>>
+<<POS_814_4>>
+The giant bone of a huge beast from the ancient past.<<END_STR>>
+<<END>>
+<<POS_815_2>><<START>>
+Tribal Cloth<<END_STR>>
+<<POS_815_3>>
+Beast Material<<END_STR>>
+<<POS_815_4>>
+Embroidered cloth used by former residents of the forest.<<END_STR>>
+<<END>>
+<<POS_822_2>><<START>>
+Axe Tail<<END_STR>>
+<<POS_822_3>>
+Beast Material<<END_STR>>
+<<POS_822_4>>
+Evolved a battleaxe-like shape to cleave prey in half.<<END_STR>>
+<<END>>
+<<POS_823_2>><<START>>
+Buffalo Horn<<END_STR>>
+<<POS_823_3>>
+Beast Material<<END_STR>>
+<<POS_823_4>>
+A giant horn from a buffalo, strong enough to smash rocks.<<END_STR>>
+<<END>>
+<<POS_824_2>><<START>>
+Monkey King's Hair<<END_STR>>
+<<POS_824_3>>
+Beast Material<<END_STR>>
+<<POS_824_4>>
+Proof that the monkey king eats bananas in Valhalla now.<<END_STR>>
+<<END>>
+<<POS_825_2>><<START>>
+Boar Exoskeleton<<END_STR>>
+<<POS_825_3>>
+Beast Material<<END_STR>>
+<<POS_825_4>>
+A helmet-like exoskeleton that guards against impact.<<END_STR>>
+<<END>>
+<<POS_826_2>><<START>>
+Hammer Beak<<END_STR>>
+<<POS_826_3>>
+Beast Material<<END_STR>>
+<<POS_826_4>>
+The beak of a bird which can be brandished like a hammer.<<END_STR>>
+<<END>>
+<<POS_827_2>><<START>>
+Monstrous Talon<<END_STR>>
+<<POS_827_3>>
+Beast Material<<END_STR>>
+<<POS_827_4>>
+Talon of a grotesque monster that never lets prey escape.<<END_STR>>
+<<END>>
+<<POS_828_2>><<START>>
+Awful Carapace<<END_STR>>
+<<POS_828_3>>
+Beast Material<<END_STR>>
+<<POS_828_4>>
+The carapace of a monster. Made of an unknown material.<<END_STR>>
+<<END>>
+<<POS_829_2>><<START>>
+Sharp Horn<<END_STR>>
+<<POS_829_3>>
+Beast Material<<END_STR>>
+<<POS_829_4>>
+Horn harder than diamond, which can dig into frozen earth.<<END_STR>>
+<<END>>
+<<POS_830_2>><<START>>
+Drill Beak<<END_STR>>
+<<POS_830_3>>
+Beast Material<<END_STR>>
+<<POS_830_4>>
+A helical beak. Strong enough to pulverize steel.<<END_STR>>
+<<END>>
+<<POS_831_2>><<START>>
+Cursed Blade<<END_STR>>
+<<POS_831_3>>
+Beast Material<<END_STR>>
+<<POS_831_4>>
+A dark blade from a grotesque monster. Can cut anything.<<END_STR>>
+<<END>>
+<<POS_842_2>><<START>>
+Damaged Lumber<<END_STR>>
+<<POS_842_3>>
+Plant Material<<END_STR>>
+<<POS_842_4>>
+Heavily damaged lumber. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_843_2>><<START>>
+Rotting Leaf<<END_STR>>
+<<POS_843_3>>
+Plant Material<<END_STR>>
+<<POS_843_4>>
+A rotting leaf. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_844_2>><<START>>
+Wilted Flower<<END_STR>>
+<<POS_844_3>>
+Plant Material<<END_STR>>
+<<POS_844_4>>
+A wilting, lifeless flower. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_845_2>><<START>>
+Rotting Fruit<<END_STR>>
+<<POS_845_3>>
+Plant Material<<END_STR>>
+<<POS_845_4>>
+A rotting, decaying fruit. Can be exchanged.<<END_STR>>
+<<END>>
+<<POS_847_2>><<START>>
+Sturdy Lumber<<END_STR>>
+<<POS_847_3>>
+Plant Material<<END_STR>>
+<<POS_847_4>>
+Bulky, sturdy lumber from a healthy tree.<<END_STR>>
+<<END>>
+<<POS_848_2>><<START>>
+Nocturnal Mushroom<<END_STR>>
+<<POS_848_3>>
+Plant Material<<END_STR>>
+<<POS_848_4>>
+A valuable mushroom that grows only in dark places.<<END_STR>>
+<<END>>
+<<POS_852_2>><<START>>
+Fresh Leaf<<END_STR>>
+<<POS_852_3>>
+Plant Material<<END_STR>>
+<<POS_852_4>>
+A fresh leaf with medicinal properties.<<END_STR>>
+<<END>>
+<<POS_853_2>><<START>>
+Roda Leaf<<END_STR>>
+<<POS_853_3>>
+Plant Material<<END_STR>>
+<<POS_853_4>>
+A highly-sought Roda Tree leaf. Filled with vitality.<<END_STR>>
+<<END>>
+<<POS_857_2>><<START>>
+Marl Flower<<END_STR>>
+<<POS_857_3>>
+Plant Material<<END_STR>>
+<<POS_857_4>>
+Flower with pink petals. Full of honey that cures fatigue.<<END_STR>>
+<<END>>
+<<POS_858_2>><<START>>
+Yupel Flower<<END_STR>>
+<<POS_858_3>>
+Plant Material<<END_STR>>
+<<POS_858_4>>
+A yellow flower. Its petals have a detoxifying effect.<<END_STR>>
+<<END>>
+<<POS_859_2>><<START>>
+Libra Flower<<END_STR>>
+<<POS_859_3>>
+Plant Material<<END_STR>>
+<<POS_859_4>>
+Symbolizes purity and has various medicinal properties.<<END_STR>>
+<<END>>
+<<POS_860_2>><<START>>
+Celcetan Flower<<END_STR>>
+<<POS_860_3>>
+Plant Material<<END_STR>>
+<<POS_860_4>>
+A valuable flower found in Celceta. Used in elixirs.<<END_STR>>
+<<END>>
+<<POS_867_2>><<START>>
+Chito Nut<<END_STR>>
+<<POS_867_3>>
+Plant Material<<END_STR>>
+<<POS_867_4>>
+A widely found type of nut with high nutritional value.<<END_STR>>
+<<END>>
+<<POS_868_2>><<START>>
+Raparo Fruit<<END_STR>>
+<<POS_868_3>>
+Plant Material<<END_STR>>
+<<POS_868_4>>
+A fruit known for its refreshing sour taste.<<END_STR>>
+<<END>>
+<<POS_869_2>><<START>>
+Arieda Fruit<<END_STR>>
+<<POS_869_3>>
+Plant Material<<END_STR>>
+<<POS_869_4>>
+A fruit with a uniquely 'spiced' flavor.<<END_STR>>
+<<END>>
+<<POS_870_2>><<START>>
+Roda Fruit<<END_STR>>
+<<POS_870_3>>
+Plant Material<<END_STR>>
+<<POS_870_4>>
+Sweet fruit from the Roda Tree. Immense nutritional value.<<END_STR>>
+<<END>>
+<<POS_877_2>><<START>>
+Dwarf Bracelet+<<END_STR>>
+<<POS_877_3>>
+STR/DEF aren't reduced<<END_STR>>
+<<POS_877_4>>
+Shrinks the party to fit through small passages.<<END_STR>>
+<<END>>
+<<POS_878_2>><<START>>
+Water Dragon's Scales+<<END_STR>>
+<<POS_878_3>>
+Additional damage underwater<<END_STR>>
+<<POS_878_4>>
+Allows the party to dive and breathe underwater.<<END_STR>>
+<<END>>
+<<POS_879_2>><<START>>
+Gale Shoes+<<END_STR>>
+<<POS_879_3>>
+Dashing knocks enemies back<<END_STR>>
+<<POS_879_4>>
+Allows party to run up certain slopes. Hold #-2Y#112P button.<<END_STR>>
+<<END>>
+<<POS_880_2>><<START>>
+Beast King's Claws+<<END_STR>>
+<<POS_880_3>>
+Increased tackle damage<<END_STR>>
+<<POS_880_4>>
+Destroy certain obstacles with #-2Y#112P button.<<END_STR>>
+<<END>>
+<<POS_881_2>><<START>>
+Sacred Beast Collar+<<END_STR>>
+<<POS_881_3>>
+Increased movement speed<<END_STR>>
+<<POS_881_4>>
+Become Roos, speak with Roos and prevent attacks.<<END_STR>>
+<<END>>
+<<POS_882_2>><<START>>
+Spirit Cape+<<END_STR>>
+<<POS_882_3>>
+Increased HP recovery speed<<END_STR>>
+<<POS_882_4>>
+Restores HP when the party stands still.<<END_STR>>
+<<END>>
+<<POS_883_2>><<START>>
+Ares Seal+<<END_STR>>
+<<POS_883_3>>
+Faster EXTRA gauge<<END_STR>>
+<<POS_883_4>>
+Increases the rate at which the EXTRA gauge fills.<<END_STR>>
+<<END>>
+<<POS_884_2>><<START>>
+Aeolus Urn+<<END_STR>>
+<<POS_884_3>>
+Gold obtained occasionally<<END_STR>>
+<<POS_884_4>>
+Pulls nearby dropped items toward the party.<<END_STR>>
+<<END>>
+<<POS_975_2>><<START>>
+Karna L3<<END_STR>>
+<<END>>
+<<POS_976_2>><<START>>
+Karna L16<<END_STR>>
+<<END>>
+<<POS_977_2>><<START>>
+Ozma L3<<END_STR>>
+<<END>>
+<<POS_978_2>><<START>>
+Ozma L15<<END_STR>>
+<<END>>
+<<POS_979_2>><<START>>
+Calilica L3<<END_STR>>
+<<END>>
+<<POS_980_2>><<START>>
+Calilica L15<<END_STR>>
+<<END>>
+<<POS_981_2>><<START>>
+Calilica L16<<END_STR>>
+<<END>>
+<<POS_982_2>><<START>>
+Frieda L3<<END_STR>>
+<<END>>
+<<POS_983_2>><<START>>
+Frieda L15<<END_STR>>
+<<END>>
+<<POS_984_2>><<START>>
+Frieda L16<<END_STR>>
+<<END>>
+<<POS_985_2>><<START>>
+Frieda L24<<END_STR>>
+<<END>>
+<<POS_988_2>><<START>>
+◆Curse Thingy<<END_STR>>
+<<POS_988_3>>
+Inflicts Curse<<END_STR>>
+<<POS_988_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_989_2>><<START>>
+◆Misfortune Thingy<<END_STR>>
+<<POS_989_3>>
+Inflicts Misfortune<<END_STR>>
+<<POS_989_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_990_2>><<START>>
+◆Heavy Thingy<<END_STR>>
+<<POS_990_3>>
+Inflicts Heavy<<END_STR>>
+<<POS_990_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_991_2>><<START>>
+◆Freeze Thingy<<END_STR>>
+<<POS_991_3>>
+Inflicts Freeze<<END_STR>>
+<<POS_991_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_992_2>><<START>>
+◆Burn Thingy<<END_STR>>
+<<POS_992_3>>
+Inflicts Burn<<END_STR>>
+<<POS_992_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_993_2>><<START>>
+◆Paralysis Thingy<<END_STR>>
+<<POS_993_3>>
+Inflicts Paralysis<<END_STR>>
+<<POS_993_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_994_2>><<START>>
+◆Poison Blade<<END_STR>>
+<<POS_994_3>>
+Inflicts Poison<<END_STR>>
+<<POS_994_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_995_2>><<START>>
+◆100% Curse<<END_STR>>
+<<POS_995_3>>
+Always Cursed<<END_STR>>
+<<POS_995_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_996_2>><<START>>
+◆100% Misfortune<<END_STR>>
+<<POS_996_3>>
+Always Misfortunate<<END_STR>>
+<<POS_996_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_997_2>><<START>>
+◆100% Heavy<<END_STR>>
+<<POS_997_3>>
+Always Heavy<<END_STR>>
+<<POS_997_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_998_2>><<START>>
+◆100% Freeze<<END_STR>>
+<<POS_998_3>>
+Always Frozen<<END_STR>>
+<<POS_998_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_999_2>><<START>>
+◆100% Burn<<END_STR>>
+<<POS_999_3>>
+Always Burned<<END_STR>>
+<<POS_999_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_1000_2>><<START>>
+◆100% Paralysis<<END_STR>>
+<<POS_1000_3>>
+Always Paralyzed<<END_STR>>
+<<POS_1000_4>>
+◆Debug Item<<END_STR>>
+<<END>>
+<<POS_1001_2>><<START>>
+◆100% Poison<<END_STR>>
+<<POS_1001_3>>
+Always Poisoned<<END_STR>>
+<<POS_1001_4>>
+◆Debug Item<<END_STR>>
+<<END>>

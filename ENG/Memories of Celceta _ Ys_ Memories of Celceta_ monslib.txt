@@ -1,0 +1,859 @@
+<<POS_10_2>><<START>>
+Casnia Mine<<END_STR>>
+<<END>>
+<<POS_11_2>><<START>>
+Comolmo<<END_STR>>
+<<POS_11_4>>
+Mole-like monster that awoke during the commotion \nin the mine. While its vision is lacking, its sense \nof smell is exceptional, so it never gets lost.<<END_STR>>
+<<END>>
+<<POS_12_2>><<START>>
+Jellim<<END_STR>>
+<<POS_12_4>>
+Monster shaped like an earthworm. Slides toward its \nfoes and spits a powerful acid to dissolve them.<<END_STR>>
+<<END>>
+<<POS_13_2>><<START>>
+Cutro<<END_STR>>
+<<POS_13_4>>
+Insect monster which disguises itself as ore.\nDischarges electricity from its two long feelers \nto paralyze its prey.<<END_STR>>
+<<END>>
+<<POS_14_2>><<START>>
+Molmoth<<END_STR>>
+<<POS_14_4>>
+An extremely ferocious giant mole monster. Digs \ninto the ground with its sharp claws and torments \nits prey from below.<<END_STR>>
+<<END>>
+<<POS_15_2>><<START>>
+Olrabadi<<END_STR>>
+<<POS_15_4>>
+A bat with an extraordinarily large body and wings.\nUses ultrasonic waves to stop its foes' movements \nand tears them apart from within.<<END_STR>>
+<<END>>
+<<POS_16_2>><<START>>
+Beast Plains<<END_STR>>
+<<END>>
+<<POS_17_2>><<START>>
+Ratani<<END_STR>>
+<<POS_17_4>>
+Dextrous beast which uses long branches as spears.\nMoves in large groups, hunting down those who enter \nits territory.<<END_STR>>
+<<END>>
+<<POS_18_2>><<START>>
+Arenjo<<END_STR>>
+<<POS_18_4>>
+A beast which has skin as tough as armor. Curls into \na ball and pursues its foes by rolling at great \nspeed.<<END_STR>>
+<<END>>
+<<POS_19_2>><<START>>
+Fabros<<END_STR>>
+<<POS_19_4>>
+Usually a docile herbivore, but when this beast \nspots an enemy, it reveals its true nature,\nattacking with its powerful horns.<<END_STR>>
+<<END>>
+<<POS_20_2>><<START>>
+Langritz<<END_STR>>
+<<POS_20_4>>
+A giant bear which usually inhabits the Great Forest \narea, but left to expand its feeding grounds. Moves \nwith surprising agility for its size.<<END_STR>>
+<<END>>
+<<POS_21_2>><<START>>
+Forest of Dawn<<END_STR>>
+<<END>>
+<<POS_22_2>><<START>>
+Cobonga<<END_STR>>
+<<POS_22_4>>
+A primate that lives in the Great Forest. Has high \nintelligence, attacking its foes from a distance \nby throwing rocks.<<END_STR>>
+<<END>>
+<<POS_23_2>><<START>>
+Asarkos<<END_STR>>
+<<POS_23_4>>
+Scorpion that usually lives in tropical areas, but \nhas become enlarged in the Great Forest environment.\nPossesses an extremely lethal poison.<<END_STR>>
+<<END>>
+<<POS_24_2>><<START>>
+Vargin<<END_STR>>
+<<POS_24_4>>
+One of the terrifying mermaids that control the \nwetlands. Capable of moving swiftly in water,\nimpaling its foes with a spear from close range.<<END_STR>>
+<<END>>
+<<POS_25_2>><<START>>
+Ramelebolero<<END_STR>>
+<<POS_25_4>>
+An insect which walks on water using the suction \npads on its feet. Shoots large bubbles of water from \nits mouth and uses them to prey on small animals.<<END_STR>>
+<<END>>
+<<POS_26_2>><<START>>
+Orogilan<<END_STR>>
+<<POS_26_4>>
+Giant fish said to have lived in the wetlands of the \nGreat Forest since ancient times. Possesses a \npowerful jaw that can crush the bones of its prey.<<END_STR>>
+<<END>>
+<<POS_27_2>><<START>>
+Bozowalla<<END_STR>>
+<<POS_27_4>>
+An insectivorous plant which has continued to evolve \nin the Great Forest. Spits seeds at distant foes \nand poison at those nearby.<<END_STR>>
+<<END>>
+<<POS_28_2>><<START>>
+Canolen<<END_STR>>
+<<POS_28_4>>
+A plant that scatters seeds as if firing them from \na slingshot to attack all who get close. Demands \nextreme caution.<<END_STR>>
+<<END>>
+<<POS_29_2>><<START>>
+Shard<<END_STR>>
+<<POS_29_4>>
+A large bird that lives in seaside areas. Stocks \nwater and pressurizes it within its body, firing it \nin jets at high speeds to attack its prey.<<END_STR>>
+<<END>>
+<<POS_30_2>><<START>>
+Gazapo<<END_STR>>
+<<POS_30_4>>
+A crab that has adapted to life on dry land. Its \nshell is incredibly tough, making it nearly \ninvulnerable to damage while standing upright.<<END_STR>>
+<<END>>
+<<POS_31_2>><<START>>
+Floura<<END_STR>>
+<<POS_31_4>>
+Ancient plant with legs like an insect. Stores the \ntoxic substances it extracts from the ground as \nsustenance.<<END_STR>>
+<<END>>
+<<POS_32_2>><<START>>
+Rushiarbo<<END_STR>>
+<<POS_32_4>>
+A sinister-looking beetle. Draws enemies near with \nits long tongue before piercing them repeatedly with \nits thorn-like legs.<<END_STR>>
+<<END>>
+<<POS_33_2>><<START>>
+Barazowalla<<END_STR>>
+<<POS_33_4>>
+Plant unique to the Great Forest that grows in \ndark places. Shoots a spray of pollen capable of \ncausing paralysis.<<END_STR>>
+<<END>>
+<<POS_34_2>><<START>>
+Bozuonga<<END_STR>>
+<<POS_34_4>>
+Leader of a group of primates. Swings its axe with \nincredible force and can summon minions with its \nmighty roar.<<END_STR>>
+<<END>>
+<<POS_35_2>><<START>>
+Rangoa<<END_STR>>
+<<POS_35_4>>
+Extremely powerful wild boar. Its face is covered \nby an armor-like exoskeleton, allowing it to reduce \nthe damage to itself when colliding with foes.<<END_STR>>
+<<END>>
+<<POS_36_2>><<START>>
+Golwonga<<END_STR>>
+<<POS_36_4>>
+King of the monkeys. Sleeps deep within the forest.\nWields its sword with power beyond all other beasts,\nslaughtering all who stand in its path.<<END_STR>>
+<<END>>
+<<POS_37_2>><<START>>
+Golden Pikkard<<END_STR>>
+<<POS_37_4>>
+An extremely rare, shining pikkard. Not often seen,\nand drops a large amount of gold if defeated.<<END_STR>>
+<<END>>
+<<POS_38_2>><<START>>
+Foria-Daros<<END_STR>>
+<<POS_38_4>>
+A holy beast which has lived deep within the Great \nForest since ancient times as its ruler. Cultivates \ncountless life forms with its immense power.<<END_STR>>
+<<END>>
+<<POS_39_2>><<START>>
+Jade Cavern<<END_STR>>
+<<END>>
+<<POS_40_2>><<START>>
+Labadi<<END_STR>>
+<<POS_40_4>>
+A small bat that moves in swarms. Restrains its foes \nwith eerie ultrasonic waves before attacking from \nabove.<<END_STR>>
+<<END>>
+<<POS_41_2>><<START>>
+Vesbiwar<<END_STR>>
+<<POS_41_4>>
+A giant spider that has multiplied deep within the \ncave. As a group, they spit sticky silk to capture \nprey, and then devour it until only bone remains.<<END_STR>>
+<<END>>
+<<POS_42_2>><<START>>
+Vesbilzon<<END_STR>>
+<<POS_42_4>>
+A giant deep crimson spider that reproduces at an \nalarming rate. Captures prey using an acidic, sticky \nweb and devours it as a group.<<END_STR>>
+<<END>>
+<<POS_43_2>><<START>>
+Waterfall Cave<<END_STR>>
+<<END>>
+<<POS_44_2>><<START>>
+Ribbi-Magus<<END_STR>>
+<<POS_44_4>>
+Once a high ranking Ribbi, but exiled after it was \ndiscovered to be plotting an uprising. Currently \nseeking a place to rest with its subordinates.<<END_STR>>
+<<END>>
+<<POS_45_2>><<START>>
+Comodo<<END_STR>>
+<<END>>
+<<POS_46_2>><<START>>
+Duren<<END_STR>>
+<<POS_46_4>>
+A burly man exploring the Great Forest with Adol. \nAn information dealer, he possesses a wide variety \nof knowledge, as well as skill in martial arts.<<END_STR>>
+<<END>>
+<<POS_47_2>><<START>>
+Gidona Crater<<END_STR>>
+<<END>>
+<<POS_48_2>><<START>>
+Blaybye<<END_STR>>
+<<POS_48_4>>
+A ferocious bee which hails from the Ancient Burrow.\nDeals lethal damage to its foes using its large \nknife-like stinger.<<END_STR>>
+<<END>>
+<<POS_49_2>><<START>>
+Selbanther<<END_STR>>
+<<POS_49_4>>
+A beast which hunts on the plains of the Great \nForest. Uses its incredibly powerful legs to leap \nat its prey, then tears at it with its giant fangs.<<END_STR>>
+<<END>>
+<<POS_50_2>><<START>>
+Ancient Burrow<<END_STR>>
+<<END>>
+<<POS_51_2>><<START>>
+Masked Warrior<<END_STR>>
+<<POS_51_4>>
+One of the hunters of Comodo. The mask he wears \ndraws out his latent potential, allowing him to \nfight with remarkable strength.<<END_STR>>
+<<END>>
+<<POS_52_2>><<START>>
+Jasraja<<END_STR>>
+<<POS_52_4>>
+A monstrous mollusk. Releases powerful electricity \nfrom its charged feelers, causing its foes to \nburst apart at the seams.<<END_STR>>
+<<END>>
+<<POS_53_2>><<START>>
+Damrahm<<END_STR>>
+<<POS_53_4>>
+A larva which crawls across the ground. Appears \nharmless, but extends a horn the length of its body \nto pierce enemies if threatened.<<END_STR>>
+<<END>>
+<<POS_54_2>><<START>>
+Pashringa<<END_STR>>
+<<POS_54_4>>
+A small beetle which inhabits narrow burrows.\nThe evolved form of a Damrahm, it protects itself\nby discharging an acidic liquid from its tail.<<END_STR>>
+<<END>>
+<<POS_55_2>><<START>>
+Egrege<<END_STR>>
+<<POS_55_4>>
+Pashringa's adult form. Carnivorous and highly \naggressive, it will swiftly attack any human \nthat enters its line of sight.<<END_STR>>
+<<END>>
+<<POS_56_2>><<START>>
+Vesbinake<<END_STR>>
+<<POS_56_4>>
+A large spider that occupies the Ancient Burrow.\nCreates sticky silk inside its body, which it sprays \nat foes to restrain them.<<END_STR>>
+<<END>>
+<<POS_57_2>><<START>>
+Algon River Basin<<END_STR>>
+<<END>>
+<<POS_58_2>><<START>>
+Hourun<<END_STR>>
+<<POS_58_4>>
+Lives near water and appears to wear a helmet. Has \neyes on its back and when it sees an enemy, it aims \nfor the neck and fires countless needles.<<END_STR>>
+<<END>>
+<<POS_59_2>><<START>>
+Gelog<<END_STR>>
+<<POS_59_4>>
+A frog which lives alongside the river. Toys with \nits foes through unpredictable movements, and draws \nthem near using its long tongue. <<END_STR>>
+<<END>>
+<<POS_60_2>><<START>>
+Crocle<<END_STR>>
+<<POS_60_4>>
+A large reptile that has inhabited this area since \nancient times. Its jaw is strong enough to break \niron and even the toughest armor cannot repel it.<<END_STR>>
+<<END>>
+<<POS_61_2>><<START>>
+Sacred Beasts' Nest<<END_STR>>
+<<END>>
+<<POS_62_2>><<START>>
+Bibarmul<<END_STR>>
+<<POS_62_4>>
+A strongly territorial aquatic creature. While it is \nagile and has sharp claws, it is also cowardly and \nquickly plays dead.<<END_STR>>
+<<END>>
+<<POS_63_2>><<START>>
+Rapshel<<END_STR>>
+<<POS_63_4>>
+A relatively docile bivalve. Usually stays in one \nplace and waits for prey to approach.<<END_STR>>
+<<END>>
+<<POS_64_2>><<START>>
+Amnagan<<END_STR>>
+<<POS_64_4>>
+A crustacean with powerful, sharp claws. One of the \nbiggest reasons fishermen have to watch where they \nstep.<<END_STR>>
+<<END>>
+<<POS_65_2>><<START>>
+Reppi<<END_STR>>
+<<POS_65_4>>
+A carnivorous fish that lives in the river. Pierces \nprey with its sharp fangs. Particularly dangerous in \nwater due to its prey's restricted movements.<<END_STR>>
+<<END>>
+<<POS_66_2>><<START>>
+Pigbulb<<END_STR>>
+<<POS_66_4>>
+A bizarre mollusk that developed near water. Uses \npowerful electricity from its feelers to paralyze \nits prey for later devouring.<<END_STR>>
+<<END>>
+<<POS_67_2>><<START>>
+Varchin<<END_STR>>
+<<POS_67_4>>
+An aquatic creature that explodes when a threat \napproaches as an instinctive (and somewhat ironic) \nact of 'self-preservation.'<<END_STR>>
+<<END>>
+<<POS_68_2>><<START>>
+Zogrom<<END_STR>>
+<<POS_68_4>>
+A large frog, distinctive for its multiple eyes, \nthat lives in areas of high humidity. Crushes foes \nwith its body press and powerful acidic spit.<<END_STR>>
+<<END>>
+<<POS_69_2>><<START>>
+Underground Ruins<<END_STR>>
+<<END>>
+<<POS_70_2>><<START>>
+Ka-Bulb<<END_STR>>
+<<POS_70_4>>
+A strange soft-bodied life form with little combat \nability or intelligence.<<END_STR>>
+<<END>>
+<<POS_71_2>><<START>>
+Hal-Bulb<<END_STR>>
+<<POS_71_4>>
+A strange soft-bodied life form with two feelers.\nSplits into two Ka-Bulbs when defeated.<<END_STR>>
+<<END>>
+<<POS_72_2>><<START>>
+Bulb<<END_STR>>
+<<POS_72_4>>
+An aggregation of strange, soft-bodied life forms.\nAttacks using its four feelers, and splits into \ntwo Hal-Bulbs when defeated.<<END_STR>>
+<<END>>
+<<POS_73_2>><<START>>
+Cobira<<END_STR>>
+<<POS_73_4>>
+Beast that has lived in the dark Underground Ruins \nsince antiquity, causing its eyes to deteriorate. \nProtects itself by attacking with its sharp claws.<<END_STR>>
+<<END>>
+<<POS_74_2>><<START>>
+Complerra<<END_STR>>
+<<POS_74_4>>
+Part of a tribe of monsters with their own culture. \nFights using different weapons, such as fire \narrows or knives, depending on the situation. <<END_STR>>
+<<END>>
+<<POS_75_2>><<START>>
+Zorats<<END_STR>>
+<<POS_75_4>>
+A mouse with an unnaturally swollen head. Loves \ndarkness, and attacks anything that draws near with \nits teeth.<<END_STR>>
+<<END>>
+<<POS_76_2>><<START>>
+Guspoun<<END_STR>>
+<<POS_76_4>>
+A mutated plant found deep underground. Spits acid \nat its surroundings and preys upon those paralyzed \nby it.<<END_STR>>
+<<END>>
+<<POS_77_2>><<START>>
+Compragov<<END_STR>>
+<<POS_77_4>>
+Patriarch of a group of monsters. Attacks using its \nlarge axe and powerful explosions. Plotted to invade \nthe Primeval Lands with its hordes of subordinates.<<END_STR>>
+<<END>>
+<<POS_78_2>><<START>>
+Plateau Path<<END_STR>>
+<<END>>
+<<POS_79_2>><<START>>
+Wonma<<END_STR>>
+<<POS_79_4>>
+A rare species of bird which lives on the plateau.\nJumps great heights, smashing its enlarged beak upon \nenemies from above like a hammer.<<END_STR>>
+<<END>>
+<<POS_80_2>><<START>>
+Robutani<<END_STR>>
+<<POS_80_4>>
+A fox which wields a roughly-shorn stick. Hunts its \nprey with great agility.<<END_STR>>
+<<END>>
+<<POS_81_2>><<START>>
+Boltani<<END_STR>>
+<<POS_81_4>>
+A shockingly dextrous fox. Uses a hand-made wooden \nbow to hunt as if it were a human.<<END_STR>>
+<<END>>
+<<POS_82_2>><<START>>
+Egriz<<END_STR>>
+<<POS_82_4>>
+A ferocious giant bear that lives in the Primeval \nLands. Tenaciously pursues its prey, impaling them \nalive with its sharp fangs.<<END_STR>>
+<<END>>
+<<POS_83_2>><<START>>
+Sanctuary Approach<<END_STR>>
+<<END>>
+<<POS_84_2>><<START>>
+Ruzaslape<<END_STR>>
+<<POS_84_4>>
+A guardian that's wandered outside the Tower of \nProvidence, forgetting its original purpose. Prowls \nthe Sanctuary of Storms, attacking blindly.<<END_STR>>
+<<END>>
+<<POS_85_2>><<START>>
+Tower of Providence<<END_STR>>
+<<END>>
+<<POS_86_2>><<START>>
+Rogiong<<END_STR>>
+<<POS_86_4>>
+One of the guardians of the Tower of Providence.\nCurls into a ball and squashes its enemies by \nrolling over them at high speeds.<<END_STR>>
+<<END>>
+<<POS_87_2>><<START>>
+Inslape<<END_STR>>
+<<POS_87_4>>
+A horse-like guardian with a body of iron. Out of \ncontrol, it uses its hooves to kill enemies instead \nof capturing them as originally designed.<<END_STR>>
+<<END>>
+<<POS_88_2>><<START>>
+Zelsitu<<END_STR>>
+<<POS_88_4>>
+An armored guardian carrying a giant axe. Out of \ncontrol, it treats all those who enter its line of \nsight as intruders and attempts to eliminate them.<<END_STR>>
+<<END>>
+<<POS_89_2>><<START>>
+Vivuig<<END_STR>>
+<<POS_89_4>>
+A guardian that disguises itself as a treasure \nchest. Slices up those whose desire drives them to \nseek its contents.<<END_STR>>
+<<END>>
+<<POS_90_2>><<START>>
+Le-Vivuig<<END_STR>>
+<<POS_90_4>>
+A guardian that disguises itself as a red treasure \nchest. Restraint is required to safely ascertain its \ntrue nature.<<END_STR>>
+<<END>>
+<<POS_91_2>><<START>>
+Vivuigol<<END_STR>>
+<<POS_91_4>>
+An enchanting guardian that disguises itself as a \nshining gold treasure chest. Said to seduce those \nfilled with greed and test their true worth.<<END_STR>>
+<<END>>
+<<POS_92_2>><<START>>
+Gelgrarga<<END_STR>>
+<<POS_92_4>>
+Originally a stone statue that guarded the tower.\nWarps behind intruders, summoning lightning to burn \nthem to a crisp.<<END_STR>>
+<<END>>
+<<POS_93_2>><<START>>
+Highland<<END_STR>>
+<<END>>
+<<POS_94_2>><<START>>
+Masked Soldier<<END_STR>>
+<<POS_94_4>>
+A soldier from the Romun Army who has obtained \ninhuman power by wearing a mysterious mask.<<END_STR>>
+<<END>>
+<<POS_95_2>><<START>>
+Table Mountain<<END_STR>>
+<<END>>
+<<POS_96_2>><<START>>
+Rabee<<END_STR>>
+<<POS_96_4>>
+An extremely dangerous rabbit with a tail shaped \nlike a claw. Its fur is tufted.<<END_STR>>
+<<END>>
+<<POS_97_2>><<START>>
+Brancha<<END_STR>>
+<<POS_97_4>>
+A spider with an enlarged spinneret. Sprays acidic \nspider silk, and can cause its spinneret to expand \nand explode when angered.<<END_STR>>
+<<END>>
+<<POS_98_2>><<START>>
+Gemelon<<END_STR>>
+<<POS_98_4>>
+Large reptile with a sharp axe-like horn. Moves \nslowly, but when it grabs enemies with its tongue \nand swings them around, its power is immense.<<END_STR>>
+<<END>>
+<<POS_99_2>><<START>>
+Subterranean Forest<<END_STR>>
+<<END>>
+<<POS_100_2>><<START>>
+Pitol<<END_STR>>
+<<POS_100_4>>
+An insect adept at moving in dark environments.\nWhile its movements are swift and its jumping \nattacks powerful, it often winds up tripping.<<END_STR>>
+<<END>>
+<<POS_101_2>><<START>>
+Bonpeet<<END_STR>>
+<<POS_101_4>>
+Monster which stores noxious gases from the deepest \nparts of the Ashen Forest inside itself. Its eyes \nare weak, so it uses ultrasonic waves to 'see.'<<END_STR>>
+<<END>>
+<<POS_102_2>><<START>>
+Rudorian<<END_STR>>
+<<POS_102_4>>
+A grotesque monster with a mouth that covers\nits entire body. Bites and chews its prey\nas if embracing it with its entire body.<<END_STR>>
+<<END>>
+<<POS_103_2>><<START>>
+Anderaula<<END_STR>>
+<<POS_103_4>>
+A strange plant created as a result of magic.\nWanders entirely through instinct, expelling \nor injecting a cursed poison into its targets.<<END_STR>>
+<<END>>
+<<POS_104_2>><<START>>
+Ashen Forest<<END_STR>>
+<<END>>
+<<POS_105_2>><<START>>
+Grahm<<END_STR>>
+<<POS_105_4>>
+A giant-bodied monster that lives in polluted \nearth. Wriggles across the surface, targeting \nother living creatures.<<END_STR>>
+<<END>>
+<<POS_106_2>><<START>>
+Benolid<<END_STR>>
+<<POS_106_4>>
+A strange creature born in areas where the toxic \ngases are particularly dense. Explodes when touched,\nspreading large amounts of toxins nearby.<<END_STR>>
+<<END>>
+<<POS_107_2>><<START>>
+Dizwalla<<END_STR>>
+<<POS_107_4>>
+Plant which came about as a sudden mutation in poor-\nquality soil. Fires a barrage of seeds upon sensing \nprey, and can spit toxic gases at nearby foes.<<END_STR>>
+<<END>>
+<<POS_108_2>><<START>>
+Vilma<<END_STR>>
+<<POS_108_4>>
+A monster which floats in stagnant air. Spreads \ntoxic gases when it senses other living creatures,\ncausing significant bodily harm.<<END_STR>>
+<<END>>
+<<POS_109_2>><<START>>
+Rotoruta<<END_STR>>
+<<POS_109_4>>
+A turtle which has evolved to be able to survive in \nthe toxic marshland. Sprays toxic gases from its \ncarapace and charges its foes at high speeds.<<END_STR>>
+<<END>>
+<<POS_110_2>><<START>>
+Madogra-Slef<<END_STR>>
+<<POS_110_4>>
+A large plant born in a corrupted ecosystem. Uses \nseeds and poisonous gases to steal the energy \nof other creatures and extend its own life.<<END_STR>>
+<<END>>
+<<POS_111_2>><<START>>
+Vandaroper<<END_STR>>
+<<POS_111_4>>
+The ghost of a nameless soldier who died hundreds of \nyears ago. Seeks eternal slumber after one last \nduel with a strong warrior.<<END_STR>>
+<<END>>
+<<POS_112_2>><<START>>
+The Frogs' Inn<<END_STR>>
+<<END>>
+<<POS_113_2>><<START>>
+Ribbi<<END_STR>>
+<<POS_113_4>>
+A humanoid frog that lives in an area of the Ashen \nForest where the concentration of noxious gases is \nlow. Most are remarkably lazy.<<END_STR>>
+<<END>>
+<<POS_114_2>><<START>>
+Forest of Spores<<END_STR>>
+<<END>>
+<<POS_115_2>><<START>>
+Zakaruko<<END_STR>>
+<<POS_115_4>>
+A large scorpion born in a distorted environment.\nIts scissor-like tail is strong enough to cut \nthrough solid bone.<<END_STR>>
+<<END>>
+<<POS_116_2>><<START>>
+Ravaeel<<END_STR>>
+<<POS_116_4>>
+Infant monster shelled in a thin egg-like membrane \nthat it can enter and exit at will. Spends most of \nits time hopping, but occasionally headbutts foes.<<END_STR>>
+<<END>>
+<<POS_117_2>><<START>>
+Demileel<<END_STR>>
+<<POS_117_4>>
+Ravaeel's adult form. While it has no eyes, it can \nsense the presence of prey and bite at them with \nits strong jaw.<<END_STR>>
+<<END>>
+<<POS_118_2>><<START>>
+Supofanga<<END_STR>>
+<<POS_118_4>>
+A monster that has developed to have arms like \nscythes. Moves comically while taking aim at its \nfoes, and fights with acidic mucus.<<END_STR>>
+<<END>>
+<<POS_119_2>><<START>>
+Colonia Battlefield<<END_STR>>
+<<END>>
+<<POS_120_2>><<START>>
+Compleras<<END_STR>>
+<<POS_120_4>>
+A humanoid monster residing in Colonia \nBattlefield. Shoots fire arrows coated with \na special oil that chars the point of impact.<<END_STR>>
+<<END>>
+<<POS_121_2>><<START>>
+Pogarov<<END_STR>>
+<<POS_121_4>>
+A man-beast hybrid that lives in the wastelands.\nThe smell of its breath is so bad, one whiff will \nrender any poor soul unable to move.<<END_STR>>
+<<END>>
+<<POS_122_2>><<START>>
+Galba-Deule, the Abandoned Warrior<<END_STR>>
+<<POS_122_4>>
+A living weapon created during an ancient battle.\nHas been bound to a heavy door ever since, blindly \nattacking all who approach it.<<END_STR>>
+<<END>>
+<<POS_123_2>><<START>>
+Outskirts of Elduke<<END_STR>>
+<<END>>
+<<POS_124_2>><<START>>
+Wibbye<<END_STR>>
+<<POS_124_4>>
+A giant bee which is said to have resided in this \narea since the time of the Celcetan Kingdom. Takes \ndown its prey by shooting contracted needles.<<END_STR>>
+<<END>>
+<<POS_125_2>><<START>>
+Madagora<<END_STR>>
+<<POS_125_4>>
+A plant which stores acidic mucus inside its body.\nThe impact created when it hits the ground causes \na geyser effect, rendering its prey helpless.<<END_STR>>
+<<END>>
+<<POS_126_2>><<START>>
+Mt. Vesuvio - Snowy Peak<<END_STR>>
+<<END>>
+<<POS_127_2>><<START>>
+Avalatch<<END_STR>>
+<<POS_127_4>>
+A primate known for its white fur. Roams around on \nthe snowy peak, attacking all who attempt to climb \nthe mountain.<<END_STR>>
+<<END>>
+<<POS_128_2>><<START>>
+Grunpe<<END_STR>>
+<<POS_128_4>>
+A bird with wings that don't actually enable it \nto fly. Slides across the frozen ground at great \nspeeds, using its sharp beak to kill its prey.<<END_STR>>
+<<END>>
+<<POS_129_2>><<START>>
+Domlits<<END_STR>>
+<<POS_129_4>>
+A beetle with a large body and sharp feelers that \nhelp it survive in the extreme cold. Digs into the \nground at high speed and attacks from below.<<END_STR>>
+<<END>>
+<<POS_130_2>><<START>>
+Avabish<<END_STR>>
+<<POS_130_4>>
+A large primate that lives deep within the \nmountains. Attacks by throwing snowballs from \nhigh places, but flees when an enemy draws near.<<END_STR>>
+<<END>>
+<<POS_131_2>><<START>>
+Nogriz<<END_STR>>
+<<POS_131_4>>
+A large polar bear that dwells on Mt. Vesuvio.\nSaid to use its icy breath to freeze its prey \nfor transport back to its nest.<<END_STR>>
+<<END>>
+<<POS_132_2>><<START>>
+Lake Tolmes Ruins<<END_STR>>
+<<END>>
+<<POS_133_2>><<START>>
+Merahva<<END_STR>>
+<<POS_133_4>>
+Demi-human monster which has taken to living in the \ndeserted ruins. Skilled at fighting from any range \nthanks to its homemade steel boomerang.<<END_STR>>
+<<END>>
+<<POS_134_2>><<START>>
+Tolmeus<<END_STR>>
+<<POS_134_4>>
+Large beast which has lived around Lake Tolmes since \nancient times. Spits large quantities of water at \nany who attempt to enter its territory.<<END_STR>>
+<<END>>
+<<POS_135_2>><<START>>
+Ibolzu<<END_STR>>
+<<POS_135_4>>
+A giant frog that creates acid within its body.\nHard as a rock, and strengthens its defenses when \nit senses danger nearby.<<END_STR>>
+<<END>>
+<<POS_136_2>><<START>>
+Sodwar<<END_STR>>
+<<POS_136_4>>
+A winged fish said to have once lived in water.\nSpirals toward enemies and pierces them with its \nsharp beak.<<END_STR>>
+<<END>>
+<<POS_137_2>><<START>>
+Colonia Artifact Laboratory<<END_STR>>
+<<END>>
+<<POS_138_2>><<START>>
+Galba-Zera<<END_STR>>
+<<POS_138_4>>
+Living weapon which was abandoned during an \nexperiment in ancient times. Its instinctive \ndesire to eliminate enemies on sight remains.<<END_STR>>
+<<END>>
+<<POS_139_2>><<START>>
+Pulgart<<END_STR>>
+<<POS_139_4>>
+Used in an ancient war. Employs advanced technology \nthat allows it to focus and fire light. Likely a \nbyproduct of the creation of living weapons.<<END_STR>>
+<<END>>
+<<POS_140_2>><<START>>
+Goras<<END_STR>>
+<<POS_140_4>>
+Monster which floats around the laboratory. It's\nsaid that the souls of those who died in battle\nbecame Gorases and wander the area.<<END_STR>>
+<<END>>
+<<POS_141_2>><<START>>
+Denas<<END_STR>>
+<<POS_141_4>>
+Monster which resembles the grim reaper.\nBrandishes a scythe and seeks souls to consume.<<END_STR>>
+<<END>>
+<<POS_142_2>><<START>>
+Godenas<<END_STR>>
+<<POS_142_4>>
+A monster that's acquired its true form by consuming \nwandering souls. Curses any form of life it finds,\nthen takes that life with its scythe.<<END_STR>>
+<<END>>
+<<POS_143_2>><<START>>
+Pit-Bulb<<END_STR>>
+<<POS_143_4>>
+Mollusk-type monster with four feelers on its head,\nwhich it uses to spray a powerful solvent. Can merge \nwith others to form a more powerful creature.<<END_STR>>
+<<END>>
+<<POS_144_2>><<START>>
+Uno-Bulb<<END_STR>>
+<<POS_144_4>>
+The result of several Pit-Bulbs fusing into one.\nSpreads a viscous solvent throughout the surrounding \narea, vaporizing all living tissue on contact.<<END_STR>>
+<<END>>
+<<POS_145_2>><<START>>
+Iris, World of Records<<END_STR>>
+<<END>>
+<<POS_146_2>><<START>>
+Toqone<<END_STR>>
+<<POS_146_4>>
+Has the face of a male demon and represents the \nrepulsive side of humanity. Pulverizes the heads \nof its foes with its powerful jaw.<<END_STR>>
+<<END>>
+<<POS_147_2>><<START>>
+Sonarm<<END_STR>>
+<<POS_147_4>>
+A strange creature with the face of a female demon.\nSpits a rainbow-colored gas which steals the energy \nof those it touches.<<END_STR>>
+<<END>>
+<<POS_148_2>><<START>>
+Sidgodde<<END_STR>>
+<<POS_148_4>>
+A bronze pedestal modeled on a woman with wings.\nShoots light arrows from the eye on its lower half \nto repel intruders.<<END_STR>>
+<<END>>
+<<POS_149_2>><<START>>
+Totoankh<<END_STR>>
+<<POS_149_4>>
+Object that warps through space and patrols the \narea. Fires controllable magic bullets to crush \nits targets.<<END_STR>>
+<<END>>
+<<POS_150_2>><<START>>
+Shehazask<<END_STR>>
+<<POS_150_4>>
+An armored knight with claws in both hands. Can cut \nenemies in half in addition to firing magical \nspheres that compress space.<<END_STR>>
+<<END>>
+<<POS_151_2>><<START>>
+Vezfes<<END_STR>>
+<<POS_151_4>>
+An eerie statue with three faces. Each of the faces \nuses different kinds of magic based on the weather \nin the surrounding area.<<END_STR>>
+<<END>>
+<<POS_152_2>><<START>>
+Galba-Muva<<END_STR>>
+<<POS_152_4>>
+Virtual image of a living weapon, created from \nrecords of an ancient battle. Fires small bombs \nto cover the surrounding area in blue flames.<<END_STR>>
+<<END>>
+<<POS_153_2>><<START>>
+Rudogodde<<END_STR>>
+<<POS_153_4>>
+A golden pedestal modeled on a woman with wings.\nFires orbs of light to repel intruders.<<END_STR>>
+<<END>>
+<<POS_154_2>><<START>>
+Nel-Vesbye<<END_STR>>
+<<POS_154_4>>
+A giant spider created from records of the past.\nCaptures its prey with strong, sticky silk.<<END_STR>>
+<<END>>
+<<POS_155_2>><<START>>
+Nel-Beever<<END_STR>>
+<<POS_155_4>>
+An aquatic monster created from records of the past.\nPossesses sharp claws that make it particularly \ndangerous when it attacks as part of a group.<<END_STR>>
+<<END>>
+<<POS_156_2>><<START>>
+Nel-Situ<<END_STR>>
+<<POS_156_4>>
+An armored knight created from records of the past.\nSuppresses its enemies using beams of light from its \neyes and its powerful axe.<<END_STR>>
+<<END>>
+<<POS_157_2>><<START>>
+Nel-Plera<<END_STR>>
+<<POS_157_4>>
+A demi-human created from records of the past. \nAttacks in groups using a combination of arrows \nand knives.<<END_STR>>
+<<END>>
+<<POS_158_2>><<START>>
+Zenoranpa<<END_STR>>
+<<POS_158_4>>
+Armored soldier that patrols Iris' Central Area.\nSpins a spear at high speeds around its feet to \nrepel its enemies.<<END_STR>>
+<<END>>
+<<POS_159_2>><<START>>
+Jadelos<<END_STR>>
+<<POS_159_4>>
+An armored cavalier created by the Akashic Records \nfor protection. Guards the Central Area, and is \nregulated by the Mask of the Sun.<<END_STR>>
+<<END>>
+<<POS_160_2>><<START>>
+Mt. Vesuvio - Volcano<<END_STR>>
+<<END>>
+<<POS_161_2>><<START>>
+Hadugora<<END_STR>>
+<<POS_161_4>>
+A 'shadow' created when distortions in the Akashic \nRecords began interfering with the real world. Its \nexistence indicates how much damage was done.<<END_STR>>
+<<END>>
+<<POS_162_2>><<START>>
+Shadow Gruda<<END_STR>>
+<<POS_162_4>>
+Gruda's will and tenacity given form as a shadow.\nBlindly seeks the Mask of the Sun, endlessly \nspawning more shadows.<<END_STR>>
+<<END>>
+<<POS_163_2>><<START>>
+BOSS<<END_STR>>
+<<END>>
+<<POS_164_2>><<START>>
+Aldovoss, the Awakening Armored Beast<<END_STR>>
+<<POS_164_4>>
+A monster with a sturdy shell that appeared from \ndeep within the mine. Pulverizes those who draw \nnear with its powerful arms.<<END_STR>>
+<<END>>
+<<POS_165_2>><<START>>
+Melldrabie, the Purgatorial Hornet<<END_STR>>
+<<POS_165_4>>
+A sadistic queen bee. Brandishes needles with such \nsize that they can gouge the earth, and uses them to \nharass and torment the weak.<<END_STR>>
+<<END>>
+<<POS_166_2>><<START>>
+Glucarius, the Great Squilla of Extermination<<END_STR>>
+<<POS_166_4>>
+King of beetles and master of the Ancient Burrow,\nit has slept in the depths since antiquity. Its spin \nattacks are so powerful, they damage even the walls.<<END_STR>>
+<<END>>
+<<POS_167_2>><<START>>
+Volnake, Serpent of the Rapids<<END_STR>>
+<<POS_167_4>>
+A giant serpent that inhabits the bottom of the \nlake. Stores large amounts of water in its body and \nreleases it like arrows to overwhelm its foes.<<END_STR>>
+<<END>>
+<<POS_168_2>><<START>>
+Angoraboras, the Gluttonous Tyrant<<END_STR>>
+<<POS_168_4>>
+A large fish that serves as the master of the river \nbottom. Uses its many cannons to exert control over \nits foes, and engorges prey with its large mouth.<<END_STR>>
+<<END>>
+<<POS_169_2>><<START>>
+Elvaron, the Blue Cavalier<<END_STR>>
+<<POS_169_4>>
+A mechanical knight created in ancient times. Awoken \nfrom its long slumber, it regards anything that \nmoves as a target to be eliminated.<<END_STR>>
+<<END>>
+<<POS_170_2>><<START>>
+Zandabal<<END_STR>>
+<<POS_170_4>>
+An autonomous sphere-shaped artifact. Surrounds \nitself with lightning and pursues invaders.<<END_STR>>
+<<END>>
+<<POS_171_2>><<START>>
+Litonileah<<END_STR>>
+<<POS_171_4>>
+An artifact that supplies electrical energy. Has \nno combat abilities, but protects itself using a \nmagnetic field.<<END_STR>>
+<<END>>
+<<POS_172_2>><<START>>
+Krell-Emecia, Guardian of the Storms<<END_STR>>
+<<POS_172_4>>
+A magical machine in charge of protecting the tower.\nUses the electrical energy within it to eliminate \nintruders.<<END_STR>>
+<<END>>
+<<POS_173_2>><<START>>
+Krell-Emecia, Guardian of the Storms<<END_STR>>
+<<POS_173_4>>
+The final form of the tower's chief guardian.\nSupplied with vast amounts of electrical energy by \nthe artifact at its core.<<END_STR>>
+<<END>>
+<<POS_174_2>><<START>>
+Sol-Galba, the White Galbalan<<END_STR>>
+<<POS_174_4>>
+A Galbalan passed down through Leeza's family line.\nPossesses such immense power that it can cut through \nspace, and cannot be harmed by conventional weapons.<<END_STR>>
+<<END>>
+<<POS_175_2>><<START>>
+Ribbi-Roi, Master of the Grotto<<END_STR>>
+<<POS_175_4>>
+A giant frog that's made its home in the grotto.\nDespite its arrogance, impudence and gluttony, it \nhas earned unwavering trust from the other Ribbi.<<END_STR>>
+<<END>>
+<<POS_176_2>><<START>>
+Polestol<<END_STR>>
+<<POS_176_4>>
+A giant mushroom which has grown at an alarming rate \ndue to the spores in the air. Creates a large \nexplosion when impacted.<<END_STR>>
+<<END>>
+<<POS_177_2>><<START>>
+Mustrum, the Deformed Nightmare<<END_STR>>
+<<POS_177_4>>
+Formed by numerous other monsters fused together,\nand so repulsive that one could faint just by \nlooking at it. Uses defeated foes as a seedbed.<<END_STR>>
+<<END>>
+<<POS_178_2>><<START>>
+Mesarabadi<<END_STR>>
+<<POS_178_4>>
+A bat familiar created through Bami's magic.\nRestrains enemies using supersonic waves.<<END_STR>>
+<<END>>
+<<POS_179_2>><<START>>
+Bami, the Enchanting Magician<<END_STR>>
+<<POS_179_4>>
+A magician in service to Gruda, who's harnessed the \npower of a mask artifact to gain immense magical \nability. Uses her magic to immolate the opposition.<<END_STR>>
+<<END>>
+<<POS_180_2>><<START>>
+Dagbanther<<END_STR>>
+<<POS_180_4>>
+A ferocious beast summoned by Gadis. Follows orders \nwithout question, and tears the throats of its \nenemies.<<END_STR>>
+<<END>>
+<<POS_181_2>><<START>>
+Gadis, the Sadistic Beast Tamer<<END_STR>>
+<<POS_181_4>>
+A beast tamer who manipulates creatures into \nservitude. Used the mask's power to become cruelty \nincarnate, slaughtering the weak with his raw power.<<END_STR>>
+<<END>>
+<<POS_182_2>><<START>>
+Sol-Galba, the Muddled Galbalan<<END_STR>>
+<<POS_182_4>>
+A living weapon passed down through Leeza's family \nline. Out of control, it seeks to burn everything \nto ashes.<<END_STR>>
+<<END>>
+<<POS_183_2>><<START>>
+Eldeel, the Black-Winged God<<END_STR>>
+<<POS_183_4>>
+The other 'persona' dwelling within Eldeel.\nBrandishes a long, jet-black spear and seeks \nto give humanity numerous trials to overcome.<<END_STR>>
+<<END>>
+<<POS_184_2>><<START>>
+Girguzalm, the Bronze Colossus<<END_STR>>
+<<POS_184_4>>
+Ancient knight that guards the Bronze Area. Its \ngiant sword can cut through anything, and it carves \nup those who approach until nothing remains. <<END_STR>>
+<<END>>
+<<POS_185_2>><<START>>
+Zerivutz, the Silver Colossus<<END_STR>>
+<<POS_185_4>>
+Ancient knight that guards the Silver Area. Its \ncore is made of highly condensed magic, allowing it \nto cast extremely powerful spells.<<END_STR>>
+<<END>>
+<<POS_186_2>><<START>>
+Bulaghoul, the Golden Colossus<<END_STR>>
+<<POS_186_4>>
+Ancient knight that guards the Gold Area. Its \nfists have power beyond human recognition, allowing \nit to pulverize all intruders.<<END_STR>>
+<<END>>
+<<POS_187_2>><<START>>
+Kut-Shell<<END_STR>>
+<<POS_187_4>>
+One of the three artifacts which form the force \nfield around the Akashic Records. Has a crimson gem \nembedded within it.<<END_STR>>
+<<END>>
+<<POS_188_2>><<START>>
+Blo-Shell<<END_STR>>
+<<POS_188_4>>
+One of the three artifacts which form the force \nfield around the Akashic Records. Has an amber gem \nembedded within it.<<END_STR>>
+<<END>>
+<<POS_189_2>><<START>>
+Shu-Shell<<END_STR>>
+<<POS_189_4>>
+One of the three artifacts which form the force \nfield around the Akashic Records. Has an emerald \ngreen gem embedded within it.<<END_STR>>
+<<END>>
+<<POS_190_2>><<START>>
+Forberis<<END_STR>>
+<<POS_190_4>>
+A monument containing a portion of the Akashic \nRecords. Paralyzes the body and mind of a foe by \ntransferring more information than they can handle.<<END_STR>>
+<<END>>
+<<POS_191_2>><<START>>
+Akasha-Glyph, the False God of Causality<<END_STR>>
+<<POS_191_4>>
+The result of Gruda absorbing the contents of the \nAkashic Records through his extreme tenacity. Has \nthe ability to rewrite the world at will.<<END_STR>>
+<<END>>
+<<POS_192_2>><<START>>
+Phantom Gruda, the Hollow Specter<<END_STR>>
+<<POS_192_4>>
+An aggregation of multiple Gruda shadows. His \ninsane tenacity amplified to the limit, he is \ncontrolled solely by his own hatred.<<END_STR>>
+<<END>>

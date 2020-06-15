@@ -1,0 +1,810 @@
+<<HENDER_25>>Lost Memories<<SPASE>>Lost Memories
+<<START>>★I awoke in a frontier town called Casnan.<<END_STR>>
+I seem to have lost all of my memories.<<END_STR>>
+I can<27>t remember a thing, not even my own name.<<END_STR>>
+★I met a burly man named Duren in the bar, who claims he<27>s <<END_STR>>
+an information dealer. Apparently my name is <27>Adol<27> and I<<END_STR>>
+was last seen heading into the <27>Great Forest.<27> What could<<END_STR>>
+have happened to me there?<<END_STR>>
+★Suddenly, we were told that monsters had appeared in the<<END_STR>>
+mine. Duren went to investigate. He might know more about<<END_STR>>
+my past, so I should probably follow him.<<END_STR>>
+<<START>>★I witnessed a group of miners rushing to the southwest<<END_STR>>
+side of town. It seems that<27>s where the mine is.<<END_STR>>
+<<START>>★I arrived to find a huge commotion in front of the mine.<<END_STR>>
+A woman who looked to be part of the army took control,<<END_STR>>
+and I overheard that three miners are trapped inside.<<END_STR>>
+★A strange light appeared, which only I can see.<<END_STR>>
+I wonder what it is. <<END_STR>>
+<<START>>★Upon touching the light, a number of different voices<<END_STR>>
+resounded inside my head, some of which mentioned swords.<<END_STR>>
+Could I have been a swordsman before I lost my memories?<<END_STR>>
+If so, maybe I can help the miners...<<END_STR>>
+<<START>>★I entered the mine and was followed by Duren. After<<END_STR>>
+explaining what happened, he begrudgingly gave me a weapon<<END_STR>>
+and agreed to help me out.<<END_STR>>
+We should hurry to the depths of the mine!<<END_STR>>
+<<START>>★A strange stone monolith began emitting light when I<<END_STR>>
+touched it. Unfortunately, it will have to wait.<<END_STR>>
+<<START>>★We encountered a group of monsters, and I learned a new<<END_STR>>
+skill. It should be useful in the battles ahead.<<END_STR>>
+<<START>>★Duren taught me the importance of cooperating with allies<<END_STR>>
+in battle. I<27>ll have to bear what he said in mind.<<END_STR>>
+<<START>>★We encountered a group of Celcetan Army soldiers in<<END_STR>>
+distress. After rescuing them, they agreed to leave the<<END_STR>>
+mine. Apparently not all the soldiers in the Celcetan Army<<END_STR>>
+have high morale. Regardless, the miners still need our <<END_STR>>
+help. We should hurry.<<END_STR>>
+<<START>>★We encountered a locked door. I wonder where the key is?<<END_STR>>
+<<START>>★Duren revealed that he knows how to force open locked<<END_STR>>
+chests. That could prove useful!<<END_STR>>
+<<START>>★We managed to unlock the door using the key we obtained.<<END_STR>>
+<<START>>★We encountered the monster responsible for the incident<<END_STR>>
+and defeated it, successfully rescuing the trapped miners.<<END_STR>>
+★We bid the miners farewell as they left the mine.<<END_STR>>
+...While we<27>re here, we should have a look around.<<END_STR>>
+<<START>>★Inspecting a statue with wings, I heard a voice in my<<END_STR>>
+head, like the one I heard at the entrance before.<<END_STR>>
+I wonder whose it is? He seems to know my name...<<END_STR>>
+★At the same time, I obtained a winged charm of some kind.<<END_STR>>
+...We should probably be returning to the surface now.<<END_STR>>
+<<START>>★My Silver Wing reacted to the monolith. I<27>ll investigate.<<END_STR>>
+<<START>>★It seems I can warp between monoliths. So many strange<<END_STR>>
+things are happening today. I should return to Casnan.<<END_STR>>
+<<START>>★As I left the mine, I was greeted by Governor General<<END_STR>>
+Griselda and the miners we rescued. She showed us to her<<END_STR>>
+office, saying she wanted to thank us personally.<<END_STR>>
+★After thanking us, Governor General Griselda asked if we<<END_STR>>
+would be interested in creating a map of the extremely <<END_STR>>
+dangerous <27>Great Forest of Celceta<27> in exchange for a <<END_STR>>
+large sum of money. I should give this some thought.<<END_STR>>
+★We agreed to give our answer tomorrow after some rest.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_88>>The Great Forest<<SPASE>>The Great Forest
+<<START>>★After leaving the Governor General<27>s office, we ran into<<END_STR>>
+Commander Leo of the Celcetan Army, who<27>s quite<<END_STR>>
+infamous around here. Just talking to him was exhausting.<<END_STR>>
+★Duren suggested that we undertake the task of creating<<END_STR>>
+the map together. His interest lies in the reward money,<<END_STR>>
+while I need to enter the forest to regain my memories.<<END_STR>>
+★After accepting his proposal, we agreed to visit the<<END_STR>>
+Governor General the next day and begin preparing.<<END_STR>>
+★Before we set off, Duren offered to give me a tour of<<END_STR>>
+the main shops and facilities in Casnan. I should accept.<<END_STR>>
+<<START>>★According to Duren, the shadow of a large tree can be<<END_STR>>
+seen to the northwest of Casnan, and a river runs through<<END_STR>>
+the center of the Great Forest. This is all we know about<<END_STR>>
+the forest. We should head for one of these landmarks.<<END_STR>>
+★We can leave the town through the large northern gate.<<END_STR>>
+<<START>>★At the gate, we encountered Commander Leo again.<<END_STR>>
+He has also agreed to work on a map of the Great<<END_STR>>
+Forest. ...We should be leaving.<<END_STR>>
+<<START>>★We began making our way across the plains between Casnan<<END_STR>>
+and the Great Forest. Duren shared some useful pointers.<<END_STR>>
+<<START>>★We discovered a spirit tree sapling at the entrance to<<END_STR>>
+the forest. I was told enemies are unable to approach areas<<END_STR>>
+where these saplings grow. We should rest here tonight.<<END_STR>>
+★During the night, I regained one of my memories by way of<<END_STR>>
+a vision. I saw a tower surrounded by thunderclouds.<<END_STR>>
+Is that tower located somewhere in the Great Forest?<<END_STR>>
+★Interestingly enough, resting near spirit tree saplings might<<END_STR>>
+help recover my lost memories, so we should set up a tent<<END_STR>>
+and rest whenever we find one.<<END_STR>>
+<<START>>★We finally began our exploration of the Great Forest.<<END_STR>>
+While here, I<27>ll need to be wary of status effects and<<END_STR>>
+the passing of time.<<END_STR>>
+<<START>>★After escaping the Forest Labyrinth, I remembered <<END_STR>>
+hearing about the history of the Great Forest from a <<END_STR>>
+young man who could play the harp.<<END_STR>>
+<<START>>★After escaping the Misty Peak, I recalled crossing the<<END_STR>>
+river on the back of a mysterious beast, with a blond man.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_129>>Spirited Away<<SPASE>>Spirited Away
+<<START>>★We discovered a village built around a huge tree called<<END_STR>>
+Comodo deep in the forest. Upon entering, however, we<<END_STR>>
+were surrounded by armed villagers. I obviously visited<<END_STR>>
+here once before, and I must have done something wrong.<<END_STR>>
+★Karna, a hunter from the village, convinced the villagers<<END_STR>>
+not to attack us. According to her, we met before I lost<<END_STR>>
+my memories.<<END_STR>>
+★We were taken to a hut in the village and tied up.<<END_STR>>
+We should take this opportunity to rest, as being in the<<END_STR>>
+village is at least safer than being in the Great Forest.<<END_STR>>
+★That night, Karna and the village chief, Asad, came to<<END_STR>>
+talk to us. Asad explained that villagers began vanishing<<END_STR>>
+soon after I left. I can<27>t blame them for being suspicious<<END_STR>>
+of me.<<END_STR>>
+★As he left, he mentioned someone named Remnos.<<END_STR>>
+...I wonder who that could be?<<END_STR>>
+★Regardless, we aren<27>t going to get anywhere sitting in<<END_STR>>
+here. Duren managed to free us, so we should look around<<END_STR>>
+the village and see if we can uncover any information.<<END_STR>>
+<<START>>★We began looking around the village to find clues and<<END_STR>>
+trigger my memory. I<27>ll have to be careful not to be seen.<<END_STR>>
+<<START>>★After touching the mysterious light, I remembered my<<END_STR>>
+previous visit to the town, including the fact that Remnos<<END_STR>>
+is Karna<27>s younger brother and that a suspicious masked<<END_STR>>
+person was sighted near the village when I left.<<END_STR>>
+★After telling Karna and Asad all that I remembered, they<<END_STR>>
+informed me that Remnos was one of the villagers who<27>d<<END_STR>>
+been <27>spirited away<27> after my departure.<<END_STR>>
+★We heard a strange noise outside, prompting Karna and<<END_STR>>
+Asad to rush out and investigate. I should go take<<END_STR>>
+a look as well.<<END_STR>>
+<<START>>★Comodo was attacked by a group of masked warriors, who<<END_STR>>
+appear to consist of the missing villagers. Asad was<<END_STR>>
+seriously wounded by the strongest of the group.<<END_STR>>
+★The attack left us with a number of important questions.<<END_STR>>
+Why would the villagers attack Comodo? Where are they now?<<END_STR>>
+With Asad wounded, we sought to investigate matters<<END_STR>>
+ourselves, beginning by questioning the village residents.<<END_STR>>
+<<START>>★We learned that someone was sighted entering a place<<END_STR>>
+to the southwest of the village called the <27>Ancient<<END_STR>>
+Burrow.<27> I should tell Karna about this.<<END_STR>>
+<<START>>★Karna explained that she didn<27>t want to sit around and <<END_STR>>
+do nothing while the village<27>s strongest warrior was<<END_STR>>
+wounded, and Duren, Karna and I decided to go to the <<END_STR>>
+Ancient Burrow. Its location is now marked on my map.<<END_STR>>
+<<START>>★We<27>re at the Ancient Burrow, which we suspect is the<<END_STR>>
+masked warriors<27> hideout. We should proceed with caution.<<END_STR>>
+<<START>>★A group of masked warriors lay in ambush, and we were <<END_STR>>
+forced to fight. No doubt they were being controlled by<<END_STR>>
+someone, as after defeating them they returned to their<<END_STR>>
+senses. The culprit is likely deeper in the Burrow.<<END_STR>>
+<<START>>★We opened a locked door deep within the Ancient Burrow<<END_STR>>
+and were greeted by the familiar sound of a harp.<<END_STR>>
+<<START>>★Inside, we found the warrior who wounded Asad, who was<<END_STR>>
+revealed to be Remnos. He summoned a giant monster to<<END_STR>>
+fight us, but we were able to emerge victorious.<<END_STR>>
+★We discovered that Remnos had been under the control of<<END_STR>>
+a <27>magician<27> who introduced herself as Bami. She revealed<<END_STR>>
+that Remnos had always been a gifted warrior, but had<<END_STR>>
+hidden his true potential to avoid hurting Karna. She<<END_STR>>
+claimed to have used this fact to control him.<<END_STR>>
+★Bami vanished, taking Remnos with her.<<END_STR>>
+★We returned to Comodo and reported everything that had<<END_STR>>
+happened to the newly-awakened Asad. The other villagers<<END_STR>>
+who had been spirited away were returned to the village<<END_STR>>
+safely, but we still knew nothing about Bami or the<<END_STR>>
+experiment she mentioned. I<27>m worried about Remnos, too.<<END_STR>>
+Hopefully Karna will cheer up...<<END_STR>>
+<<START>>★On the way out of Comodo, we saw Commander Leo.<<END_STR>>
+<<START>>★Now that we<27>ve done all we can in Comodo, we should head<<END_STR>>
+for the river. Its location is marked on the map.<<END_STR>>
+<<START>>★The map is complete as far as the river. It might be a<<END_STR>>
+good idea to return to Casnan and report to the<<END_STR>>
+Governor General.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_207>>The Polluted River<<SPASE>>The Polluted River
+<<START>>★We discovered a new village called Selray on the river.<<END_STR>>
+The villagers weren<27>t very happy to see us,<<END_STR>>
+and before we knew it we<27>d been locked in a hut.<<END_STR>>
+★The guard informed us that someone had poisoned the<<END_STR>>
+river, and as a result the villagers were currently unable<<END_STR>>
+to fish. As an outsider who happened to visit the village<<END_STR>>
+before this happened, I<27>m currently the prime suspect.<<END_STR>>
+★The villagers have been using aquatic beasts<<END_STR>>
+called <27>Spardas<27> to search the river for evidence.<<END_STR>>
+That name sounds somewhat familiar to me...<<END_STR>>
+<<START>>★Upon touching a strange light, I remembered my first<<END_STR>>
+meeting with Ozma, in which I asked him about the sacred<<END_STR>>
+beasts called Spardas. Perhaps I might be able to<<END_STR>>
+learn something if I can meet with him.<<END_STR>>
+<<START>>★As I was trying to persuade the guard to allow me to<<END_STR>>
+meet Ozma, Ozma came to visit on his own. He suggested we<<END_STR>>
+search for the real culprit to prove my innocence, and I<<END_STR>>
+accepted his proposal.<<END_STR>>
+★As long as he is with us, we should be able to gather<<END_STR>>
+information in the village. We should start right away.<<END_STR>>
+<<START>>★According to the information we gathered, the villagers<<END_STR>>
+noticed the poison when the river was dyed red. We learned<<END_STR>>
+this occurred soon after I left the village, and the<<END_STR>>
+poison came from upstream. To be able to dye a whole river<<END_STR>>
+would take an enormous amount of poison -- could a human<<END_STR>>
+really be responsible? It seems implausible.<<END_STR>>
+★After our investigation, Ozma took us upstream and <<END_STR>>
+revealed that the true culprits were the Spardas. It<<END_STR>>
+appears that wild Spardas are known to spew poison.<<END_STR>>
+However, the fact that they released so much of it<<END_STR>>
+suggests something caused them to do so.<<END_STR>>
+★Ozma decided to accompany us to the Spardas<27> habitat so<<END_STR>>
+we can look into the matter. According to him, if we follow<<END_STR>>
+the river to the south, the entrance can be found behind<<END_STR>>
+a waterfall. Its location is now marked on the map.<<END_STR>>
+<<START>>★Ozma told us that the Spardas<27> poison was responsible for<<END_STR>>
+the death of his parents. As I thought, there was more to his<<END_STR>>
+tribe and the story of the Spardas than he let on. <<END_STR>>
+<<START>>★We defeated a giant monster and managed to save an infant<<END_STR>>
+Sparda.<<END_STR>>
+★Ozma is acting as if he has something on his mind. We <<END_STR>>
+should pursue the infant Sparda.<<END_STR>>
+<<START>>★We discovered that the reason the Spardas had been<<END_STR>>
+releasing so much poison is that the infant Sparda had been<<END_STR>>
+injured by a <27>beast tamer<27> named Gadis. Ozma attempted to<<END_STR>>
+fight him, but Gadis<27> strength was too great. He managed<<END_STR>>
+to get away, unfortunately.<<END_STR>>
+★Eventually we were able to prove that I wasn<27>t the <<END_STR>>
+culprit. Ozma says he intends to tell the villagers about<<END_STR>>
+Gadis, but wants to keep the Spardas<27> role secret for now,<<END_STR>>
+as he wishes to learn the truth about the Spardas and the<<END_STR>>
+reason they<27>re revered as sacred beasts by his tribe.<<END_STR>>
+<<START>>★On the way out of Selray, we saw Commander Leo.<<END_STR>>
+<<START>>★Now that we<27>ve done all we can in Selray, we should head<<END_STR>>
+for the giant tree. Its location is marked on the map.<<END_STR>>
+<<START>>★The map is complete as far as the river. It might be a<<END_STR>>
+good idea to return to Casnan and report to the<<END_STR>>
+Governor General.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_268>>Return to Casnan<<SPASE>>Return to Casnan
+<<START>>★We reported our progress to Governor General Griselda.<<END_STR>>
+According to Duren, the other side of the river is known<<END_STR>>
+as the <27>Primeval Lands,<27> and no one knows what lies there.<<END_STR>>
+Unable to cross over, our investigation is at a standstill.<<END_STR>>
+★The Governor General promised to let us know if she heard<<END_STR>>
+anything, and recommended we rest in Casnan for now.<<END_STR>>
+<<START>>★After leaving the Governor General<27>s office, we met Gruda<<END_STR>>
+of the Romun Army, who told us that he was sent from Romn<<END_STR>>
+to serve as Governor General Griselda<27>s assistant.<<END_STR>>
+★Duren and I discussed what to do next at the bar. So far,<<END_STR>>
+we haven<27>t encountered the tower I saw in one of my<<END_STR>>
+visions. Perhaps that tower is in the Primeval Lands?<<END_STR>>
+If so, that means I found some way of getting across the<<END_STR>>
+river before losing my memories.<<END_STR>>
+★Duren and I agreed to work separately for a day, as he<<END_STR>>
+wanted to meet an old friend. I should try and gather<<END_STR>>
+information myself while completing quests in Casnan.<<END_STR>>
+<<START>>★There are two new quests on the board. Today is the<<END_STR>>
+perfect opportunity to complete them.<<END_STR>>
+<<START>>★After completing both quests, I heard a rumor in the<<END_STR>>
+plaza that something was happening near the north gate.<<END_STR>>
+<<START>>★Approaching the commotion, I was reunited with Karna,<<END_STR>>
+who<27>d climbed to the highest point in town to look for me.<<END_STR>>
+★In the bar, Karna explained that she wants to come with<<END_STR>>
+me to search for Remnos. It must have taken a lot of <<END_STR>>
+determination to come this far through the Great Forest<<END_STR>>
+alone to find me. I<27>m sure she<27>ll be a great help.<<END_STR>>
+★Returning from meeting his old friend, Duren revealed<<END_STR>>
+that he managed to get his hands on an old notebook of<<END_STR>>
+mine. In it, we found the words <27>Primeval Lands<27> and<<END_STR>>
+<27>Tower,<27> and discovered that I had probably crossed the<<END_STR>>
+river previously by way of <27>Underground Ruins<27> with<<END_STR>>
+their entrance located not far from Selray.<<END_STR>>
+★We also found some strange symbols in the notebook.<<END_STR>>
+I wonder what they mean?<<END_STR>>
+★Duren, Karna and I set off for the Primeval Lands. First,<<END_STR>>
+however, we decided to stop by Selray to see Ozma and<<END_STR>>
+ask if he knows anything about these <27>Underground Ruins.<27><<END_STR>>
+<<HENDER_END>>
+<<HENDER_309>>The Primeval Lands<<SPASE>>The Primeval Lands
+<<START>>★We met with Ozma in Selray. Ozma told us that the Spardas<<END_STR>>
+were originally from the Primeval Lands, and asked to<<END_STR>>
+accompany us there so he could learn the truth about them.<<END_STR>>
+★It seems the entrance to the Underground Ruins can be<<END_STR>>
+reached by following the river to the north. Its location<<END_STR>>
+is now marked on the map.<<END_STR>>
+<<START>>★We reached the Underground Ruins mentioned in my<<END_STR>>
+notebook, and began searching for the entrance.<<END_STR>>
+<<START>>★We discovered some kind of device with a pattern similar<<END_STR>>
+to the one in my notebook:<<END_STR>>
+　　◆　◇　◆<<END_STR>>
+　　◇　◇　◇<<END_STR>>
+　　◆　◇　◆ <<END_STR>>
+It makes me wonder...<<END_STR>>
+Could the pattern in my notebook be related to the device?<<END_STR>>
+<<START>>★After solving the puzzle, the entrance to the Underground<<END_STR>>
+Ruins opened. Let<27>s go inside.<<END_STR>>
+<<START>>★Inside the Underground Ruins, we discovered a winged<<END_STR>>
+statue similar to the one I saw in Casnan. Perhaps the<<END_STR>>
+statues have something to do with the Primeval Lands and <<END_STR>>
+the kingdom which existed in Celceta eight hundred years<<END_STR>>
+ago. Either way, we should keep moving.<<END_STR>>
+<<START>>★We exited the Underground Ruins to find ourselves in a<<END_STR>>
+new land. Near the exit, we found a gravestone with my <<END_STR>>
+name on it. What<27>s going on around here?<<END_STR>>
+★Karna also informed us that it didn<27>t appear anyone had<<END_STR>>
+passed through the Underground Ruins recently. If that<27>s not<<END_STR>>
+how I got to the Primeval Lands, then how DID I get here?<<END_STR>>
+★...For now, we should focus on exploring the area.<<END_STR>>
+There must be some kind of settlement nearby.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_342>>Recollections<<SPASE>>Recollections
+<<START>>★We discovered a technologically advanced town and a tower<<END_STR>>
+surrounded by thunderclouds. Could that be the tower<<END_STR>>
+mentioned in my notebook? We should get a closer look at<<END_STR>>
+the town first.<<END_STR>>
+<<START>>★We reached the entrance to the town. It<27>s almost an<<END_STR>>
+overwhelming sight up close. We should enter.<<END_STR>>
+<<START>>★As soon as the town<27>s residents saw me, they started<<END_STR>>
+acting as if they<27>d seen a ghost. A girl named Calilica<<END_STR>>
+showed us to the home of her grandfather, Mayor Aaron.<<END_STR>>
+★The mayor explained that I was presumed dead by the<<END_STR>>
+town<27>s residents. He was reluctant to share much more<<END_STR>>
+information, however, and we were told to stay at his<<END_STR>>
+mansion for the night.<<END_STR>>
+★Calilica and the mayor seemed surprisingly unperturbed<<END_STR>>
+by my memory loss. There appears to be something strange<<END_STR>>
+about this town.<<END_STR>>
+★So much has happened today, I can<27>t get to sleep. We were<<END_STR>>
+told not to leave the mayor<27>s mansion, but...<<END_STR>>
+<<START>>★I left the mansion through the window. I might as well<<END_STR>>
+have a walk around town to clear my head.<<END_STR>>
+<<START>>★I saw a girl walking toward the cathedral.<<END_STR>>
+<<START>>★Inside the cathedral, I remembered my first meeting with<<END_STR>>
+someone called <27>Eldeel,<27> and was reunited with Leeza, a<<END_STR>>
+girl who also featured in that memory.<<END_STR>>
+★According to Leeza, Eldeel is like a god, and gives <<END_STR>>
+people of his choosing special <27>wisdom.<27> At one point, I was<<END_STR>>
+one of the people he summoned to receive such <27>wisdom.<27><<END_STR>>
+It<27>s possible the protective barrier around this area may be<<END_STR>>
+the reason I lost my memories. However, the barrier is only<<END_STR>>
+intended to keep Eldeel and Highland a secret, so Leeza<<END_STR>>
+can<27>t explain why I would<27>ve lost my other memories too.<<END_STR>>
+★The next day, Calilica guided us around the town.<<END_STR>>
+Hopefully I<27>ll be able to find something that will help<<END_STR>>
+more of my memories return. We were given one rule during<<END_STR>>
+our stay: we are not allowed to leave town by the north exit.<<END_STR>>
+<<START>>★We went over the information we gathered exploring the<<END_STR>>
+town, and concluded that to find out exactly what happened<<END_STR>>
+here, we<27>re going to need to dig up my grave and unearth<<END_STR>>
+my belongings.<<END_STR>>
+★Let<27>s go and dig me up!<<END_STR>>
+<<START>>★We dug up my grave, but my belongings were nowhere to be<<END_STR>>
+seen. Instead, we found a torn scrap of paper with the<<END_STR>>
+words, <27>Received the mask from<27> written on it. The words<<END_STR>>
+are definitely in my handwriting.<<END_STR>>
+★We concluded that the most likely possibility is that<<END_STR>>
+someone stole my belongings, but lack enough information<<END_STR>>
+to draw any conclusions about the <27>Mask<27> mentioned in the<<END_STR>>
+memo. We<27>re going to need to meet Eldeel.<<END_STR>>
+<<START>>★We asked the mayor about the possibility of meeting<<END_STR>>
+Eldeel. Leeza informed us that, much to the surprise of<<END_STR>>
+everyone in the room, he is currently unwell, so meeting<<END_STR>>
+him won<27>t be possible right now.<<END_STR>>
+★Sitting around isn<27>t going to get us anywhere,<<END_STR>>
+so we decided to go to the tower and visit Eldeel anyway.<<END_STR>>
+We<27>ll sneak out of the mansion tonight.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_400>>The Sanctuary<<SPASE>>The Sanctuary
+<<START>>★We managed to sneak out of the mansion. To get to the<<END_STR>>
+tower, we need to leave town through the north exit.<<END_STR>>
+<<START>>★After leaving town, we witnessed the violent weather<<END_STR>>
+in the Sanctuary of Storms.<<END_STR>>
+...We<27>ll have to go and get a closer look.<<END_STR>>
+<<START>>★Resting in a camp in front of the Sanctuary of Storms,<<END_STR>>
+I remembered spending time with Eldeel and Leeza.<<END_STR>>
+<<START>>★We finally reached the Sanctuary of Storms. Looks<<END_STR>>
+dangerous, but we can<27>t reach the tower without crossing<<END_STR>>
+it, so we have no choice but to try our luck.<<END_STR>>
+<<START>>★After being struck by lightning, we returned to camp<<END_STR>>
+and discovered we weren<27>t alone in the area -- Calilica<<END_STR>>
+had followed us. Her face says she<27>s worried about Eldeel.<<END_STR>>
+Convinced of her intentions by the courage she showed in<<END_STR>>
+coming all this way, we agreed to let her accompany us.<<END_STR>>
+<<START>>★Calilica<27>s amazing ability as an Apostle will allow us<<END_STR>>
+to cross the Sanctuary of Storms. While it<27>s dangerous<<END_STR>>
+nonetheless, we should be able to make it with her help.<<END_STR>>
+<<START>>★We finally reached the tower. The elevator inside will<<END_STR>>
+allow us to reach Eldeel<27>s room.<<END_STR>>
+<<START>>★The elevator isn<27>t working. Hopefully nothing has<<END_STR>>
+happened to Eldeel. With the elevator non-functional,<<END_STR>>
+we<27>re going to have to climb the tower on foot.<<END_STR>>
+<<START>>★We reached Eldeel<27>s room, which looks the same as when<<END_STR>>
+I visited it in my memories, but he<27>s nowhere to be seen.<<END_STR>>
+<<START>>★We finally met Eldeel, but during our conversation his<<END_STR>>
+dominant <27>personality<27> changed. Even his appearance<<END_STR>>
+changed! He managed to get it under control, but this<<END_STR>>
+appears to be the <27>illness<27> Leeza was trying to hide from<<END_STR>>
+everyone. Perhaps we should return another day.<<END_STR>>
+★Suddenly, we smelled smoke. It seems Highland is being<<END_STR>>
+raided -- we have to hurry back!<<END_STR>>
+<<START>>★Damage was visible all over the town. We should hurry to<<END_STR>>
+Calilica<27>s home and make sure everyone is safe.<<END_STR>>
+<<START>>★We were surrounded by masked soldiers in front of the<<END_STR>>
+cathedral. We tried to fight them off, but they were too<<END_STR>>
+strong.<<END_STR>>
+★Gruda of the Romun Army appeared and revealed that he had<<END_STR>>
+orchestrated the attack on Highland. The Sanctuary of<<END_STR>>
+Storms<27> thunderstorms were silenced by Gadis and Bami,<<END_STR>>
+who appeared before us again. The entirety of their actions<<END_STR>>
+when we encountered them last were on Gruda<27>s orders.<<END_STR>>
+★Furthermore, one of the masked soldiers with them was<<END_STR>>
+revealed to be Remnos, who claimed that unlike when we<<END_STR>>
+last met, he is now opposing us of his own free will.<<END_STR>>
+Unable to resist, we were forced to let him get away.<<END_STR>>
+★The Romun Army, under Gruda<27>s command, proceeded deeper<<END_STR>>
+into the forest. They appear to be trying to obtain the<<END_STR>>
+Mask of the Sun, a relic of the Kingdom of Celceta which<<END_STR>>
+collapsed hundreds of years ago.<<END_STR>>
+★During the confusion, Eldeel and Leeza disappeared.<<END_STR>>
+Where could they be?<<END_STR>>
+★Governor General Griselda arrived in Highland and<<END_STR>>
+announced that the Celcetan Army would be responsible for<<END_STR>>
+guarding the town. She informed us that Gruda had betrayed<<END_STR>>
+Romn, and Commander Leo and his men were sent to pursue.<<END_STR>>
+★We agreed to the mayor<27>s suggestion to go deeper into the<<END_STR>>
+Great Forest, into the area known as the <27>Ashen Forest.<27><<END_STR>>
+We were told there is a village in that area, and its<<END_STR>>
+inhabitants may know something about the Mask of the Sun<<END_STR>>
+and Eldeel<27>s condition.<<END_STR>>
+★We left Highland for the Ashen Forest, accompanied by<<END_STR>>
+Calilica (who<27>s really worried about Eldeel and Leeza).<<END_STR>>
+<<START>>★We set up camp in Table Mountain, where I remembered<<END_STR>>
+being knocked into a waterfall by the black-winged Eldeel.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_470>>Danan Village<<SPASE>>Danan Village
+<<START>>★We discovered the village Mayor Aaron described in the<<END_STR>>
+Subterranean Forest. Let<27>s check it out.<<END_STR>>
+<<START>>★We were welcomed by a warrior named Frieda, who acts<<END_STR>>
+as if she knows me. Furthermore, we found out that Duren<<END_STR>>
+is originally from this village!<<END_STR>>
+★It seems the inhabitants of this village are the <<END_STR>>
+descendants of great sinners, and Duren and Frieda are<<END_STR>>
+somehow involved. The elder will explain in more detail--<<END_STR>>
+those two are taking the rest of us to meet with him.<<END_STR>>
+His house is in front of the central tower.<<END_STR>>
+<<START>>★The village elder, Vanjo, detailed a brief history of<<END_STR>>
+the village to us. It seems their ancestors sinned by<<END_STR>>
+betraying the gods, resulting in the destruction of a<<END_STR>>
+great civilization. However, they were forgiven by Eldeel,<<END_STR>>
+who brought them here from their original home far away.<<END_STR>>
+★Eldeel<27>s other personality has come to the surface before,<<END_STR>>
+and it led to him destroying the ancient Kingdom of Celceta.<<END_STR>>
+His dark behavior now is similar to his behavior at that time.<<END_STR>>
+Because of this, Vanjo had asked Duren to keep an eye on<<END_STR>>
+me when I visited the tower. <<END_STR>>
+★After talking with Vanjo, he showed us to a small shrine<<END_STR>>
+in the village where the Mask of the Sun is being kept.<<END_STR>>
+Frieda was the one who had it taken from my grave, and<<END_STR>>
+it was Duren who rescued me when I fell from the waterfall.<<END_STR>>
+★The Mask of the Sun has the unique ability to read<<END_STR>>
+the <27>Akashic Records,<27> the blueprints of the world, and<<END_STR>>
+Eldeel uses these Akashic Records to grant <27>wisdom<27> to<<END_STR>>
+others. The Akashic Records are kept deeper in the Great<<END_STR>>
+Forest, and obtaining them seems likely to be Gruda<27>s<<END_STR>>
+ultimate goal.<<END_STR>>
+★Leeza surprised us and began trying to use a<<END_STR>>
+Galbalan named Sol to destroy the barrier surrounding<<END_STR>>
+the Mask of the Sun in an effort to obtain it.<<END_STR>>
+★We discovered that Sol-Galba is immune to conventional<<END_STR>>
+weapons and were unable to stop it from destroying the<<END_STR>>
+barrier, but just as Leeza was about to claim the Mask of<<END_STR>>
+the Sun, Gruda appeared and took it for himself.<<END_STR>>
+★Gruda manipulated her to obtain the Mask, and<<END_STR>>
+she fell right into his trap.<<END_STR>>
+★It was revealed that Gruda is originally from Danan as<<END_STR>>
+well, and he announced that he would be taking the cursed<<END_STR>>
+name of the tribe<27>s ancestors, the Darklings. He then<<END_STR>>
+escaped, denying us any opportunity to stop him by using<<END_STR>>
+villagers as hostages.<<END_STR>>
+★The entirety of the Akashic Records which Gruda seeks<<END_STR>>
+are kept beyond the Subterranean Forest in Elduke, the<<END_STR>>
+former capital of the Kingdom of Celceta. This is where<<END_STR>>
+Eldeel is headed as well.<<END_STR>>
+★Leeza left for Elduke on Sol-Galba. Frieda has agreed<<END_STR>>
+to guide us on foot, and we should be leaving as well.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_523>>Ruined Kingdom<<SPASE>>Ruined Kingdom
+<<START>>★We met Commander Leo, Sancho and Panza in the Ashen <<END_STR>>
+Forest, and they agreed to allow us to go on ahead of <<END_STR>>
+them. With Frieda<27>s help, we should be able to get through<<END_STR>>
+the paths that are blocked by poisonous gases.<<END_STR>>
+<<START>>★We set up camp in the Ashen Forest, and I remembered <<END_STR>>
+Eldeel confessing his worries to me.<<END_STR>>
+★The path ahead is filled with strange spores. We<27>ll have<<END_STR>>
+to proceed cautiously.<<END_STR>>
+<<START>>★We left the Forest of Spores and emerged on the <<END_STR>>
+Battlefield of Colonia. We<27>re almost at Elduke now!<<END_STR>>
+<<START>>★We finally reached Elduke. Unfortunately, the area is<<END_STR>>
+already occupied by the Masked Division. We need to find<<END_STR>>
+a way to get to the Temple of the Sun, but we<27>ll have to<<END_STR>>
+be careful we<27>re not spotted.<<END_STR>>
+<<START>>★We saw Remnos near the temple. He left the area,<<END_STR>>
+taking most of the soldiers with him. Now<27>s our chance to<<END_STR>>
+sneak in and investigate!<<END_STR>>
+<<START>>★We reached the temple, but were unable to open the door.<<END_STR>>
+As we were pondering how to get inside, Gruda, Bami and<<END_STR>>
+Gadis appeared-- and even worse, black-winged Eldeel was<<END_STR>>
+with them.<<END_STR>>
+★Black-winged Eldeel has been periodically giving Gruda<<END_STR>>
+and his allies all kinds of secret information. Using the<<END_STR>>
+Mask of the Sun as a key, they entered the Temple of the<<END_STR>>
+Sun.<<END_STR>>
+★We tried to pursue them, but the door had already firmly<<END_STR>>
+closed behind them. Isn<27>t there any other way to enter the<<END_STR>>
+Temple of the Sun? We<27>ll have to inspect the surrounding<<END_STR>>
+area and see if we can find anything.<<END_STR>>
+<<START>>★As we walked down the steps, Karna sensed something<<END_STR>>
+strange nearby. We should probably investigate.<<END_STR>>
+<<START>>★We witnessed an odd creature entering a hole. Let<27>s<<END_STR>>
+follow it!<<END_STR>>
+<<START>>★We found ourselves inside a Roda Tree, and heard a<<END_STR>>
+peculiar voice calling us from farther in.<<END_STR>>
+<<START>>★According to Frieda, the creatures inside here are sacred<<END_STR>>
+beasts called <27>Roos.<27> Why does that name sound familiar?<<END_STR>>
+Spardas can be found near Elduke as well. But for now,<<END_STR>>
+we really need to locate the source of that voice.<<END_STR>>
+<<START>>★Deep within the Roos<27> Nest, we found the Grand Roo,<<END_STR>>
+capable of human speech. It seems he can also talk to<<END_STR>>
+the Roda Tree, and it was the Roda Tree that asked him<<END_STR>>
+to lead us here.<<END_STR>>
+★There is another mask of importance, the Mask of the Moon,<<END_STR>>
+which serves as a twin to the Mask of the Sun. The ancient<<END_STR>>
+ruler of the Kingdom of Celceta, King Lefance, used the<<END_STR>>
+Mask of the Moon to pacify the black-winged Eldeel.<<END_STR>>
+★If we can obtain the Mask of the Moon, we should be able<<END_STR>>
+to use it to enter the Temple of the Sun. Even better, we<<END_STR>>
+can then use it to return Eldeel to normal. While the Roda<<END_STR>>
+Tree doesn<27>t know all the details, it suggested we should<<END_STR>>
+be able to learn more from King Lefance<27>s memories.<<END_STR>>
+★While the Mask of the Moon itself was lost a long time<<END_STR>>
+ago, the Roda Tree senses something similar in Mt. Vesuvio<<END_STR>>
+and the ruins on Lake Tolmes, both near Elduke. We can<<END_STR>>
+reach these locations by leaving the temple grounds via the<<END_STR>>
+eastern exit.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_584>>Mask of the Moon<<SPASE>>Mask of the Moon: Lake Tolmes
+<<START>>★We reached the Lake Tolmes Ruins. Let<27>s start looking for<<END_STR>>
+clues right away.<<END_STR>>
+<<START>>★During our exploration, we found one of Lefance<27>s<<END_STR>>
+memories.<<END_STR>>
+<<START>>★What a dreadful stench! It seems to be coming from<<END_STR>>
+farther inside the ruins...<<END_STR>>
+<<START>>★According to Frieda, all of the water in the Primeval<<END_STR>>
+Lands comes from here, and is purified by the Spardas.<<END_STR>>
+This is a role given to them by Eldeel.<<END_STR>>
+We were all surprised to learn that what we thought was<<END_STR>>
+poison was actually essential to the natural environment<<END_STR>>
+of the forest, but Ozma was the most shocked of us all.<<END_STR>>
+<<START>>★We found another of Lefance<27>s memories, which revealed<<END_STR>>
+the truth about the Spardas and Ozma<27>s tribe.<<END_STR>>
+★Before we could explore any farther, Gadis showed up<<END_STR>>
+and used the power of one of Gruda<27>s masks to transform<<END_STR>>
+into a monster. It was a difficult battle, but we emerged<<END_STR>>
+victorious. Regrettably, Gadis<27> body and spirit<<END_STR>>
+disintegrated, unable to withstand the power of the mask.<<END_STR>>
+★Although Ozma had accomplished what he set out to do by<<END_STR>>
+learning the truth of the Spardas, he agreed to continue<<END_STR>>
+lending us his assistance.<<END_STR>>
+★There appears to be an altar of some kind. We should<<END_STR>>
+investigate it more closely.<<END_STR>>
+<<START>>★We obtained part of a mask, but it doesn<27>t appear to have<<END_STR>>
+any power left within it. Could this be part of the Mask<<END_STR>>
+of the Moon?<<END_STR>>
+★Now that we<27>ve finished exploring the ruins on Lake<<END_STR>>
+Tolmes, we should investigate the other location the Grand<<END_STR>>
+Roo mentioned: Mt. Vesuvio.<<END_STR>>
+<<START>>★We now have our second mask fragment. If both are held<<END_STR>>
+together, they form a complete mask, but nothing happens.<<END_STR>>
+Perhaps Remnos might know something? We should hurry<<END_STR>>
+back to Elduke.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_621>>Mask of the Moon<<SPASE>>Mask of the Moon: Mt. Vesvio
+<<START>>★We reached the base of Mt. Vesuvio. As the volcano on the<<END_STR>>
+west side is currently inaccessible, we decided to climb<<END_STR>>
+the snowy mountain on the eastern side.<<END_STR>>
+★While we were climbing the mountain, Commander Leo showed<<END_STR>>
+up and informed us that Masked Division soldiers are in the<<END_STR>>
+area. He also said that he caught sight of Remnos here too.<<END_STR>>
+If the Masked Division are looking for the Mask of the<<END_STR>>
+Moon as well, then we really need to hurry!<<END_STR>>
+<<START>>★During our expedition, we found another of Lefance<27>s<<END_STR>>
+memories.<<END_STR>>
+<<START>>★We encountered Remnos as we were climbing the mountain<<END_STR>>
+and discovered that all of his actions since he broke free<<END_STR>>
+from Bami<27>s control were a ruse so he could spy on Gruda.<<END_STR>>
+He hadn<27>t recovered the Mask of the Moon, as he intended<<END_STR>>
+for us to take it-- but this unfortunately led Bami to<<END_STR>>
+learn the truth, and Remnos was placed under a powerful<<END_STR>>
+curse that threatens to kill him.<<END_STR>>
+★After we repelled a group of soldiers from the Masked<<END_STR>>
+Division, Commander Leo arrived. Sadly, the only way<<END_STR>>
+to free Remnos from Bami<27>s curse is to defeat her in<<END_STR>>
+battle. Remnos will be safe with Commander Leo, so we<<END_STR>>
+should hurry after Bami.<<END_STR>>
+<<START>>★We caught up with Bami. She transformed into a monster<<END_STR>>
+using one of Gruda<27>s masks and attacked us.<<END_STR>>
+★It was a difficult battle, but we emerged victorious.<<END_STR>>
+Remnos should be free from the curse now.<<END_STR>>
+<<START>>★We found another of Lefance<27>s memories, and discovered<<END_STR>>
+that the Mask of the Moon was created by Eldeel himself.<<END_STR>>
+We still don<27>t know why he created it, however.<<END_STR>>
+Let<27>s check out the altar farther inside.<<END_STR>>
+<<START>>★We obtained part of a mask, but it doesn<27>t appear to have<<END_STR>>
+any power left in it. Could this be one piece of the Mask<<END_STR>>
+of the Moon?<<END_STR>>
+★Now that we<27>ve finished exploring Mt. Vesuvio, we should<<END_STR>>
+investigate the other location the Grand Roo mentioned:<<END_STR>>
+the ruins on Lake Tolmes.<<END_STR>>
+<<START>>★We now have our second mask fragment. If both are held<<END_STR>>
+together, they form a complete mask, but nothing happens.<<END_STR>>
+Perhaps Remnos might know something? We should hurry<<END_STR>>
+back to Elduke.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_664>>Repairing the Mask<<SPASE>>Repairing the Mask
+<<START>>★We returned to the Roos<27> Nest and found Remnos had been<<END_STR>>
+freed from Bami<27>s curse. With Remnos safe, Karna<27>s<<END_STR>>
+objective has been achieved, but she agreed to accompany<<END_STR>>
+us till the bitter end to protect Celceta.<<END_STR>>
+★The two halves of the Mask of the Moon have completely<<END_STR>>
+lost their power. Remnos suggested that we might be able<<END_STR>>
+to repair them in an artifact laboratory near here. We<<END_STR>>
+should see if the Roda Tree or Grand Roo know anything.<<END_STR>>
+<<START>>★The artifact laboratory Remnos mentioned is supposedly<<END_STR>>
+to the north of Colonia Battlefield. Furthermore, Leeza<<END_STR>>
+seems to be there as well.<<END_STR>>
+★The laboratory is filled with <27>living weapons<27> that can<27>t<<END_STR>>
+be defeated through conventional means. However, the Roda<<END_STR>>
+Tree presented us with the <27>Artifact Sword Emeraude,<27><<END_STR>>
+which should be capable of felling them successfully.<<END_STR>>
+★Remnos begrudgingly agreed to stay in the Roos<27> Nest, <<END_STR>>
+leaving us to head north of the battlefield to the<<END_STR>>
+laboratory.<<END_STR>>
+<<START>>★The door to the laboratory is guarded by one of the<<END_STR>>
+living weapons the Roda Tree mentioned. If we can stop its<<END_STR>>
+movements, I can finish it off with Emeraude!<<END_STR>>
+<<START>>★Thanks to the power of the Artifact Sword, we were able<<END_STR>>
+to defeat the living weapon. This is definitely the<<END_STR>>
+artifact laboratory we were looking for. Nina returned<<END_STR>>
+and informed us that Leeza is inside. We need to proceed<<END_STR>>
+with the utmost caution!<<END_STR>>
+<<START>>★We heard a girl<27>s scream from farther inside the<<END_STR>>
+laboratory. Could it have been Leeza?!<<END_STR>>
+<<START>>★We found Leeza. She was with Sol-Galba, but he<27>d gone<<END_STR>>
+berserk. According to Leeza, Sol-Galba suddenly stopped <<END_STR>>
+listening to her instructions as they approached Elduke.<<END_STR>>
+He also gained the ability to speak?! Sol-Galba flew<<END_STR>>
+to the other side of the laboratory.<<END_STR>>
+★Leeza has no more of an idea as to why Sol-Galba is<<END_STR>>
+behaving strangely than we do. We should pursue it,<<END_STR>>
+but will need to protect her as well.<<END_STR>>
+<<START>>★We discovered Sol-Galba on the opposite side of the <<END_STR>>
+laboratory.<<END_STR>>
+<<START>>★Sol-Galba appears to have lost all control of its<<END_STR>>
+actions. It<27>s too dangerous to leave it like this. We<27>re<<END_STR>>
+going to have to stop it!<<END_STR>>
+★After successfully subduing Sol-Galba, something emerged<<END_STR>>
+from inside of it. It was the soul of King Lefance, ruler<<END_STR>>
+of the lost Celcetan Kingdom!<<END_STR>>
+★He explained that after his soul was released from its<<END_STR>>
+resting place, it lost its self-restraint and was drawn to his <<END_STR>>
+descendant, Leeza. As a result, it wound up possessing<<END_STR>>
+the body of Sol-Galba.<<END_STR>>
+★According to King Lefance, the fact that his soul was <<END_STR>>
+released means that the evil soul of Eldeel has also been<<END_STR>>
+released, as he was the one responsible for sealing it <<END_STR>>
+away. There<27>s no time to waste: we have to stop Eldeel<<END_STR>>
+and Gruda before it<27>s too late!<<END_STR>>
+★Using the altar in the laboratory, we were able to<<END_STR>>
+repair the Mask of the Moon by replenishing its magic<<END_STR>>
+power. We should now be able to enter the temple.<<END_STR>>
+★King Lefance left for Elduke ahead of us, saying that he<<END_STR>>
+will explain what we have to do in more detail later. Leeza<<END_STR>>
+also departed on Sol-Galba, and we should be on our way<<END_STR>>
+too.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_727>>Temple of the Sun<<SPASE>>Temple of the Sun
+<<START>>★We reunited with Nina, who had been scouting the area<<END_STR>>
+around Elduke. Not long after Bami was defeated, the<<END_STR>>
+Masked Division returned to their senses. We should hurry<<END_STR>>
+into the Temple of the Sun.<<END_STR>>
+<<START>>★King Lefance and Leeza were waiting for us at the<<END_STR>>
+Temple of the Sun. We now know the Mask of the Moon has <<END_STR>>
+the ability to seal away the black-winged Eldeel. To do<<END_STR>>
+this, however, we will need to put the mask on him, and<<END_STR>>
+its effects are only temporary.<<END_STR>>
+★If we can speak with Eldeel, we might be able to find a<<END_STR>>
+more permanent solution. He<27>ll be a challenging opponent,<<END_STR>>
+but we can<27>t turn back now. Leeza is depending on us!<<END_STR>>
+★The Mask of the Moon was entrusted to me. I put it on and<<END_STR>>
+opened the temple door. The showdown with Eldeel awaits;<<END_STR>>
+we should enter as soon as we<27>re ready.<<END_STR>>
+<<START>>★The audience chamber was empty. It seems Eldeel is in the<<END_STR>>
+room where the Akashic Records are kept. We need to hurry!<<END_STR>>
+<<START>>★We confronted black-winged Eldeel in front of the Akashic<<END_STR>>
+Records. He plans to bring about natural disasters across <<END_STR>>
+the whole of the Europan continent, convinced that this is<<END_STR>>
+the proper use of a god<27>s power. I<27>m not going to let that<<END_STR>>
+happen!<<END_STR>>
+★It was a difficult battle, but we were able to subdue <<END_STR>>
+Eldeel long enough to put the Mask of the Moon on him<<END_STR>>
+and allow him to return to his original persona.<<END_STR>>
+★The black-winged Eldeel, shockingly, is not a separate<<END_STR>>
+entity, but rather another part of Eldeel himself, born<<END_STR>>
+from his own second thoughts about gifting false <27>wisdom.<27><<END_STR>>
+The black-winged Eldeel seeks to stimulate creativity<<END_STR>>
+instead by imposing ordeals upon humanity.<<END_STR>>
+★During our talk with Eldeel, Gruda appeared and declared<<END_STR>>
+that Eldeel was an <27>incomplete<27> god, proclaiming that<<END_STR>>
+only he could give humanity a worthy ordeal. He then<<END_STR>>
+disappeared, taking the Mask of the Sun (which he had<<END_STR>>
+stolen from Eldeel) with him.<<END_STR>>
+★Eldeel believes Gruda has entered Iris, the <27>world<27> in<<END_STR>>
+which all records of existence are stored, and intends to<<END_STR>>
+bring about global calamity by interfering with these<<END_STR>>
+records.<<END_STR>>
+★Eldeel opened the door to Iris using the power of the<<END_STR>>
+Mask of the Moon. We need to hurry and stop Gruda<<END_STR>>
+before the black-winged Eldeel resurfaces!<<END_STR>>
+<<HENDER_END>>
+<<HENDER_773>>Pursuing Gruda<<SPASE>>Pursuing Gruda
+<<START>>★We successfully entered Iris. King Lefance informed us<<END_STR>>
+that it is possible to interfere with the world<27>s records<<END_STR>>
+by using a device on the top floor, in the Central Area.<<END_STR>>
+That<27>s where we<27>re sure to find Gruda.<<END_STR>>
+★In order to access the Central Area, we<27>ll need to<<END_STR>>
+defeat the guardians of the three areas ahead of us--<<END_STR>>
+Bronze, Silver and Gold. We<27>ll have to be quick about it,<<END_STR>>
+too, as time is running out!<<END_STR>>
+<<START>>★We defeated the guardian of the Bronze Area.<<END_STR>>
+<<START>>★We defeated the guardian of the Silver Area.<<END_STR>>
+<<START>>★We defeated the guardian of the Gold Area.<<END_STR>>
+<<START>>★Now that we<27>ve defeated all three guardians, we should<<END_STR>>
+be able to access the Central Area and confront Gruda.<<END_STR>>
+We should go there as soon as we<27>re ready.<<END_STR>>
+<<START>>★At last, we<27>ve entered the Central Area. The device to<<END_STR>>
+interfere with the Akashic Records should be just a little<<END_STR>>
+farther in. There<27>s no time to lose!<<END_STR>>
+<<START>>★We finally found Gruda.<<END_STR>>
+★Gruda revealed that his objective is to test humanity<<END_STR>>
+and have us prove our right to exist by showing our<<END_STR>>
+potential. This is the basic theology behind his new <<END_STR>>
+generation of <27>Darklings.<27><<END_STR>>
+★Gruda successfully copied the whole of the Akashic<<END_STR>>
+Records into himself, accomplishing through force of will<<END_STR>>
+alone a task that it<27>s said not even a god could manage.<<END_STR>>
+This has made him into a giant, and if we don<27>t stop him,<<END_STR>>
+he<27>ll overwrite the whole world. We cannot accept defeat!<<END_STR>>
+★By emerging victorious at the end of a tough battle, we<<END_STR>>
+overcame Gruda<27>s trial. His presence can no longer be felt<<END_STR>>
+anywhere in the vicinity.<<END_STR>>
+<<START>>★As we claimed the Mask of the Sun, the area began shaking<<END_STR>>
+violently. What<27>s happening?! We have to hurry back to the<<END_STR>>
+Temple of the Sun. Back to Eldeel.<<END_STR>>
+<<HENDER_END>>
+<<HENDER_809>>The Final Battle<<SPASE>>The Final Battle: Celceta<27>s Fate
+<<START>>★We returned to the Temple of the Sun and were filled in<<END_STR>>
+on the situation by Eldeel. Now, as a result of<<END_STR>>
+Gruda<27>s actions, contradictions and inconsistencies have<<END_STR>>
+appeared in the Akashic Records. If something isn<27>t<<END_STR>>
+done to fix them, a calamity will befall the entire world,<<END_STR>>
+with Celceta at its center.<<END_STR>>
+★Eldeel says that it<27>s too late for him to try and repair<<END_STR>>
+Iris on his own. Our only option is to destroy the Mask<<END_STR>>
+of the Sun itself. If the mask is destroyed, the Akashic<<END_STR>>
+Records will become non-functional.<<END_STR>>
+★The only place where the mask can be destroyed is the<<END_STR>>
+volcanic crater of Mt. Vesuvio. With my companions at my<<END_STR>>
+side, I<27>m sure we can see this through to the end.<<END_STR>>
+<<START>>★As we were about to leave the audience chamber, we were<<END_STR>>
+attacked by a number of strange shadows, which must have <<END_STR>>
+been created by distortions in the Akashic Records. It<27>s<<END_STR>>
+probable they<27>re appearing elsewhere in Celceta as well.<<END_STR>>
+★Ozma and Karna decided to stay in the Temple of the Sun<<END_STR>>
+to protect Eldeel. He should be safe with them, while the<<END_STR>>
+rest of us continue to Mt. Vesuvio.<<END_STR>>
+★We were surrounded by shadows, which appear to be drawn<<END_STR>>
+to the Mask of the Sun, when Remnos, Commander Leo, Sancho<<END_STR>>
+and Panza came to our aid. Thanks to their help, we were<<END_STR>>
+able to move on.<<END_STR>>
+★The shadows continue to pursue us. Leeza arrived on Sol-<<END_STR>>
+Galba to help us, and after leaving Calilica behind to<<END_STR>>
+aid her in battle, we continued onward to the mountain.<<END_STR>>
+★As we began to climb Mt. Vesuvio, we encountered a new<<END_STR>>
+kind of shadow which took the form of Gruda. I suspect<<END_STR>>
+these shadows are a result of his crazed devotion taking<<END_STR>>
+form through the Akashic Records<27> power. Nonetheless, with<<END_STR>>
+Duren and Frieda<27>s help, I must keep climbing!<<END_STR>>
+<<START>>★Just as we were about to reach the peak of Mt. Vesuvio,<<END_STR>>
+a large group of shadow Grudas appeared. Duren and Frieda<<END_STR>>
+stayed behind to deal with them, leaving me to make the<<END_STR>>
+final push alone.<<END_STR>>
+★I reached the crater and came face to face with Gruda<27>s<<END_STR>>
+obsession in shadow form-- a foe born from multiple shadows<<END_STR>>
+converging into one. It<27>s time to finish this!<<END_STR>>
+★After a hard-fought duel, I defeated phantom Gruda and<<END_STR>>
+finally reached the crater. I couldn<27>t have come this far<<END_STR>>
+without the efforts of my companions. All that remains is <<END_STR>>
+to throw the Mask of the Sun into the volcano and leave<<END_STR>>
+the rest to Celceta itself...<<END_STR>>
+<<HENDER_END>>
+OK XLS.

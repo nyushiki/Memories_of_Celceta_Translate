@@ -1,0 +1,379 @@
+<<POS_10_2>><<START>>
+#139IMinerals<<END_STR>>
+<<END>>
+<<POS_11_2>><<START>>
+A highly useful, commonly mined ore. Used as fuel \nwhen refining other minerals.<<END_STR>>
+<<POS_11_4>>
+★Coal<<END_STR>>
+<<END>>
+<<POS_12_2>><<START>>
+A partially transparent green-hued ore.\nDemonstrates its true worth as a gem when \nrefined or processed.<<END_STR>>
+<<POS_12_4>>
+★Iron Ore<<END_STR>>
+<<END>>
+<<POS_13_2>><<START>>
+A precious metal ore which gives off a dull glow.\nWhen refined, it has a beautiful white luster and \nits radiance is equal to that of gold.<<END_STR>>
+<<POS_13_4>>
+★Silver Ore<<END_STR>>
+<<END>>
+<<POS_14_2>><<START>>
+A precious metal ore which gives off an elegant \nglow. So valuable that the Romun Empire seeks \nto mine additional gold from the Great Forest.<<END_STR>>
+<<POS_14_4>>
+★Gold Ore<<END_STR>>
+<<END>>
+<<POS_15_2>><<START>>
+A partially transparent green-hued ore.\nDemonstrates its true worth as a gem when \nrefined or processed.<<END_STR>>
+<<POS_15_4>>
+★Green Stone<<END_STR>>
+<<END>>
+<<POS_16_2>><<START>>
+Ore with a warm, yellow hue. Demonstrates its true \nworth as a gem when refined or processed.<<END_STR>>
+<<POS_16_4>>
+★Yellow Stone<<END_STR>>
+<<END>>
+<<POS_17_2>><<START>>
+A vivid red-hued ore. Demonstrates its true worth \nas a gem when refined or processed.<<END_STR>>
+<<POS_17_4>>
+★Red Stone<<END_STR>>
+<<END>>
+<<POS_18_2>><<START>>
+Ore with a faint, light blue color. Demonstrates \nits true worth as a gem when refined or processed.<<END_STR>>
+<<POS_18_4>>
+★Blue Stone<<END_STR>>
+<<END>>
+<<POS_19_2>><<START>>
+Ore with a cloudy violet hue. Demonstrates its \ntrue worth as a gem when refined or processed.<<END_STR>>
+<<POS_19_4>>
+★Violet Stone<<END_STR>>
+<<END>>
+<<POS_20_2>><<START>>
+A lustrous black ore. Demonstrates its true worth \nas a gem when refined or processed.<<END_STR>>
+<<POS_20_4>>
+★Black Stone<<END_STR>>
+<<END>>
+<<POS_21_2>><<START>>
+A hard ore that shines like stars in the night \nsky. Demonstrates its true worth as a gem when \nrefined or processed.<<END_STR>>
+<<POS_21_4>>
+★Starlight Stone<<END_STR>>
+<<END>>
+<<POS_22_2>><<START>>
+Ingot used in the making of various goods.\nPrized by the Romun soldiers in Casnan for \nits versatility in weapon and armor crafting.<<END_STR>>
+<<POS_22_4>>
+★Iron Ingot<<END_STR>>
+<<END>>
+<<POS_23_2>><<START>>
+Refined silver ingot which gives off a dull glow.\nGoods made from this resist rust, and are said to \nrepel evil.<<END_STR>>
+<<POS_23_4>>
+★Silver Ingot<<END_STR>>
+<<END>>
+<<POS_24_2>><<START>>
+Gold ingot of high purity. Extremely radiant, it \nis not only valuable but also exceptional for \ncrafting due to its weight and smoothness.<<END_STR>>
+<<POS_24_4>>
+★Gold Ingot<<END_STR>>
+<<END>>
+<<POS_25_2>><<START>>
+A lustrous, transparent gem of vivid green.\nOnly the most beautiful of the minerals called \n'beryls' are given this name.<<END_STR>>
+<<POS_25_4>>
+★Emerald<<END_STR>>
+<<END>>
+<<POS_26_2>><<START>>
+Gem of particular beauty, often used in ornaments.\nIts name carries the meaning, 'to seek,' and no \nexposure to light will ever make it lose its color.<<END_STR>>
+<<POS_26_4>>
+★Topaz<<END_STR>>
+<<END>>
+<<POS_27_2>><<START>>
+A gem which shines a passionate red, and a variety \nof the mineral 'corundum.' Its transparency dic-\ntates its value and increases its demand.<<END_STR>>
+<<POS_27_4>>
+★Ruby<<END_STR>>
+<<END>>
+<<POS_28_2>><<START>>
+A refreshing blue-tinted gem that's a variety of \nthe mineral 'corundum,' used in ornaments. Also \nsaid to be viable as a painting colorant.<<END_STR>>
+<<POS_28_4>>
+★Sapphire<<END_STR>>
+<<END>>
+<<POS_29_2>><<START>>
+A purple crystal that gets its color from trace \nelements. Used in divination due to its mystical \nappearance, but needs to be kept out of sunlight.<<END_STR>>
+<<POS_29_4>>
+★Amethyst<<END_STR>>
+<<END>>
+<<POS_30_2>><<START>>
+A cloudless jet-black gem used to repel evil.\nValuable for its versatility in crafts.<<END_STR>>
+<<POS_30_4>>
+★Onyx<<END_STR>>
+<<END>>
+<<POS_31_2>><<START>>
+A rare gem used not only for ornamental purposes,\nbut also for cutting and polishing other materials \ndue to its hardness. Refracts light beautifully.<<END_STR>>
+<<POS_31_4>>
+★Diamond<<END_STR>>
+<<END>>
+<<POS_32_2>><<START>>
+A gold-plated replica of an ancient treasure.\nAlthough possessing a significant number of \nimpurities, it has its uses in reinforcing.<<END_STR>>
+<<POS_32_4>>
+Gold Pedestal (Replica)<<END_STR>>
+<<END>>
+<<POS_33_2>><<START>>
+An ancient treasure made of pure gold, with an \ninteresting history. Strengthens any equipment to \nits maximum potential when used in reinforcing.<<END_STR>>
+<<POS_33_4>>
+Gold Pedestal (Genuine)<<END_STR>>
+<<END>>
+<<POS_34_2>><<START>>
+#158IBeast Materials<<END_STR>>
+<<END>>
+<<POS_35_2>><<START>>
+Beast bone that has become damaged and brittle.\nUseless in its current state, but can be exchanged \nin large numbers for more useful materials.<<END_STR>>
+<<POS_35_4>>
+★Brittle Bone<<END_STR>>
+<<END>>
+<<POS_36_2>><<START>>
+Torn, damaged beast hide. Useless in its current \nstate, but can be exchanged in large numbers for \nmore useful materials.<<END_STR>>
+<<POS_36_4>>
+★Damaged Hide<<END_STR>>
+<<END>>
+<<POS_37_2>><<START>>
+Shell damaged as the result of a strong impact. \nUseless in its current state, but can be exchanged \nin large numbers for more useful materials.<<END_STR>>
+<<POS_37_4>>
+★Cracked Shell<<END_STR>>
+<<END>>
+<<POS_38_2>><<START>>
+Damaged hair that has lost its shine and moisture.\nUseless in its current state, but can be exchanged \nin large numbers for more useful materials.<<END_STR>>
+<<POS_38_4>>
+★Split Hair<<END_STR>>
+<<END>>
+<<POS_39_2>><<START>>
+Unhealthy-looking liquid full of impurities.\nUseless in its current state, but can be exchanged \nin large numbers for more useful materials.<<END_STR>>
+<<POS_39_4>>
+★Filthy Liquid<<END_STR>>
+<<END>>
+<<POS_40_2>><<START>>
+An indescribable, mysterious lump. Useless in its \ncurrent state, but can be exchanged in large \nnumbers for more useful materials.<<END_STR>>
+<<POS_40_4>>
+★Strange Mass<<END_STR>>
+<<END>>
+<<POS_41_2>><<START>>
+A firm, highly dense bone. Its sturdiness is \ncomparable to iron, and when several are combined,\nthey can create a high-quality material. <<END_STR>>
+<<POS_41_4>>
+★Sturdy Bone<<END_STR>>
+<<END>>
+<<POS_42_2>><<START>>
+Hide that can be used for a variety of purposes \nwhen tanned. Highly prized since ancient times for \nits durability in clothing and armor design.<<END_STR>>
+<<POS_42_4>>
+★Sturdy Hide<<END_STR>>
+<<END>>
+<<POS_43_2>><<START>>
+A sturdy shell, as hard as steel. Commonly a result \nof modified bone, these have been used to make \narmor since ancient times.<<END_STR>>
+<<POS_43_4>>
+★Sturdy Shell<<END_STR>>
+<<END>>
+<<POS_44_2>><<START>>
+A tuft of flexible yet strong hairs. Delicate to \nthe touch, it is often used in ornaments or woven \ninto cloth.<<END_STR>>
+<<POS_44_4>>
+★Strong Hair<<END_STR>>
+<<END>>
+<<POS_45_2>><<START>>
+Perfectly translucent mucus from beasts and plants.\nFilled with high-quality extracts and nutrients,\nand drinkable after treatment.<<END_STR>>
+<<POS_45_4>>
+★Clear Liquid<<END_STR>>
+<<END>>
+<<POS_46_2>><<START>>
+An organ of a living creature filled with poison.\nWhile its internal structure keeps the poison \nisolated, care is required in its handling.<<END_STR>>
+<<POS_46_4>>
+★Poisonous Organ<<END_STR>>
+<<END>>
+<<POS_47_2>><<START>>
+A highly viscous web used by spiders to capture \ntheir prey. Almost liquid-like, it is frequently \nan ingredient in glues and pastes.<<END_STR>>
+<<POS_47_4>>
+★Spider Web<<END_STR>>
+<<END>>
+<<POS_48_2>><<START>>
+The fang of a ferocious beast that has pierced the \nflesh of countless prey. Its surface is rough like \na file from its many kills.<<END_STR>>
+<<POS_48_4>>
+★Beast Fang<<END_STR>>
+<<END>>
+<<POS_49_2>><<START>>
+A shell that is as hard as diamond. While the \ninability to scratch it makes it an ideal material \nin crafting, it also makes it difficult to harvest.<<END_STR>>
+<<POS_49_4>>
+★Indestructible Shell<<END_STR>>
+<<END>>
+<<POS_50_2>><<START>>
+A patch of hard, connected scales. They have a mild \nregenerative ability, allowing them to naturally \nheal minor damage.<<END_STR>>
+<<POS_50_4>>
+★Hard Scale<<END_STR>>
+<<END>>
+<<POS_51_2>><<START>>
+Liquid harvested from a frog. While it does \ncontain nutrients and is usable in the making of \nmedicine, it is bitter and undrinkable by itself.<<END_STR>>
+<<POS_51_4>>
+★Frog Extract<<END_STR>>
+<<END>>
+<<POS_52_2>><<START>>
+Beautiful fur, glossy like well-groomed hair.\nExtremely popular among traders and master tailors.<<END_STR>>
+<<POS_52_4>>
+★Soft Fur<<END_STR>>
+<<END>>
+<<POS_53_2>><<START>>
+Light, fluffy fur with an almost cloud-like \ntexture. Its exceptional insulating properties make \nit perfect for items designed to combat the cold.<<END_STR>>
+<<POS_53_4>>
+★Fluffy Fur<<END_STR>>
+<<END>>
+<<POS_54_2>><<START>>
+Claw from a beast that has slain countless foes.\nSharpened from extensive use, to such an extent \nthat it can easily outclass a steel knife.<<END_STR>>
+<<POS_54_4>>
+★Fierce Beast's Claw<<END_STR>>
+<<END>>
+<<POS_55_2>><<START>>
+An ominous-looking monster hide with a distinctive \nlook. Its thickness makes it difficult to work \nwith, but it boasts vitality-boosting properties.<<END_STR>>
+<<POS_55_4>>
+★Bizarre Hide<<END_STR>>
+<<END>>
+<<POS_56_2>><<START>>
+A powerful acid that numbs the tongue. Poisonous \nif drunk untreated, it can nonetheless be used to \nmake elixirs when properly purified.<<END_STR>>
+<<POS_56_4>>
+★Acidic Liquid<<END_STR>>
+<<END>>
+<<POS_57_2>><<START>>
+A forbidden fungus used in sorcery and curse \nreflection. Its composition is shrouded in \nmystery.<<END_STR>>
+<<POS_57_4>>
+★Slime Mold<<END_STR>>
+<<END>>
+<<POS_58_2>><<START>>
+The giant bone of a beast from the distant past.\nHas the large mass and immense strength required \nto support the beast's incredible weight.<<END_STR>>
+<<POS_58_4>>
+★Titanic Bone<<END_STR>>
+<<END>>
+<<POS_59_2>><<START>>
+Embroidered cloth used by indigenous tribes who \nonce lived in the Great Forest. Has a wide variety \nof uses and is sturdy enough to last under duress.<<END_STR>>
+<<POS_59_4>>
+★Tribal Cloth<<END_STR>>
+<<END>>
+<<POS_60_2>><<START>>
+Tail that has evolved into the shape of a battle \naxe to cleave prey in twain. Can be obtained from \nbats lurking in the caves.<<END_STR>>
+<<POS_60_4>>
+★Axe Tail<<END_STR>>
+<<END>>
+<<POS_61_2>><<START>>
+Horn of a ferocious buffalo. Capable of smashing \nrocks during a high-speed charge, its strength is \nexceptional and largely unmatched.<<END_STR>>
+<<POS_61_4>>
+★Buffalo Horn<<END_STR>>
+<<END>>
+<<POS_62_2>><<START>>
+Proof of killing the king of the monkeys that \ninhabit the Great Forest. Some believe its color \ncomes from the blood of those it's slain.<<END_STR>>
+<<POS_62_4>>
+★Monkey King's Hair<<END_STR>>
+<<END>>
+<<POS_63_2>><<START>>
+Helmet-like exoskeleton that protected the head of \na boar. In addition to its strength, its elasticity \nallows it to reduce impact damage.<<END_STR>>
+<<POS_63_4>>
+★Boar Exoskeleton<<END_STR>>
+<<END>>
+<<POS_64_2>><<START>>
+A bird's beak capable of attacking with the force \nof a hammer. Its weight and offensive capability \nclearly show that its bearer evolved to fight.<<END_STR>>
+<<POS_64_4>>
+★Hammer Beak<<END_STR>>
+<<END>>
+<<POS_65_2>><<START>>
+A talon belonging to a grotesque monster from the \nSubterranean Forest. So sharp, it digs deep into \nthe flesh of its prey so they cannot escape.<<END_STR>>
+<<POS_65_4>>
+★Monstrous Talon<<END_STR>>
+<<END>>
+<<POS_66_2>><<START>>
+A carapace from a monster in the Ashen Forest.\nMade from an unknown substance, it is light yet \nsturdy.<<END_STR>>
+<<POS_66_4>>
+★Awful Carapace<<END_STR>>
+<<END>>
+<<POS_67_2>><<START>>
+Horn of a beetle from the deepest reaches of the \nmountains. Said to be even harder than diamond,\nit can easily dig through frozen ground.<<END_STR>>
+<<POS_67_4>>
+★Sharp Horn<<END_STR>>
+<<END>>
+<<POS_68_2>><<START>>
+A sharp, helical beak. Has enough destructive \ncapabilities that it can even pulverize steel.<<END_STR>>
+<<POS_68_4>>
+★Drill Beak<<END_STR>>
+<<END>>
+<<POS_69_2>><<START>>
+A dark blade wielded by a grotesque monster,\ncapable of carving through anything. The \nresentment of those slain by it is stored inside.<<END_STR>>
+<<POS_69_4>>
+★Cursed Blade<<END_STR>>
+<<END>>
+<<POS_70_2>><<START>>
+#194IPlant Materials<<END_STR>>
+<<END>>
+<<POS_71_2>><<START>>
+Highly damaged lumber. Useless in its current \nstate, but can be exchanged in large numbers for \nmore useful materials.<<END_STR>>
+<<POS_71_4>>
+★Damaged Lumber<<END_STR>>
+<<END>>
+<<POS_72_2>><<START>>
+A rotting leaf. Useless in its current state, but \ncan be exchanged in large numbers for more useful \nmaterials.<<END_STR>>
+<<POS_72_4>>
+★Rotting Leaf<<END_STR>>
+<<END>>
+<<POS_73_2>><<START>>
+A wilted, lifeless flower. Useless in its current \nstate, but can be exchanged in large numbers for \nmore useful materials.<<END_STR>>
+<<POS_73_4>>
+★Wilted Flower<<END_STR>>
+<<END>>
+<<POS_74_2>><<START>>
+A rotting, decaying fruit. Useless in its current \nstate, but can be exchanged in large numbers for \nmore useful materials.<<END_STR>>
+<<POS_74_4>>
+★Rotting Fruit<<END_STR>>
+<<END>>
+<<POS_75_2>><<START>>
+Bulky, sturdy lumber from a healthy tree. Can be \nused to make strong, resilient goods.<<END_STR>>
+<<POS_75_4>>
+★Sturdy Lumber<<END_STR>>
+<<END>>
+<<POS_76_2>><<START>>
+A valuable mushroom said to grow only in darkness.\nPrized by doctors for its usefulness in mixing \nlong-lasting medicine.<<END_STR>>
+<<POS_76_4>>
+★Nocturnal Mushroom<<END_STR>>
+<<END>>
+<<POS_77_2>><<START>>
+A fresh leaf that has received the blessings of \nthe Great Forest. Used in healing medicines, and \nis generally harvested for medicinal purposes.<<END_STR>>
+<<POS_77_4>>
+★Fresh Leaf<<END_STR>>
+<<END>>
+<<POS_78_2>><<START>>
+Leaf from one of the precious few Spirit Trees in \nthe world. Each leaf contains remarkable power, \nand is said to have incredible healing properties.<<END_STR>>
+<<POS_78_4>>
+★Roda Leaf<<END_STR>>
+<<END>>
+<<POS_79_2>><<START>>
+Flower with a cute, pink hue that stands out in \nthe overgrown forest. Filled with a sweet honey \nthat instantly cures fatigue.<<END_STR>>
+<<POS_79_4>>
+★Marl Flower<<END_STR>>
+<<END>>
+<<POS_80_2>><<START>>
+A yellow flower, like sunlight shining through \ntrees. Its petals have a detoxifying effect. Shows \nits true worth when boiled and used in medicine.<<END_STR>>
+<<POS_80_4>>
+★Yupel Flower<<END_STR>>
+<<END>>
+<<POS_81_2>><<START>>
+A light blue flower that represents purity. Said \nto have a wide variety of medicinal properties, \nand is often used in the making of elixirs.<<END_STR>>
+<<POS_81_4>>
+★Libra Flower<<END_STR>>
+<<END>>
+<<POS_82_2>><<START>>
+A valuable flower from the Celceta region. Holds \nincredible vitality, making it an excellent \nmaterial to use when creating elixirs.<<END_STR>>
+<<POS_82_4>>
+★Celcetan Flower<<END_STR>>
+<<END>>
+<<POS_83_2>><<START>>
+A nut with high nutritional value, loved by small \nanimals. Common in many regions, but nuts found in \nCelceta have a deep flavor when properly prepared.<<END_STR>>
+<<POS_83_4>>
+★Chito Nut<<END_STR>>
+<<END>>
+<<POS_84_2>><<START>>
+Fruit with a refreshing, sour taste. Said to grant \nnature's blessings when eaten, and is widely loved \nthroughout the region.<<END_STR>>
+<<POS_84_4>>
+★Raparo Fruit<<END_STR>>
+<<END>>
+<<POS_85_2>><<START>>
+Fruit known for its sweet, spicy, stimulating \nflavor. Known by some as 'Fire Fruit,' there \nare many who love its distinctive taste. <<END_STR>>
+<<POS_85_4>>
+★Arieda Fruit<<END_STR>>
+<<END>>
+<<POS_86_2>><<START>>
+Fruit from the Roda Tree. Has an exceptionally \nsweet taste and unparalleled nutritional value.\nSaid to be used in a legendary elixir.<<END_STR>>
+<<POS_86_4>>
+★Roda Fruit<<END_STR>>
+<<END>>

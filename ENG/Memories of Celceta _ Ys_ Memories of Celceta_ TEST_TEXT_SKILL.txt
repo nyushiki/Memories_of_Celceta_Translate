@@ -1,0 +1,524 @@
+﻿Sonic Slide<End>
+Flies at enemy, passing by With a powerful slash.<End>
+-------------
+Sonic Slide<End>
+Flies at enemy, passing by With a powerful slash.<End>
+-------------
+Sonic Slide<End>
+Flies at enemy, passing by With a powerful slash.<End>
+-------------
+Rising Edge<End>
+Launches enemy into the air With a backhanded slash.<End>
+-------------
+Rising Edge<End>
+Launches enemy into the air With a backhanded slash.<End>
+-------------
+Rising Edge<End>
+Launches enemy into the air With a backhanded slash.<End>
+-------------
+Sonic Wave<End>
+Unsheathes sword at high speed, releasing a shock wave.<End>
+-------------
+Sonic Wave<End>
+Unsheathes sword at high speed, releasing a shock wave.<End>
+-------------
+Sonic Wave<End>
+Unsheathes sword at high speed, releasing a shock wave.<End>
+-------------
+Gale Stinger<End>
+Thrusts sword forward, releasing a helical shock wave.<End>
+-------------
+Gale Stinger<End>
+Thrusts sword forward, releasing a helical shock wave.<End>
+-------------
+Gale Stinger<End>
+Thrusts sword forward, releasing a helical shock wave.<End>
+-------------
+Circular Slash<End>
+Spins sword, hitting nearby enemies multiple times.<End>
+-------------
+Circular Slash<End>
+Spins sword, hitting nearby enemies multiple times.<End>
+-------------
+Circular Slash<End>
+Spins sword, hitting nearby enemies multiple times.<End>
+-------------
+Stun Raid<End>
+Jumps into air, piercing enemies on descent. Easily stuns.<End>
+-------------
+Stun Raid<End>
+Jumps into air, piercing enemies on descent. Easily stuns.<End>
+-------------
+Stun Raid<End>
+Jumps into air, piercing enemies on descent. Easily stuns.<End>
+-------------
+Rising Slash<End>
+Launches foe into the air And slashes it before it lands.<End>
+-------------
+Rising Slash<End>
+Launches foe into the air And slashes it before it lands.<End>
+-------------
+Rising Slash<End>
+Launches foe into the air And slashes it before it lands.<End>
+-------------
+Sky Drive<End>
+A revolving attack from mid-air, releasing a shock wave.<End>Вращающаяся атака в падении, создающая ударную волну.<End>
+-------------Sky Drive<End>
+Небесная кара<End>A revolving attack from mid-air, releasing a shock wave.<End>
+Удар-"мельница" в падении, создающий ударную волну.<End>
+-------------
+Sky Drive<End>
+A revolving attack from mid-air, releasing a shock wave.<End>Вращающаяся атака в падении, создающая ударную волну.<End>
+-------------Arc Blast<End>
+Дуговой взрыв<End>Slashes the ground, launching enemies With a shock wave.<End>
+Разрезание земли и подбрасывание врага в воздух ударной волной.<End>
+-------------
+Arc Blast<End>
+Slashes the ground, launching enemies With a shock wave.<End>
+-------------
+Arc Blast<End>
+Slashes the ground, launching enemies With a shock wave.<End>
+-------------
+Blade Rush<End>
+Unleashes a continuous barrage of attacks on the enemy.<End>
+-------------
+Blade Rush<End>
+Unleashes a continuous barrage of attacks on the enemy.<End>
+-------------
+Blade Rush<End>
+Unleashes a continuous barrage of attacks on the enemy.<End>
+-------------
+Blade Barrage<End>
+Showers enemies With sword hits before knocking them back.<End>
+-------------
+Blade Barrage<End>
+Showers enemies With sword hits before knocking them back.<End>
+-------------
+Blade Barrage<End>
+Showers enemies With sword hits before knocking them back.<End>
+-------------
+Aura Fencer<End>
+Pierces enemies in front With a blast of light.<End>
+-------------
+Aura Fencer<End>
+Pierces enemies in front With a blast of light.<End>
+-------------
+Aura Fencer<End>
+Pierces enemies in front With a blast of light.<End>
+-------------
+Sol Breaker<End>
+EXTRA Skill.<End>
+-------------
+Arc Strike<End>
+EXTRA Skill.<End>
+-------------
+Shell Cracker<End>
+Spins in mid-air then descends, crushing enemies below.<End>
+-------------
+Shell Cracker<End>
+Spins in mid-air then descends, crushing enemies below.<End>
+-------------
+Shell Cracker<End>
+Spins in mid-air then descends, crushing enemies below.<End>
+-------------
+Swallow Kick<End>
+Unleashes a powerful kick, launching enemies upward.<End>
+-------------
+Swallow Kick<End>
+Unleashes a powerful kick, launching enemies upward.<End>
+-------------
+Swallow Kick<End>
+Unleashes a powerful kick, launching enemies upward.<End>
+-------------
+Sliding Strike<End>
+Slides forward, damaging enemies in a straight line.<End>
+-------------
+Sliding Strike<End>
+Slides forward, damaging enemies in a straight line.<End>
+-------------
+Sliding Strike<End>
+Slides forward, damaging enemies in a straight line.<End>
+-------------
+Chaotic Aura<End>
+While active, all damage To And from Duren is critical.<End>
+-------------
+Chaotic Aura<End>
+While active, all damage To And from Duren is critical.<End>
+-------------
+Chaotic Aura<End>
+While active, all damage To And from Duren is critical.<End>
+-------------
+Jaw Breaker<End>
+Charges energy before unleashing a powerful uppercut.<End>
+-------------
+Jaw Breaker<End>
+Charges energy before unleashing a powerful uppercut.<End>
+-------------
+Jaw Breaker<End>
+Charges energy before unleashing a powerful uppercut.<End>
+-------------
+Deadly Counter<End>
+Predicts enemy attack, using chance To deal great damage.<End>
+-------------
+Deadly Counter<End>
+Predicts enemy attack, using chance To deal great damage.<End>
+-------------
+Deadly Counter<End>
+Predicts enemy attack, using chance To deal great damage.<End>
+-------------
+Wild Assault<End>
+Kicks forwards With full strength.<End>
+-------------
+Wild Assault<End>
+Kicks forwards With full strength.<End>
+-------------
+Wild Assault<End>
+Kicks forwards With full strength.<End>
+-------------
+Abyss Gazer<End>
+Sends a shock wave across the ground toward an enemy.<End>
+-------------
+Abyss Gazer<End>
+Sends a shock wave across the ground toward an enemy.<End>
+-------------
+Abyss Gazer<End>
+Sends a shock wave across the ground toward an enemy.<End>
+-------------
+Dragon Kick<End>
+Sends enemies flying With an energy-imbued kick.<End>Подбрасывание врагов в воздух наполненным энергией пинком.<End>
+-------------Dragon Kick<End>
+Удар дракона<End>Sends enemies flying With an energy-imbued kick.<End>
+Подбрасывание врагов в воздух насыщенным энергией пинком.<End>
+-------------
+Dragon Kick<End>
+Sends enemies flying With an energy-imbued kick.<End>Подбрасывание врагов в воздух наполненным энергией пинком.<End>
+-------------Phoenix Kick<End>
+Удар феникса<End>Kicks enemy upward, then kicks even more While airborne.<End>
+Подбрасывание врага и серия пинков в воздухе.<End>-------------
+-------------Phoenix Kick<End>
+Удар феникса<End>Kicks enemy upward, then kicks even more While airborne.<End>
+Подбрасывание врага и серия пинков в воздухе.<End>-------------
+-------------Phoenix Kick<End>
+Удар феникса<End>Kicks enemy upward, then kicks even more While airborne.<End>
+Подбрасывание врага и серия пинков в воздухе..<End>-------------
+-------------Pulverizing Strike<End>
+Размельчающий удар<End>EXTRA Skill.<End>
+ЭКСТРА навык.<End>-------------
+-------------Detonating Impact<End>
+Взрывной шквал<End>EXTRA Skill.<End>
+ЭКСТРА навык.<End>-------------
+-------------Homing Knives<End>
+Ножи-ищейки<End>Throws several knives directly at the target.<End>
+Бросок нескольких ножей прямо в цель.<End>-------------
+-------------Homing Knives<End>
+Ножи-ищейки<End>Throws several knives directly at the target.<End>
+Бросок нескольких ножей прямо в цель.<End>-------------
+-------------Homing Knives<End>
+Ножи-ищейки<End>Throws several knives directly at the target.<End>
+Бросок нескольких ножей прямо в цель.<End>-------------
+-------------Poison Dagger<End>
+Отравленный кинжал<End>Throws a poison-coated dagger at one enemy. Causes Poison.<End>
+Бросок смазанного ядом кинжала в одного врага. Вызывает отравление.<End>-------------
+-------------Poison Dagger<End>
+Отравленный кинжал<End>Throws a poison-coated dagger at one enemy. Causes Poison.<End>
+Бросок смазанного ядом кинжала в одного врага. Вызывает отравление.<End>-------------
+-------------Poison Dagger<End>
+Отравленный кинжал<End>Throws a poison-coated dagger at one enemy. Causes Poison.<End>
+Бросок смазанного ядом кинжала в одного врага. Вызывает отравление.<End>-------------
+-------------Knife Spin<End>
+Юлящий нож<End>Throws knives which spin wildly, dealing area damage.<End>
+Бросок вращающихся ножей, наносящих урон по площади.<End>-------------
+-------------Knife Spin<End>
+Юлящий нож<End>Throws knives which spin wildly, dealing area damage.<End>
+Бросок вращающихся ножей, наносящих урон по площади.<End>-------------
+-------------Knife Spin<End>
+Юлящий нож<End>Throws knives which spin wildly, dealing area damage.<End>
+Бросок вращающихся ножей, наносящих урон по площади.<End>-------------
+-------------Wind Edge<End>
+Лезвие ветра<End>Throws a wind-shrouded knife, knocking foes back.<End>
+Бросок окутанного ветром ножа, откидывающий врагов.<End>-------------
+-------------Wind Edge<End>
+Лезвие ветра<End>Throws a wind-shrouded knife, knocking foes back.<End>
+Бросок окутанного ветром ножа, откидывающий врагов.<End>-------------
+-------------Wind Edge<End>
+Лезвие ветра<End>Throws a wind-shrouded knife, knocking foes back.<End>
+Бросок окутанного ветром ножа, откидывающий врагов.<End>-------------
+-------------Shock Spark<End>
+Вспышка<End>Creates lightning in mid-air from knives. Can paralyze.<End>
+Создание молнии броском ножей. Может парализовать.<End>-------------
+-------------Shock Spark<End>
+Вспышка<End>Creates lightning in mid-air from knives. Can paralyze.<End>
+Создание молнии броском ножей. Может парализовать.<End>-------------
+-------------Shock Spark<End>
+Вспышка<End>Creates lightning in mid-air from knives. Can paralyze.<End>
+Создание молнии броском ножей. Может парализовать.<End>-------------
+-------------Mistral Spin<End>
+Мистраль<End>Spins, creating a tornado that launches enemies upward.<End>
+Вращение, создающее вихрь и подбрасывающее врагов в воздух.<End>-------------
+-------------Mistral Spin<End>
+Мистраль<End>Spins, creating a tornado that launches enemies upward.<End>
+Вращение, создающее вихрь и подбрасывающее врагов в воздух.<End>-------------
+-------------Mistral Spin<End>
+Мистраль<End>Spins, creating a tornado that launches enemies upward.<End>
+Вращение, создающее вихрь и подбрасывающее врагов в воздух.<End>-------------
+-------------Cyclone Edge<End>
+Центробежный клинок<End>Launches tornado knife forward, knocking enemies back.<End>
+Бросок закрученного ножа вперёд, откидывающий врагов.<End>-------------
+-------------Cyclone Edge<End>
+Центробежный клинок<End>Launches tornado knife forward, knocking enemies back.<End>
+Бросок закрученного ножа вперёд, откидывающий врагов.<End>-------------
+-------------Cyclone Edge<End>
+Центробежный клинок<End>Launches tornado knife forward, knocking enemies back.<End>
+Бросок закрученного ножа вперёд, откидывающий врагов.<End>-------------
+-------------Tornado Blast<End>
+Торнадо<End>Throws knives into ground, which then erupt below enemies.<End>
+Бросок ножа в землю, который затем взрывается вихрем под врагами.<End>-------------
+-------------Tornado Blast<End>
+Торнадо<End>Throws knives into ground, which then erupt below enemies.<End>
+Бросок ножа в землю, который затем взрывается вихрем под врагами.<End>-------------
+-------------Tornado Blast<End>
+Торнадо<End>Throws knives into ground, which then erupt below enemies.<End>
+Бросок ножа в землю, который затем взрывается вихрем под врагами.<End>-------------
+-------------Napalm Shot<End>
+Напалмовый снаряд<End>Throws knives full of gunpowder, creating a big explosion.<End>
+Бросок набитых порохом ножей, создающий крупный взрыв.<End>-------------
+-------------Napalm Shot<End>
+Напалмовый снаряд<End>Throws knives full of gunpowder, creating a big explosion.<End>
+Бросок набитых порохом ножей, создающий крупный взрыв.<End>-------------
+-------------Napalm Shot<End>
+Напалмовый снаряд<End>Throws knives full of gunpowder, creating a big explosion.<End>
+Бросок набитых порохом ножей, создающий крупный взрыв.<End>-------------
+-------------Kaleido Spike<End>
+Калейдоскоп клинков<End>Throws countless knives followed by a powerful tackle.<End>
+Бросок бесчисленных ножей и мощный рывок вперёд.<End>-------------
+-------------Kaleido Spike<End>
+Калейдоскоп клинков<End>Throws countless knives followed by a powerful tackle.<End>
+Бросок бесчисленных ножей и мощный рывок вперёд.<End>-------------
+-------------Kaleido Spike<End>
+Калейдоскоп клинков<End>Throws countless knives followed by a powerful tackle.<End>
+Бросок бесчисленных ножей и мощный рывок вперёд.<End>-------------
+-------------Violent Tempest<End>
+Буря ярости<End>Rains countless arrows downward upon enemies.<End>
+Бесчисленное количество стрел, обрушивающихся на врагов.<End>-------------
+-------------Last Resort<End>
+Крайняя мера<End>Rains countless arrows downward upon enemies.<End>
+Бесчисленное количество стрел, обрушивающихся на врагов.<End>-------------
+-------------Crag Spear<End>
+Каменное копьё<End>Launches enemies upward With an earth pillar.<End>
+Подбрасывание врагов вверх колонной земли.<End>-------------
+-------------Crag Spear<End>
+Каменное копьё<End>Launches enemies upward With an earth pillar.<End>
+Подбрасывание врагов вверх колонной земли.<End>-------------
+-------------Crag Spear<End>
+Каменное копьё<End>Launches enemies upward With an earth pillar.<End>
+Подбрасывание врагов вверх колонной земли.<End>-------------
+-------------Whirlwind<End>
+Вихрь<End>Spins spear at high speed, launching enemies upward.<End>
+Вращение копьём с огромной скоростью, подбрасывающее врагов вверх.<End>-------------
+-------------Whirlwind<End>
+Вихрь<End>Spins spear at high speed, launching enemies upward.<End>
+Вращение копьём с огромной скоростью, подбрасывающее врагов вверх.<End>-------------
+-------------Whirlwind<End>
+Вихрь<End>Spins spear at high speed, launching enemies upward.<End>
+Вращение копьём с огромной скоростью, подбрасывающее врагов вверх.<End>-------------
+-------------Aqua Pressure<End>
+Напор воды<End>Attacks With a violent current, causing Heavy status.<End>
+Атака мощным потоком воды, вызывающая эффект тяжести.<End>-------------
+-------------Aqua Pressure<End>
+Напор воды<End>Attacks With a violent current, causing Heavy status.<End>
+Атака мощным потоком воды, вызывающая эффект тяжести.<End>-------------
+-------------Aqua Pressure<End>
+Напор воды<End>Attacks With a violent current, causing Heavy status.<End>
+Атака мощным потоком воды, вызывающая эффект тяжести.<End>-------------
+-------------Gaia Wall<End>
+Защита Гайи<End>Summons the power of the earth To raise the party's DEF.<END>
+Призыв силы земли, повышающей защиту группы.<END>-------------
+-------------Gaia Wall<End>
+Защита Гайи<End>Summons the power of the earth To raise the party's DEF.<END>
+Призыв силы земли, повышающей защиту группы.<END>-------------
+-------------Gaia Wall<End>
+Защита Гайи<End>Summons the power of the earth To raise the party's DEF.<END>
+Призыв силы земли, повышающей защиту группы.<END>-------------
+-------------Tiger Flash<End>
+Бросок тигра<End>Releases a single concentrated thrust forward.<End>
+Сильный сосредоточенный выпад вперёд.<End>-------------
+-------------Tiger Flash<End>
+Бросок тигра<End>Releases a single concentrated thrust forward.<End>
+Сильный сосредоточенный выпад вперёд.<End>-------------
+-------------Tiger Flash<End>
+Бросок тигра<End>Releases a single concentrated thrust forward.<End>
+Сильный сосредоточенный выпад вперёд.<End>-------------
+-------------Falcon Dive<End>
+Полёт сокола<End>Jumps into air, thrusting forward at high speed.<End>
+Прыжок в воздух и удар копьём вниз с огромной скоростью.<End>-------------
+-------------Falcon Dive<End>
+Полёт сокола<End>Jumps into air, thrusting forward at high speed.<End>
+Прыжок в воздух и удар копьём вниз с огромной скоростью.<End>-------------
+-------------Falcon Dive<End>
+Полёт сокола<End>Jumps into air, thrusting forward at high speed.<End>
+Прыжок в воздух и удар копьём вниз с огромной скоростью.<End>-------------
+-------------Water Prison<End>
+Водная тюрьма<End>Creates sphere of water, dealing multiple hits To enemies.<End>
+Создание сферы воды, наносящей множественные удары врагам.<End>-------------
+-------------Water Prison<End>
+Водная тюрьма<End>Creates sphere of water, dealing multiple hits To enemies.<End>
+Создание сферы воды, наносящей множественные удары врагам.<End>-------------
+-------------Water Prison<End>
+Водная тюрьма<End>Creates sphere of water, dealing multiple hits To enemies.<End>
+Создание сферы воды, наносящей множественные удары врагам.<End>-------------
+-------------Tidal Ascent<End>
+Бурный прилив<End>Charges forward, launching foes upward With a current.<End>
+Рывок вперёд и подбрасывание врага в воздух потоком воды.<End>-------------
+-------------Tidal Ascent<End>
+Бурный прилив<End>Charges forward, launching foes upward With a current.<End>
+Рывок вперёд и подбрасывание врага в воздух потоком воды.<End>-------------
+-------------Tidal Ascent<End>
+Бурный прилив<End>Charges forward, launching foes upward With a current.<End>
+Рывок вперёд и подбрасывание врага в воздух потоком воды.<End>-------------
+-------------Crag Burst<End>
+Каменный взрыв<End>Pierces ground, creating earth pillars in a wide area.<End>
+Удар по земле, создающий земляные столпы в широком диапазоне.<End>-------------
+-------------Crag Burst<End>
+Каменный взрыв<End>Pierces ground, creating earth pillars in a wide area.<End>
+Удар по земле, создающий земляные столпы в широком диапазоне.<End>-------------
+-------------Crag Burst<End>
+Каменный взрыв<End>Pierces ground, creating earth pillars in a wide area.<End>
+Удар по земле, создающий земляные столпы в широком диапазоне.<End>-------------
+-------------Gaia Spear<End>
+Копьё Гайи<End>Overpowers enemies With a series of powerful attacks.<End>
+Серия мощных ударов, подавляющая врагов.<End>-------------
+-------------Gaia Spear<End>
+Копьё Гайи<End>Overpowers enemies With a series of powerful attacks.<End>
+Серия мощных ударов, подавляющая врагов.<End>-------------
+-------------Gaia Spear<End>
+Копьё Гайи<End>Overpowers enemies With a series of powerful attacks.<End>
+Серия мощных ударов, подавляющая врагов.<End>-------------
+-------------Relentless Assault<End>
+Безжалостный натиск<End>EXTRA Skill.<End>
+ЭКСТРА навык.<End>-------------
+-------------Divine Maelstrom<End>
+Божественный водоворот<End>EXTRA Skill.<End>
+ЭКСТРА навык.<End>-------------
+-------------Gravity Sphere<End>
+Сфера притяжения<End>Creates a force field that sucks in foes And damages them.<End>
+Силовое поле, затягивающее в себя врагов и наносящее им урон.<End>-------------
+-------------Gravity Sphere<End>
+Сфера притяжения<End>Creates a force field that sucks in foes And damages them.<End>
+Силовое поле, затягивающее в себя врагов и наносящее им урон.<End>-------------
+-------------Gravity Sphere<End>
+Сфера притяжения<End>Creates a force field that sucks in foes And damages them.<End>
+Силовое поле, затягивающее в себя врагов и наносящее им урон.<End>-------------
+-------------Double Impact<End>
+Двойной удар<End>Launches enemies upward before slamming them back down.<End>
+Подбрасывание врагов в воздух и последующий удар сверху.<End>-------------
+-------------Double Impact<End>
+Двойной удар<End>Launches enemies upward before slamming them back down.<End>
+Подбрасывание врагов в воздух и последующий удар сверху.<End>-------------
+-------------Double Impact<End>
+Двойной удар<End>Launches enemies upward before slamming them back down.<End>
+Подбрасывание врагов в воздух и последующий удар сверху.<End>-------------
+-------------Thunder Spheres<End>
+Громовые сферы<End>Summons autonomous artifacts For combat support.<End>
+Призыв автономных артефактов для поддержки в бою.<End>-------------
+-------------Thunder Spheres<End>
+Громовые сферы<End>Summons autonomous artifacts For combat support.<End>
+Призыв автономных артефактов для поддержки в бою.<End>-------------
+-------------Thunder Spheres<End>
+Громовые сферы<End>Summons autonomous artifacts For combat support.<End>
+Призыв автономных артефактов для поддержки в бою.<End>-------------
+-------------Magical Launcher<End>
+Магический снаряд<End>Launches the tip of the mace, damaging distant enemies.<End>
+Запуск навершия булавы для поражения врагов на расстоянии.<End>-------------
+-------------Magical Launcher<End>
+Магический снаряд<End>Launches the tip of the mace, damaging distant enemies.<End>
+Запуск навершия булавы для поражения врагов на расстоянии.<End>-------------
+-------------Magical Launcher<End>
+Магический снаряд<End>Launches the tip of the mace, damaging distant enemies.<End>
+Запуск навершия булавы для поражения врагов на расстоянии.<End>-------------
+-------------Power Swing<End>
+Мощный взмах<End>Swings mace forward, using its magic To increase damage.<End>
+Взмах булавой, наносящий дополнительный урон магией.<End>-------------
+-------------Power Swing<End>
+Мощный взмах<End>Swings mace forward, using its magic To increase damage.<End>
+Взмах булавой, наносящий дополнительный урон магией.<End>-------------
+-------------Power Swing<End>
+Мощный взмах<End>Swings mace forward, using its magic To increase damage.<End>
+Взмах булавой, наносящий дополнительный урон магией.<End>-------------
+-------------Blitz Chaser<End>
+Шаровая молния<End>Releases lightning magic that bounces between enemies.<End>
+Магическая молния, мечущаяся между врагами.<End>-------------
+-------------Blitz Chaser<End>
+Шаровая молния<End>Releases lightning magic that bounces between enemies.<End>
+Магическая молния, мечущаяся между врагами.<End>-------------
+-------------Blitz Chaser<End>
+Шаровая молния<End>Releases lightning magic that bounces between enemies.<End>
+Магическая молния, мечущаяся между врагами.<End>-------------
+-------------Gold Rush<End>
+Золотая лихорадка<End>Hits enemies With an enlarged mace, revealing hidden gold.<End>
+Удар по врагам увеличенной булавой, выявляющий скрытое золото.<End>-------------
+-------------Gold Rush<End>
+Золотая лихорадка<End>Hits enemies With an enlarged mace, revealing hidden gold.<End>
+Удар по врагам увеличенной булавой, выявляющий скрытое золото.<End>-------------
+-------------Gold Rush<End>
+Золотая лихорадка<End>Hits enemies With an enlarged mace, revealing hidden gold.<End>
+Удар по врагам увеличенной булавой, выявляющий скрытое золото.<End>-------------
+-------------Stun Impact<End>
+Оглушающий удар<End>Hits earth forcefully And summons lightning. Stuns easily.<End>
+Сильный удар по земле, призывающий молнию. Легко оглушает.<End>-------------
+-------------Stun Impact<End>
+Оглушающий удар<End>Hits earth forcefully And summons lightning. Stuns easily.<End>
+Сильный удар по земле, призывающий молнию. Легко оглушает.<End>-------------
+-------------Stun Impact<End>
+Оглушающий удар<End>Hits earth forcefully And summons lightning. Stuns easily.<End>
+Сильный удар по земле, призывающий молнию. Легко оглушает.<End>-------------
+-------------Gigant Hammer<End>
+Огромный молот<End>Enlarges mace And slams its immense weight downward.<End>
+Булава увеличивается в размерах и обрушивается на врагов своим весом.<End>-------------
+-------------Gigant Hammer<End>
+Огромный молот<End>Enlarges mace And slams its immense weight downward.<End>
+Булава увеличивается в размерах и обрушивается на врагов своим весом.<End>-------------
+-------------Gigant Hammer<End>
+Огромный молот<End>Enlarges mace And slams its immense weight downward.<End>
+Булава увеличивается в размерах и обрушивается на врагов своим весом.<End>-------------
+-------------Triple Breaker<End>
+Тройное сокрушение<End>Three powerful mace blows followed by explosive lightning.<End>
+Три мощных удара, сопровождающихся взрывной молнией.<End>-------------
+-------------Triple Breaker<End>
+Тройное сокрушение<End>Three powerful mace blows followed by explosive lightning.<End>
+Три мощных удара, сопровождающихся взрывной молнией.<End>-------------
+-------------Triple Breaker<End>
+Тройное сокрушение<End>Three powerful mace blows followed by explosive lightning.<End>
+Три мощных удара, сопровождающихся взрывной молнией.<End>-------------
+-------------Thunder Strike<End>
+Громовой удар<End>EXTRA Skill.<End>
+ЭКСТРА навык.<End>-------------
+-------------Purgatory<End>
+Чистилище<End>EXTRA Skill.<End>
+ЭКСТРА навык.<End>-------------
+-------------Hurricane Spin<End>
+Ураганное вращение<End>Spins halberd, aiming For the feet of surrounding enemies.<End>
+Вращение алебардой, бьющее окружающих врагов по ногам.<End>-------------
+-------------Hurricane Spin<End>
+Ураганное вращение<End>Spins halberd, aiming For the feet of surrounding enemies.<End>
+Вращение алебардой, бьющее окружающих врагов по ногам.<End>-------------
+-------------Hurricane Spin<End>
+Ураганное вращение<End>Spins halberd, aiming For the feet of surrounding enemies.<End>
+Вращение алебардой, бьющее окружающих врагов по ногам.<End>-------------
+-------------Ice Pillar<End>
+Ледяной столп<End>Summons a sharp ice pillar To launch an enemy upward.<End>
+Призыв ледяного столпа, подбрасывающего врага вверх.<End>-------------
+-------------Ice Pillar<End>
+Ледяной столп<End>Summons a sharp ice pillar To launch an enemy upward.<End>
+Призыв ледяного столпа, подбрасывающего врага вверх.<End>-------------
+-------------Ice Pillar<End>
+Ледяной столп<End>Summons a sharp ice pillar To launch an enemy upward.<End>
+Призыв ледяного столпа, подбрасывающего врага вверх.<End>-------------
+-------------Fairy Strike<End>
+Удар феи<End>Summons Nina To force a drop item from the enemy's grip.<END>
+Призыв Нины, которая выбивает предмет из рук врага.<END>-------------
+-------------Fairy Strike<End>
+Удар феи<End>Summons Nina To force a drop item from the enemy's grip.<END>
+Призыв Нины, которая выбивает предмет из рук врага.<END>-------------
+-------------Fairy Strike<End>
+Удар феи<End><End>
+<End>

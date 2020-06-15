@@ -1,0 +1,285 @@
+<<POS_3_1>><<START>>
+Am I a Swordsman?<<END_STR>>
+<<POS_3_4>>
+Countless voices speak of 'swords.'<<END_STR>>
+<<END>>
+<<POS_4_1>><<START>>
+The Tower<<END_STR>>
+<<POS_4_4>>
+A tower pierces the thundery skies.<<END_STR>>
+<<END>>
+<<POS_5_1>><<START>>
+The Harp Player<<END_STR>>
+<<POS_5_4>>
+Tales of a fallen kingdom.<<END_STR>>
+<<END>>
+<<POS_6_1>><<START>>
+The Forest Siblings<<END_STR>>
+<<POS_6_4>>
+Guided around Comodo by two siblings.<<END_STR>>
+<<END>>
+<<POS_7_1>><<START>>
+The Sacred Beasts<<END_STR>>
+<<POS_7_4>>
+Adol talks with a youth while riding down the river.<<END_STR>>
+<<END>>
+<<POS_8_1>><<START>>
+Meeting Ozma<<END_STR>>
+<<POS_8_4>>
+Adol meets a youth who raises Spardas.<<END_STR>>
+<<END>>
+<<POS_9_1>><<START>>
+A Gentle Voice<<END_STR>>
+<<POS_9_4>>
+A gentle voice speaks to Adol.<<END_STR>>
+<<END>>
+<<POS_10_1>><<START>>
+Eldeel and Leeza<<END_STR>>
+<<POS_10_4>>
+Encountering a mysterious winged man.<<END_STR>>
+<<END>>
+<<POS_11_1>><<START>>
+Peaceful Times<<END_STR>>
+<<POS_11_4>>
+Adol spends time with Eldeel and Leeza.<<END_STR>>
+<<END>>
+<<POS_12_1>><<START>>
+Black-Winged Assailant<<END_STR>>
+<<POS_12_4>>
+Pursued by the black-winged Eldeel.<<END_STR>>
+<<END>>
+<<POS_13_1>><<START>>
+Eldeel's Concerns<<END_STR>>
+<<POS_13_4>>
+Eldeel expresses concerns about his duty.<<END_STR>>
+<<END>>
+<<POS_14_1>><<START>>
+Black Omens<<END_STR>>
+<<POS_14_4>>
+The dark side of Eldeel's heart.<<END_STR>>
+<<END>>
+<<POS_15_1>><<START>>
+Truth of the Spardas<<END_STR>>
+<<POS_15_4>>
+The Spardas' origins and Selray's error.<<END_STR>>
+<<END>>
+<<POS_16_1>><<START>>
+The King and Eldeel<<END_STR>>
+<<POS_16_4>>
+A conversation between Eldeel and Lefance.<<END_STR>>
+<<END>>
+<<POS_17_1>><<START>>
+The Two Masks<<END_STR>>
+<<POS_17_4>>
+The Mask of the Moon is conferred to Lefance.<<END_STR>>
+<<END>>
+<<POS_18_1>><<START>>
+The 'Adventurer'<<END_STR>>
+<<POS_18_4>>
+Eldeel awards Adol a title.<<END_STR>>
+<<END>>
+<<POS_19_1>><<START>>
+Inquisitiveness<<END_STR>>
+<<POS_19_4>>
+A traveler visits Adol's village.<<END_STR>>
+<<END>>
+<<POS_20_1>><<START>>
+A Peddler's Tale<<END_STR>>
+<<POS_20_4>>
+A young man listens to tales of the world, enthralled.<<END_STR>>
+<<END>>
+<<POS_21_1>><<START>>
+A Small Adventure<<END_STR>>
+<<POS_21_4>>
+A young man seeks the ocean.<<END_STR>>
+<<END>>
+<<POS_22_1>><<START>>
+My Inspirational Father<<END_STR>>
+<<POS_22_4>>
+Adol first hears of his father's past.<<END_STR>>
+<<END>>
+<<POS_23_1>><<START>>
+The Day of Departure<<END_STR>>
+<<POS_23_4>>
+Adol leaves the village where he grew up.<<END_STR>>
+<<END>>
+<<POS_24_1>><<START>>
+A Familiar Stranger (1)<<END_STR>>
+<<POS_24_4>>
+Talking with a man who seems to have been a close friend.<<END_STR>>
+<<END>>
+<<POS_25_1>><<START>>
+A Familiar Stranger (2)<<END_STR>>
+<<POS_25_4>>
+Temporarily parting ways with the man.<<END_STR>>
+<<END>>
+<<POS_26_1>><<START>>
+The Forest Labyrinth<<END_STR>>
+<<POS_26_4>>
+Adol becomes lost in the Forest Labyrinth.<<END_STR>>
+<<END>>
+<<POS_27_1>><<START>>
+The River at Dusk<<END_STR>>
+<<POS_27_4>>
+Ozma hesitates to ask a favor of Adol.<<END_STR>>
+<<END>>
+<<POS_28_1>><<START>>
+Night in Selray<<END_STR>>
+<<POS_28_4>>
+Adol receives a warm welcome from Selray.<<END_STR>>
+<<END>>
+<<POS_29_1>><<START>>
+Rite of Summoning<<END_STR>>
+<<POS_29_4>>
+Adol meets Leeza and is filled with questions.<<END_STR>>
+<<END>>
+<<POS_30_1>><<START>>
+Apprentice Apostle<<END_STR>>
+<<POS_30_4>>
+Adol meets with Calilica, who admires him.<<END_STR>>
+<<END>>
+<<POS_31_1>><<START>>
+Mr. Popular<<END_STR>>
+<<POS_31_4>>
+The residents of Highland shower Adol with questions.<<END_STR>>
+<<END>>
+<<POS_32_1>><<START>>
+The Hidden Room<<END_STR>>
+<<POS_32_4>>
+A mysterious room filled with wondrous things.<<END_STR>>
+<<END>>
+<<POS_33_1>><<START>>
+The Naive One<<END_STR>>
+<<POS_33_4>>
+An information dealer cares for a collapsed Adol.<<END_STR>>
+<<END>>
+<<POS_34_1>><<START>>
+Reminiscence<<END_STR>>
+<<POS_34_4>>
+Frieda remembers those who have departed.<<END_STR>>
+<<END>>
+<<POS_35_1>><<START>>
+Woman and Beast<<END_STR>>
+<<POS_35_4>>
+A conversation between Griselda and Leo.<<END_STR>>
+<<END>>
+<<POS_36_1>><<START>>
+The Two Commanders<<END_STR>>
+<<POS_36_4>>
+Leo and Remnos' unusual relationship.<<END_STR>>
+<<END>>
+<<POS_37_1>><<START>>
+Queen Rabbit<<END_STR>>
+<<POS_37_4>>
+The bonds of two fleeing explorers.<<END_STR>>
+<<END>>
+<<POS_38_1>><<START>>
+Day in the Life of a Roo<<END_STR>>
+<<POS_38_4>>
+A day in the life of sacred beasts.<<END_STR>>
+<<END>>
+<<POS_39_1>><<START>>
+Aldovoss<<END_STR>>
+<<POS_39_4>>
+Aldovoss, the Awakening Armored Beast.<<END_STR>>
+<<END>>
+<<POS_40_1>><<START>>
+Melldrabie<<END_STR>>
+<<POS_40_4>>
+Melldrabie, the Purgatorial Hornet.<<END_STR>>
+<<END>>
+<<POS_41_1>><<START>>
+Glucarius<<END_STR>>
+<<POS_41_4>>
+Glucarius, the Great Squilla of Extermination.<<END_STR>>
+<<END>>
+<<POS_42_1>><<START>>
+Volnake<<END_STR>>
+<<POS_42_4>>
+Volnake, Serpent of the Rapids.<<END_STR>>
+<<END>>
+<<POS_43_1>><<START>>
+Angoraboras<<END_STR>>
+<<POS_43_4>>
+Angoraboras, the Gluttonous Tyrant.<<END_STR>>
+<<END>>
+<<POS_44_1>><<START>>
+Elvaron<<END_STR>>
+<<POS_44_4>>
+Elvaron, the Blue Cavalier.<<END_STR>>
+<<END>>
+<<POS_45_1>><<START>>
+Krell-Emecia 1<<END_STR>>
+<<POS_45_4>>
+Krell Emecia, the Storm Guardian.<<END_STR>>
+<<END>>
+<<POS_46_1>><<START>>
+Krell-Emecia 2<<END_STR>>
+<<POS_46_4>>
+Krell Emecia, the Storm Guardian.<<END_STR>>
+<<END>>
+<<POS_47_1>><<START>>
+Sol-Galba 1<<END_STR>>
+<<POS_47_4>>
+Sol-Galba, the White Galbalan.<<END_STR>>
+<<END>>
+<<POS_48_1>><<START>>
+Ribbi-Roi<<END_STR>>
+<<POS_48_4>>
+Ribbi-Roi, the Master of the Grotto.<<END_STR>>
+<<END>>
+<<POS_49_1>><<START>>
+Mustrum<<END_STR>>
+<<POS_49_4>>
+Mustrum, the Deformed Nightmare.<<END_STR>>
+<<END>>
+<<POS_50_1>><<START>>
+Gadis<<END_STR>>
+<<POS_50_4>>
+Gadis, the Sadistic Beast-Tamer.<<END_STR>>
+<<END>>
+<<POS_51_1>><<START>>
+Bami<<END_STR>>
+<<POS_51_4>>
+Bami, the Enchanting Magician.<<END_STR>>
+<<END>>
+<<POS_52_1>><<START>>
+Sol-Galba 2<<END_STR>>
+<<POS_52_4>>
+Sol-Galba, the Muddled Galbalan.<<END_STR>>
+<<END>>
+<<POS_53_1>><<START>>
+Eldeel<<END_STR>>
+<<POS_53_4>>
+Eldeel, the Black-Winged God.<<END_STR>>
+<<END>>
+<<POS_54_1>><<START>>
+Girguzalm<<END_STR>>
+<<POS_54_4>>
+Girguzalm, the Bronze Colossus.<<END_STR>>
+<<END>>
+<<POS_55_1>><<START>>
+Zerivutz<<END_STR>>
+<<POS_55_4>>
+Zerivutz, the Silver Colossus.<<END_STR>>
+<<END>>
+<<POS_56_1>><<START>>
+Bulaghoul<<END_STR>>
+<<POS_56_4>>
+Bulaghoul, the Golden Colossus.<<END_STR>>
+<<END>>
+<<POS_57_1>><<START>>
+Akasha-Glyph<<END_STR>>
+<<POS_57_4>>
+Akasha-Glyph, the False God of Causality.<<END_STR>>
+<<END>>
+<<POS_58_1>><<START>>
+Phantom Gruda<<END_STR>>
+<<POS_58_4>>
+Phantom Gruda, the Hollow Specter.<<END_STR>>
+<<END>>
+<<POS_59_1>><<START>>
+Boss Rush<<END_STR>>
+<<POS_59_4>>
+Battle against all bosses in succession.<<END_STR>>
+<<END>>

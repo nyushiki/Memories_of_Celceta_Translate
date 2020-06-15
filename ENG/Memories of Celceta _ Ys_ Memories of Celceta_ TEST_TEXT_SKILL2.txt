@@ -1,0 +1,495 @@
+﻿Aura Fencer<End>
+Pierces enemies in front With a blast of light.<End>
+-------------
+Aura Fencer<End>
+Pierces enemies in front With a blast of light.<End>
+-------------
+Aura Fencer<End>
+Pierces enemies in front With a blast of light.<End>
+-------------
+Sol Breaker<End>
+EXTRA Skill.<End>
+-------------
+Arc Strike<End>
+EXTRA Skill.<End>
+-------------
+Shell Cracker<End>
+Spins in mid-air then descends, crushing enemies below.<End>
+-------------
+Shell Cracker<End>
+Spins in mid-air then descends, crushing enemies below.<End>
+-------------
+Shell Cracker<End>
+Spins in mid-air then descends, crushing enemies below.<End>
+-------------
+Swallow Kick<End>
+Unleashes a powerful kick, launching enemies upward.<End>
+-------------
+Swallow Kick<End>
+Unleashes a powerful kick, launching enemies upward.<End>
+-------------
+Swallow Kick<End>
+Unleashes a powerful kick, launching enemies upward.<End>
+-------------
+Sliding Strike<End>
+Slides forward, damaging enemies in a straight line.<End>
+-------------
+Sliding Strike<End>
+Slides forward, damaging enemies in a straight line.<End>
+-------------
+Sliding Strike<End>
+Slides forward, damaging enemies in a straight line.<End>
+-------------
+Chaotic Aura<End>
+While active, all damage To And from Duren is critical.<End>
+-------------
+Chaotic Aura<End>
+While active, all damage To And from Duren is critical.<End>
+-------------
+Chaotic Aura<End>
+While active, all damage To And from Duren is critical.<End>
+-------------
+Jaw Breaker<End>
+Charges energy before unleashing a powerful uppercut.<End>
+-------------
+Jaw Breaker<End>
+Charges energy before unleashing a powerful uppercut.<End>
+-------------
+Jaw Breaker<End>
+Charges energy before unleashing a powerful uppercut.<End>
+-------------
+Deadly Counter<End>
+Predicts enemy attack, using chance To deal great damage.<End>
+-------------
+Deadly Counter<End>
+Predicts enemy attack, using chance To deal great damage.<End>
+-------------
+Deadly Counter<End>
+Predicts enemy attack, using chance To deal great damage.<End>
+-------------
+Wild Assault<End>
+Kicks forwards With full strength.<End>
+-------------
+Wild Assault<End>
+Kicks forwards With full strength.<End>
+-------------
+Wild Assault<End>
+Kicks forwards With full strength.<End>
+-------------
+Abyss Gazer<End>
+Sends a shock wave across the ground toward an enemy.<End>
+-------------
+Abyss Gazer<End>
+Sends a shock wave across the ground toward an enemy.<End>
+-------------
+Abyss Gazer<End>
+Sends a shock wave across the ground toward an enemy.<End>
+-------------
+Dragon Kick<End>
+Sends enemies flying With an energy-imbued kick.<End>
+-------------
+Dragon Kick<End>
+Sends enemies flying With an energy-imbued kick.<End>
+-------------
+Dragon Kick<End>
+Sends enemies flying With an energy-imbued kick.<End>
+-------------
+Phoenix Kick<End>
+Kicks enemy upward, then kicks even more While airborne.<End>
+-------------
+Phoenix Kick<End>
+Kicks enemy upward, then kicks even more While airborne.<End>
+-------------
+Phoenix Kick<End>
+Kicks enemy upward, then kicks even more While airborne.<End>
+-------------
+Pulverizing Strike<End>
+EXTRA Skill.<End>
+-------------
+Detonating Impact<End>
+EXTRA Skill.<End>
+-------------
+Homing Knives<End>
+Throws several knives directly at the target.<End>
+-------------
+Homing Knives<End>
+Throws several knives directly at the target.<End>
+-------------
+Homing Knives<End>
+Throws several knives directly at the target.<End>
+-------------
+Poison Dagger<End>
+Throws a poison-coated dagger at one enemy. Causes Poison.<End>
+-------------
+Poison Dagger<End>
+Throws a poison-coated dagger at one enemy. Causes Poison.<End>
+-------------
+Poison Dagger<End>
+Throws a poison-coated dagger at one enemy. Causes Poison.<End>
+-------------
+Knife Spin<End>
+Throws knives which spin wildly, dealing area damage.<End>
+-------------
+Knife Spin<End>
+Throws knives which spin wildly, dealing area damage.<End>
+-------------
+Knife Spin<End>
+Throws knives which spin wildly, dealing area damage.<End>
+-------------
+Wind Edge<End>
+Throws a wind-shrouded knife, knocking foes back.<End>
+-------------
+Wind Edge<End>
+Throws a wind-shrouded knife, knocking foes back.<End>
+-------------
+Wind Edge<End>
+Throws a wind-shrouded knife, knocking foes back.<End>
+-------------
+Shock Spark<End>
+Creates lightning in mid-air from knives. Can paralyze.<End>
+-------------
+Shock Spark<End>
+Creates lightning in mid-air from knives. Can paralyze.<End>
+-------------
+Shock Spark<End>
+Creates lightning in mid-air from knives. Can paralyze.<End>
+-------------
+Mistral Spin<End>
+Spins, creating a tornado that launches enemies upward.<End>
+-------------
+Mistral Spin<End>
+Spins, creating a tornado that launches enemies upward.<End>
+-------------
+Mistral Spin<End>
+Spins, creating a tornado that launches enemies upward.<End>
+-------------
+Cyclone Edge<End>
+Launches tornado knife forward, knocking enemies back.<End>
+-------------
+Cyclone Edge<End>
+Launches tornado knife forward, knocking enemies back.<End>
+-------------
+Cyclone Edge<End>
+Launches tornado knife forward, knocking enemies back.<End>
+-------------
+Tornado Blast<End>
+Throws knives into ground, which then erupt below enemies.<End>
+-------------
+Tornado Blast<End>
+Throws knives into ground, which then erupt below enemies.<End>
+-------------
+Tornado Blast<End>
+Throws knives into ground, which then erupt below enemies.<End>
+-------------
+Napalm Shot<End>
+Throws knives full of gunpowder, creating a big explosion.<End>
+-------------
+Napalm Shot<End>
+Throws knives full of gunpowder, creating a big explosion.<End>
+-------------
+Napalm Shot<End>
+Throws knives full of gunpowder, creating a big explosion.<End>
+-------------
+Kaleido Spike<End>
+Throws countless knives followed by a powerful tackle.<End>
+-------------
+Kaleido Spike<End>
+Throws countless knives followed by a powerful tackle.<End>
+-------------
+Kaleido Spike<End>
+Throws countless knives followed by a powerful tackle.<End>
+-------------
+Violent Tempest<End>
+Rains countless arrows downward upon enemies.<End>
+-------------
+Last Resort<End>
+Rains countless arrows downward upon enemies.<End>
+-------------
+Crag Spear<End>
+Launches enemies upward With an earth pillar.<End>
+-------------
+Crag Spear<End>
+Launches enemies upward With an earth pillar.<End>
+-------------
+Crag Spear<End>
+Launches enemies upward With an earth pillar.<End>
+-------------
+Whirlwind<End>
+Spins spear at high speed, launching enemies upward.<End>
+-------------
+Whirlwind<End>
+Spins spear at high speed, launching enemies upward.<End>
+-------------
+Whirlwind<End>
+Spins spear at high speed, launching enemies upward.<End>
+-------------
+Aqua Pressure<End>
+Attacks With a violent current, causing Heavy status.<End>
+-------------
+Aqua Pressure<End>
+Attacks With a violent current, causing Heavy status.<End>
+-------------
+Aqua Pressure<End>
+Attacks With a violent current, causing Heavy status.<End>
+-------------
+Gaia Wall<End>
+Summons the power of the earth To raise the party's DEF.<END>
+-------------
+Gaia Wall<End>
+Summons the power of the earth To raise the party's DEF.<END>
+-------------
+Gaia Wall<End>
+Summons the power of the earth To raise the party's DEF.<END>
+-------------
+Tiger Flash<End>
+Releases a single concentrated thrust forward.<End>
+-------------
+Tiger Flash<End>
+Releases a single concentrated thrust forward.<End>
+-------------
+Tiger Flash<End>
+Releases a single concentrated thrust forward.<End>
+-------------
+Falcon Dive<End>
+Jumps into air, thrusting forward at high speed.<End>
+-------------
+Falcon Dive<End>
+Jumps into air, thrusting forward at high speed.<End>
+-------------
+Falcon Dive<End>
+Jumps into air, thrusting forward at high speed.<End>
+-------------
+Water Prison<End>
+Creates sphere of water, dealing multiple hits To enemies.<End>
+-------------
+Water Prison<End>
+Creates sphere of water, dealing multiple hits To enemies.<End>
+-------------
+Water Prison<End>
+Creates sphere of water, dealing multiple hits To enemies.<End>
+-------------
+Tidal Ascent<End>
+Charges forward, launching foes upward With a current.<End>
+-------------
+Tidal Ascent<End>
+Charges forward, launching foes upward With a current.<End>
+-------------
+Tidal Ascent<End>
+Charges forward, launching foes upward With a current.<End>
+-------------
+Crag Burst<End>
+Pierces ground, creating earth pillars in a wide area.<End>
+-------------
+Crag Burst<End>
+Pierces ground, creating earth pillars in a wide area.<End>
+-------------
+Crag Burst<End>
+Pierces ground, creating earth pillars in a wide area.<End>
+-------------
+Gaia Spear<End>
+Overpowers enemies With a series of powerful attacks.<End>
+-------------
+Gaia Spear<End>
+Overpowers enemies With a series of powerful attacks.<End>
+-------------
+Gaia Spear<End>
+Overpowers enemies With a series of powerful attacks.<End>
+-------------
+Relentless Assault<End>
+EXTRA Skill.<End>
+-------------
+Divine Maelstrom<End>
+EXTRA Skill.<End>
+-------------
+Gravity Sphere<End>
+Creates a force field that sucks in foes And damages them.<End>
+-------------
+Gravity Sphere<End>
+Creates a force field that sucks in foes And damages them.<End>
+-------------
+Gravity Sphere<End>
+Creates a force field that sucks in foes And damages them.<End>
+-------------
+Double Impact<End>
+Launches enemies upward before slamming them back down.<End>
+-------------
+Double Impact<End>
+Launches enemies upward before slamming them back down.<End>
+-------------
+Double Impact<End>
+Launches enemies upward before slamming them back down.<End>
+-------------
+Thunder Spheres<End>
+Summons autonomous artifacts For combat support.<End>
+-------------
+Thunder Spheres<End>
+Summons autonomous artifacts For combat support.<End>
+-------------
+Thunder Spheres<End>
+Summons autonomous artifacts For combat support.<End>
+-------------
+Magical Launcher<End>
+Launches the tip of the mace, damaging distant enemies.<End>
+-------------
+Magical Launcher<End>
+Launches the tip of the mace, damaging distant enemies.<End>
+-------------
+Magical Launcher<End>
+Launches the tip of the mace, damaging distant enemies.<End>
+-------------
+Power Swing<End>
+Swings mace forward, using its magic To increase damage.<End>
+-------------
+Power Swing<End>
+Swings mace forward, using its magic To increase damage.<End>
+-------------
+Power Swing<End>
+Swings mace forward, using its magic To increase damage.<End>
+-------------
+Blitz Chaser<End>
+Releases lightning magic that bounces between enemies.<End>
+-------------
+Blitz Chaser<End>
+Releases lightning magic that bounces between enemies.<End>
+-------------
+Blitz Chaser<End>
+Releases lightning magic that bounces between enemies.<End>
+-------------
+Gold Rush<End>
+Hits enemies With an enlarged mace, revealing hidden gold.<End>
+-------------
+Gold Rush<End>
+Hits enemies With an enlarged mace, revealing hidden gold.<End>
+-------------
+Gold Rush<End>
+Hits enemies With an enlarged mace, revealing hidden gold.<End>
+-------------
+Stun Impact<End>
+Hits earth forcefully And summons lightning. Stuns easily.<End>
+-------------
+Stun Impact<End>
+Hits earth forcefully And summons lightning. Stuns easily.<End>
+-------------
+Stun Impact<End>
+Hits earth forcefully And summons lightning. Stuns easily.<End>
+-------------
+Gigant Hammer<End>
+Enlarges mace And slams its immense weight downward.<End>
+-------------
+Gigant Hammer<End>
+Enlarges mace And slams its immense weight downward.<End>
+-------------
+Gigant Hammer<End>
+Enlarges mace And slams its immense weight downward.<End>
+-------------
+Triple Breaker<End>
+Three powerful mace blows followed by explosive lightning.<End>
+-------------
+Triple Breaker<End>
+Three powerful mace blows followed by explosive lightning.<End>
+-------------
+Triple Breaker<End>
+Three powerful mace blows followed by explosive lightning.<End>
+-------------
+Thunder Strike<End>
+EXTRA Skill.<End>
+-------------
+Purgatory<End>
+EXTRA Skill.<End>
+-------------
+Hurricane Spin<End>
+Spins halberd, aiming For the feet of surrounding enemies.<End>
+-------------
+Hurricane Spin<End>
+Spins halberd, aiming For the feet of surrounding enemies.<End>
+-------------
+Hurricane Spin<End>
+Spins halberd, aiming For the feet of surrounding enemies.<End>
+-------------
+Ice Pillar<End>
+Summons a sharp ice pillar To launch an enemy upward.<End>
+-------------
+Ice Pillar<End>
+Summons a sharp ice pillar To launch an enemy upward.<End>
+-------------
+Ice Pillar<End>
+Summons a sharp ice pillar To launch an enemy upward.<End>
+-------------
+Fairy Strike<End>
+Summons Nina To force a drop item from the enemy's grip.<END>
+-------------
+Fairy Strike<End>
+Summons Nina To force a drop item from the enemy's grip.<END>
+-------------
+Fairy Strike<End>
+Summons Nina To force a drop item from the enemy's grip.<END>
+-------------
+Demonic Edge<End>
+Uses fighting spirit To raise the party's STR.<END>
+-------------
+Demonic Edge<End>
+Uses fighting spirit To raise the party's STR.<END>
+-------------
+Demonic Edge<End>
+Uses fighting spirit To raise the party's STR.<END>
+-------------
+Demonic Vortex<End>
+Creates a vortex, drawing in enemies For multiple hits.<End>
+-------------
+Demonic Vortex<End>
+Creates a vortex, drawing in enemies For multiple hits.<End>
+-------------
+Demonic Vortex<End>
+Creates a vortex, drawing in enemies For multiple hits.<End>
+-------------
+Icicle Drop<End>
+Attacks With a block of ice from above. Causes Freezing.<End>
+-------------
+Icicle Drop<End>
+Attacks With a block of ice from above. Causes Freezing.<End>
+-------------
+Icicle Drop<End>
+Attacks With a block of ice from above. Causes Freezing.<End>
+-------------
+Phosphorous Moon<End>
+Approaches foe, thrusting forward And launching upward.<End>
+-------------
+Phosphorous Moon<End>
+Approaches foe, thrusting forward And launching upward.<End>
+-------------
+Phosphorous Moon<End>
+Approaches foe, thrusting forward And launching upward.<End>
+-------------
+Ice Javelin<End>
+Fires a continuous barrage of ice pillars from above.<End>
+-------------
+Ice Javelin<End>
+Fires a continuous barrage of ice pillars from above.<End>
+-------------
+Ice Javelin<End>
+Fires a continuous barrage of ice pillars from above.<End>
+-------------
+Cocytus Drive<End>
+Creates a line of ice pillars To launch enemies upward.<End>
+-------------
+Cocytus Drive<End>
+Creates a line of ice pillars To launch enemies upward.<End>
+-------------
+Cocytus Drive<End>
+Creates a line of ice pillars To launch enemies upward.<End>
+-------------
+Destruction Dance<End>
+Swings halberd repeatedly, then launches enemies upward.<End>
+-------------
+Destruction Dance<End>
+Swings halberd repeatedly, then launches enemies upward.<End>
+-------------
+Destruction Dance<End>
+Swings halberd repeatedly, then launches enemies upward.<End>
+-------------
+Frozen Prison<End>
+EXTRA Skill.<End>
+-------------
+Butterfly Assault<End>
+EXTRA Skill.<End>
+-------------
